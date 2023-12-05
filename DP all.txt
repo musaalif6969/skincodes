@@ -1,0 +1,92 @@
+976. [207001][20700100] Machine gun side baffle | The baffle can withstand bullets and will automatically unfold in prone position. It can be assembled on DP28 and M249
+21335. [2070011][207001100] Machine gun side baffle | The baffle can withstand bullets and will automatically unfold in prone position. It can be assembled on DP28 and M249
+24739. [12219548][12219548] Hall DP28 firearm inspection action |
+30601. [1040040181][1040040181] ##1-230-DP28 |
+30716. [1050020121][1050020121] Dangerous Island -DP28 Magazine |
+30717. [1050020131][1050020131] Bloodthirsty Bite -DP28 Magazine |
+30718. [1050020141][1050020141] Mysterious Killing -DP28 Magazine ( Level 1 ) |
+30719. [1050020151][1050020151] Mysterious Killing -DP28 Magazine ( Level 2 ) |
+30720. [1050020152][1050020152] Mysterious Killing -DP28 Death Box |
+30721. [1050020161][1050020161] Mysterious Killing -DP28 Magazine ( Level 3 ) |
+30722. [1050020171][1050020171] Mysterious Killing -DP28 Magazine ( Level 4 ) |
+30723. [1050020181][1050020181] Mysterious Killing -DP28 Magazine ( Level 5 ) |
+30724. [1050020199][1050020199] ###190DIY test gun DP28 magazine |
+30725. [1050020211][1050020211] ### Mysterious thread -DP28 magazine |
+30726. [1050020221][1050020221] Fatal Smile -DP28 Magazine |
+30727. [1050020231][1050020231] Colorful Aurora -DP28 Magazine |
+30728. [1050020241][1050020241] Time Bird -DP28 Magazine |
+30729. [1050020271][1050020271] ### Legendary Sheriff -DP28 Magazine |
+30730. [1050020281][1050020281] ### Steel Jungle -DP28 Magazine |
+30731. [1050020301][1050020301] S18 Season -DP28 Magazine |
+30732. [1050020311][1050020311] ###B.Duck-DP28 Magazine |
+30733. [1050020321][1050020321] ### Golden Jade Dragon -DP28 Magazine ( Level 2 ) |
+30734. [1050020322][1050020322] ### Golden Jade Dragon -DP28 Death Box |
+30735. [1050020331][1050020331] ### Golden Jade Dragon -DP28 Magazine ( Level 3 ) |
+30736. [1050020341][1050020341] ### Golden Jade Dragon -DP28 Magazine ( Level 4 ) |
+30737. [1050020351][1050020351] ### Golden Jade Dragon -DP28 Magazine ( Level 5 ) |
+30738. [1050020371][1050020371] ### Golden Jade Dragon -DP28 Magazine ( Level 1 ) |
+30739. [1050020381][1050020381] ### Traditional floral decoration -DP28 magazine |
+30740. [1050020401][1050020401] ### Surprise Messenger -DP28 Magazine |
+30741. [1050020411][1050020411] ##1-230-DP28 |
+30742. [1050020421][1050020421] ### Midnight Mo Lantern -DP28 Magazine |
+30743. [1050020451][1050020451] ### Retro Music -DP28 |
+30744. [1050020461][1050020461] ## Nebula Dream -DP28 |
+30745. [1050020471][1050020471] ### Colorful -DP28 |
+30746. [1050020481][1050020481] ## Music Night -DP28 |
+30747. [1050020511][1050020511] ## Precision Process -DP28 |
+30748. [1050020531][1050020531] ## Fresh Carrot -DP28 |
+30749. [1050020541][1050020541] ### Ocean Warrior -DP28 Magazine ( Level 1 ) |
+30750. [1050020551][1050020551] ### Ocean Warrior -DP28 Magazine ( Level 2 ) |
+30751. [1050020552][1050020552] 250DP28 Death Box ( Smoke ) |
+30752. [1050020561][1050020561] ### Ocean Warrior -DP28 Magazine ( Level 3 ) |
+30753. [1050020571][1050020571] ### Ocean Warrior -DP28 Magazine ( Level 4 ) |
+30754. [1050020581][1050020581] ### Ocean Warrior -DP28 Magazine ( Level 5 ) |
+30755. [1050020591][1050020591] ### Dragon 's Wrath -DP28 Magazine ( Level 1 ) |
+30756. [1050020592][1050020592] 270 Dragon 's Wrath DP28 Death Box ( Smoke ) |
+30757. [1050020601][1050020601] ### Dragon 's Wrath -DP28 Magazine ( Level 2 ) |
+30758. [1050020611][1050020611] ### Dragon 's Wrath -DP28 Magazine ( Level 3 ) |
+30759. [1050020621][1050020621] ### Dragon 's Wrath -DP28 Magazine ( Level 4 ) |
+30760. [1050020631][1050020631] ### Dragon 's Wrath -DP28 Magazine ( Level 5 ) |
+30761. [1050020641][1050020641] ## Happy Fool -DP28 Magazine |
+32504. [1105002012][1105002012] Dangerous Island -DP28 |
+32505. [1105002013][1105002013] Bloodthirsty Bite -DP28 |
+32506. [1105002014][1105002014] Mysterious Killing -DP28 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32507. [1105002015][1105002015] Mysterious Killing -DP28 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32508. [1105002016][1105002016] Mysterious Killing -DP28 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32509. [1105002017][1105002017] Mysterious Killing -DP28 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32510. [1105002018][1105002018] Mysterious Killing -DP28 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32511. [1105002021][1105002021] Mysterious Thread -DP28 |
+32512. [1105002022][1105002022] Fatal Smile -DP28 |
+32513.[1105002023][1105002023] Colorful Aurora -DP28 |
+32514. [1105002024] [1105002024] Time Bird -DP28 |
+32515. [1105002027][1105002027] Legendary Sheriff -DP28 |
+32516. [1105002028][1105002028] Steel Jungle -DP28 |
+32517. [1105002030][1105002030] S18 Season -DP28 |
+32518. [1105002031][1105002031] B.Duck-DP28 |
+32519. [1105002032][1105002032] Gold-Inlaid Jade Dragon -DP28 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32520. [1105002033][1105002033] Gold-Inlaid Jade Dragon -DP28 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32521. [1105002034] [1105002034] Gold-Inlaid Jade Dragon -DP28 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32522. [1105002035][1105002035] Gold-Inlaid Jade Dragon -DP28 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32523. [1105002037][1105002037] Gold-Inlaid Jade Dragon -DP28 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32524. [1105002038][1105002038] Traditional floral decoration -DP28 |
+32525. [1105002040][1105002040] Surprise Messenger -DP28 |
+32526. [1105002041][1105002041] Sky Traveler -DP28 |
+32527. [1105002042][1105002042] Midnight Mo Lantern -DP28 |
+32528. [1105002045][1105002045] Retro Music -DP28 |
+32529. [1105002046][1105002046] Nebula Dream -DP28 |
+32530. [1105002047][1105002047] Colorful -DP28 |
+32531. [1105002048][1105002048] Music Night -DP28 |
+32532. [1105002051][1105002051] Precision Process -DP28 |
+32533. [1105002053][1105002053] Fresh Carrot -DP28 |
+32534. [1105002054][1105002054] Ocean Warrior -DP28 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32535. [1105002055][1105002055] Ocean Warrior -DP28 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32536. [1105002056][1105002056] Ocean Warrior -DP28 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32537. [1105002057][1105002057] Ocean Warrior -DP28 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32538. [1105002058][1105002058] Ocean Warrior -DP28 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32539. [1105002059][1105002059] Dragon 's Wrath DP28 ( Level 1 ) | Dragon Ball Official Cooperation
+32540. [1105002060][1105002060] Dragon 's Wrath DP28 ( Level 2 ) | Dragon Ball Official Cooperation
+32541. [1105002061][1105002061] Dragon 's Wrath DP28 ( Level 3 ) | Dragon Ball Official Cooperation
+32542. [1105002062][1105002062] Dragon 's Wrath DP28 ( Level 4 ) | Dragon Ball Official Cooperation
+32543. [1105002063][1105002063] Dragon 's Wrath DP28 ( Level 5 ) | Dragon Ball Official Cooperation
+32544. [1105002064][1105002064] Joy the Fool -DP28 |
+32545. [1105002065][1105002065] Phantom Night Killer -DP28 |

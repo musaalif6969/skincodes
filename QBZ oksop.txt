@@ -1,0 +1,17 @@
+31478. [1101007021][1101007021] Brilliant Sun -QBZ ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31479. [1101007022][1101007022] Brilliant Sun -QBZ ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31480. [1101007023][1101007023] Brilliant Sun -QBZ ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31481. [1101007024][1101007024] Brilliant Sun -QBZ ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31482. [1101007025][1101007025] Brilliant Sun -QBZ ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31483. [1101007030][1101007030] Ultimate Kill -QBZ ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31484. [1101007031][1101007031] Ultimate Kill -QBZ ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31485. [1101007032][1101007032] Ultimate Kill -QBZ ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31488. [1101007035][1101007035] Ultimate Kill -QBZ ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31489. [1101007036][1101007036] Ultimate Kill -QBZ ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31493. [1101007040][1101007040] Guiqi Lingji -QBZ ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31494. [1101007041][1101007041] Guiqi Lingji -QBZ ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31495. [1101007042][1101007042] Guiqi Lingji -QBZ ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31496. [1101007043][1101007043] Guiqi Lingji -QBZ ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31497. [1101007044][1101007044] Guiqi Lingji -QBZ ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31498. [1101007045][1101007045] Guiqi Lingji -QBZ ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31499. [1101007046][1101007046] Guiqi Lingji -QBZ ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.

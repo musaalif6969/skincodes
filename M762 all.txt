@@ -1,0 +1,248 @@
+717. [101008][10100800] M762 automatic rifle | Modern assault rifle made in Poland .
+947. [204016][20401600] Parallel magazine ( automatic rifle ) | Significantly increases magazine capacity. AKM , M762 , M416 , M16A4 , SCAR _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+949. [204018][20401800] ### Parallel magazine pre-research | Significantly increase the magazine capacity. AKM , M762 , M416 , M16A4 , SCAR _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+1128. [291008][29100800] M762 assault rifle default magazine |
+2432. [1000021][0] Premium Rifle Value Pack | Try your luck ~ There is a certain probability of getting M416 automatic rifle (improved), M762 automatic rifle (?????easy? ???? ? ? ?pulver ? ? ? ? ?
+2452. [1000041][0] One-eyed Snake M762 Lucky Gift Pack | Get random props every time you use it , and there is a certain probability of getting the exquisite One-eyed Snake M762 automatic rifle.
+2453. [1000042][0] Steel Front M762 Lucky Gift Pack | Get random props every time you use it , and there is a certain probability of getting the exquisite Steel Front M762 automatic rifle.
+2536. [1010081][101008100] M762 Automatic Rifle (Broken) | Broken weapon with only a few accessories available
+2537. [1010082][101008200] M762 Automatic Rifle (Repaired) | The repaired weapon can be equipped with most accessories
+2538. [1010083][101008300] M762 automatic rifle (mint) | intact weapon, all accessories can be used
+2539. [1010084][101008400] M762 automatic rifle (improved) | Improved weapon, all accessories can be used, and the damage is increased by 15%
+2540. [1010085][101008500] M762 Automatic Rifle (Refined) | High-precision manufacturing of weapons, all accessories can be used, and the damage is increased by 30%
+2541. [1010086][101008600] M762 Automatic Rifle (One-Eyed Snake) | Special version of One-Eyed Snake, the damage is increased by 15% , the firing sound is reduced, and the recoil control is improved
+2542. [1010087][101008700] M762 Automatic Rifle (Steel Front) | Steel Front special edition, damage increased by 15% . Strengthen the durability, reload speed, and scope opening speed, and also improve the durability , reloading speed , and scope opening speed .
+2543. [1010089][101008900] M762 automatic rifle | Modern assault rifle made in Poland .
+2579. [1019081][101908100] M762 assault rifle default magazine |
+23821. [6004022][6004022] M762 Automatic Rifle - Gold Medal | Become a gun god! With this firearm, you are unstoppable and invincible!
+23822. [6004023][6004023] M762 automatic rifle - Silver | Man and gun in one! Facing powerful enemies, this firearm is your best partner!
+23823. [6004024][6004024] M762 Automatic Rifle - Bronze Medal | Missless shots! Your use of this firearm is already perfect!
+24089. [9988002][0] ###M762 Upgraded Gun | ###M762 Upgraded Gun
+24606. [12219413][12219413] ###M762 Firearms Inspection Action |
+24786. [12219599][12219599] ###260M762 Firearms inspection action |
+26406. [418004097][418004097] ### Romantic Movement -M762 Firearms Pendant |
+26418. [418004174][418004174] GacktM762 ???? ? ??? ? ???? |
+26422. [418004234][418004234] 220M762 ???? ? ??? ? ???? |
+26425. [418004260][418004260] 230M762 ???? ? ??? ? ???? |
+26427. [419004169][419004169] 190M762 ???? ? ??? ? ???? |
+27497. [1010011422][1010011422] GACKT-M762 Death Box |
+27499. [1010011432][1010011432] GACKT-M762 Death Box |
+27500. [1010011433][1010011433] GACKT-M762 Hall Death Box |
+28971. [1010080101][1010080101] Christmas Charm -M762 Magazine |
+28972. [1010080111][1010080111] Scarlet Evil Beast -M762 Magazine |
+28973. [1010080121][1010080121] ###240-M762 Magazine |
+28974. [1010080131][1010080131] ### Red Crown of Thorns -M762 |
+28975. [1010080141][1010080141] Photonic Chicken Anniversary -M762 Magazine |
+28976. [1010080151][1010080151] Flower Guard -M762 Magazine |
+28977. [1010080161][1010080161] Honeycomb -M762 Magazine |
+28978. [1010080171][1010080171] Golden Age -M762 Magazine |
+28979. [1010080181][1010080181] Sekihara Ares -M762 Magazine |
+28980. [1010080191][1010080191] ### Luoying -M762 Magazine |
+28981. [1010080201][1010080201] Toxic-Beryl-M762 Magazine |
+28982. [1010080211][1010080211] Deadly Hunter -M762 Magazine |
+28983. [1010080221][1010080221] BitBerry -M762 Magazine ( Level 1 ) |
+28984. [1010080231][1010080231] BitBerry -M762 Magazine ( Level 2 ) |
+28985. [1010080232][1010080232] BitBerry -M762 Death Box |
+28986. [1010080241][1010080241] BitBerry -M762 Magazine ( Level 3 ) |
+28987. [1010080251][1010080251] BitBerry -M762 Magazine ( Level 4 ) |
+28988. [1010080261][1010080261] BitBerry -M762 Magazine ( Level 5 ) |
+28989. [1010080291][1010080291] Mr. Mihu -M762 Magazine |
+28990. [1010080301][1010080301] Lovely Planet -M762 Magazine |
+28991. [1010080311][1010080311] Flame Silver Soul -M762 Magazine |
+28992. [1010080321][1010080321] Wrath of the Divine Lotus -M762 Magazine ( Level 1 ) |
+28993. [1010080331][1010080331] Wrath of the Divine Lotus -M762 Magazine ( Level 2 ) |
+28994. [1010080341][1010080341] Wrath of the Divine Lotus -M762 Magazine ( Level 3 ) |
+28995. [1010080351][1010080351] Wrath of the Divine Lotus -M762 Magazine ( Level 4 ) |
+28996. [1010080361][1010080361] Wrath of the Divine Lotus -M762 Magazine ( Level 5 ) |
+28997. [1010080391][1010080391] ### Dark Gold Emperor -M762 Magazine |
+28998. [1010080451][1010080451] Romantic Movement -M762 Magazine ( Level 1 ) |
+29007. [1010080461][1010080461] Romantic Movement -M762 Magazine ( Level 2 ) |
+29016. [1010080471][1010080471] Romantic Movement -M762 Magazine ( Level 3 ) |
+29019. [1010080474][1010080474] Romantic Movement -M762 Death Box |
+29020. [1010080481][1010080481] Romantic Movement -M762 Magazine ( Level 4 ) |
+29021. [1010080491][1010080491] Romantic Movement -M762 Magazine ( Level 5 ) |
+29022. [1010080501][1010080501] Romantic Movement -M762 Magazine ( Level 6 ) |
+29023. [1010080511][1010080511] Romantic Movement -M762 Magazine ( Level 7 ) |
+29024. [1010080512][1010080512] Romantic Movement -M762 Death Box |
+29025. [1010080513][1010080513] Romantic Movement -M762 Hall Death Box |
+29026. [1010080521][1010080521] Rainbow Wings -M762 Magazine |
+29027. [1010080531][1010080531] ### Painting Art -M762 Magazine |
+29028. [1010080541][1010080541] ### Withering Priest -M762 Magazine |
+29029. [1010080551][1010080551] ###1600-M762 Magazine |
+29038. [1010080561][1010080561] ###1600-M762 Magazine |
+29047. [1010080571][1010080571] ###1600-M762 Magazine |
+29050. [1010080574][1010080574] ###1600-M762 Death Box |
+29051. [1010080581][1010080581] ###1600-M762 Magazine |
+29052. [1010080591][1010080591] ###1600-M762 Magazine |
+29053. [1010080601][1010080601] ###1600-M762 Magazine |
+29062. [1010080611][1010080611] ###1600-M762 Magazine |
+29069. [1010080618][1010080618] ###1600-M762 Death Box |
+29070. [1010080619][1010080619] ###1600-M762 Hall Death Box |
+29071. [1010080621][1010080621] ### Golden Skull -M762 |
+29072. [1010080631][1010080631] ### Cute Mouse Girl -M762 Magazine |
+29073. [1010080641][1010080641] ###1600-M762 Magazine ( Level 1 ) |
+29074. [1010080651][1010080651] ###1600-M762 Magazine ( Level 2 ) |
+29075. [1010080661][1010080661] ###1600-M762 Magazine ( Level 3 ) |
+29076. [1010080671][1010080671] ###1600-M762 Magazine ( Level 4 ) |
+29077. [1010080681][1010080681] ###1600-M762 Magazine ( Level 5 ) |
+29078. [1010080691][1010080691] ###1600-M762 Magazine ( Level 6 ) |
+29079. [1010080692][1010080692] GACKT-M762 Death Box |
+29080. [1010080701][1010080701] ###1600-M762 Magazine ( Level 7 ) |
+29081. [1010080702][1010080702] GACKT-M762 Death Box |
+29082. [1010080703][1010080703] GACKT-M762 Hall Death Box |
+29083. [1010080711][1010080711] ###1800M762 Magazine |
+29084. [1010080721][1010080721] ###Shimmer Power-M762 Magazine |
+29085. [1010080731][1010080731] ### Perverse Stranger -M762 Magazine ( Level 1 ) |
+29095. [1010080741][1010080741] ### Perverse Stranger -M762 Magazine ( Level 2 ) |
+29096. [1010080742][1010080742] 190M762 Death Box in Combat (Smoke) |
+29102. [1010080751][1010080751] ### Perverse Stranger -M762 Magazine ( Level 3 ) |
+29103. [1010080761][1010080761] ### Perverse Stranger -M762 Magazine ( Level 4 ) |
+29104. [1010080771][1010080771] ### Perverse Stranger -M762 Magazine ( Level 5 ) |
+29105. [1010080781][1010080781] ### Perverse Stranger -M762 Magazine ( Level 6 ) |
+29106. [1010080791][1010080791] ### Perverse Stranger -M762 Magazine ( Level 7 ) |
+29107. [1010080792][1010080792] 190M762 Hall Death Box (Performance) |
+29108. [1010080793][1010080793] 190M762 Death Box in Combat (Box) |
+29109. [1010080794][1010080794] 190M762 Hall Death Box |
+29110. [1010080795][1010080795] 190M762 Death Box in Combat (Performance) |
+29111. [1010080801][1010080801] ###Gundala-M762 Magazine |
+29112. [1010080811][1010080811] ### Perverse Stranger -M762 Magazine ( Level 8 ) |
+29113. [1010080821][1010080821] ### Dr. Phantom Bear -M762 |
+29114. [1010080831][1010080831] ### Sharp Reed -M762 Magazine |
+29115. [1010080841][1010080841] ### Gold Foil Rose -M762 |
+29116. [1010080871][1010080871] ### Key of Destiny -M762 |
+29117. [1010080881][1010080881] ###????-M762 |
+29118. [1010080921][1010080921] ### Mechanical Feathered Serpent -M762 Magazine |
+29119. [1010080971][1010080971] ###220-M762 Magazine ( Level 1 ) |
+29129. [1010080981][1010080981] ###220-M762 Magazine ( Level 2 ) |
+29135. [1010080991][1010080991] ###220-M762 Magazine ( Level 3 ) |
+29136. [1010081001][1010081001] ###220-M762 Magazine ( Level 4 ) |
+29137. [1010081011][1010081011] ###220-M762 Magazine ( Level 5 ) |
+29138. [1010081021][1010081021] ###220-M762 Magazine ( Level 6 ) |
+29139. [1010081031][1010081031] ###220-M762 Magazine ( Level 7 ) |
+29140. [1010081041][1010081041] ###220-M762 Magazine ( Level 8 ) |
+29141. [1010081042][1010081042] 220M762 box ( smoke inside battle) |
+29142. [1010081043][1010081043] 220M762 Death Box ( box within battle) |
+29143. [1010081044][1010081044] 220M762 Death Box ( In-battle performance) |
+29144. [1010081045][1010081045] 220M762 Death Box ( Hall Box) |
+29145. [1010081046][1010081046] 220M762 Death Box ( Hall Performance) |
+29146. [1010081061][1010081061] ###240-M762 Magazine |
+29147. [1010081101][1010081101] ###1-230-M762 Magazine ( Level 1 ) |
+29157. [1010081111][1010081111] ###1-230-M762 Magazine ( Level 2 ) |
+29163. [1010081121][1010081121] ###1-230-M762 Magazine ( Level 3 ) |
+29164. [1010081131][1010081131] ###1-230-M762 Magazine ( Level 4 ) |
+29165. [1010081141][1010081141] ###1-230-M762 Magazine ( Level 5 ) |
+29166. [1010081151][1010081151] ###1-230-M762 Magazine ( Level 6 ) |
+29167. [1010081161][1010081161] ###1-230-M762 Magazine ( Level 7 ) |
+29168. [1010081162][1010081162] 230 Messi M762 Smoke (Smoke in Combat) |
+29169. [1010081163][1010081163] 230 Messi M762 Death Box ( Box In Combat) |
+29170. [1010081164][1010081164] 230 Messi M762 Death Box ( Hall Box) |
+29171. [1010081171][1010081171] ###240-M762 Magazine |
+29172. [1010081181][1010081181] ### Golden Tower Priest -M762 Magazine |
+29173. [1010081201][1010081201] ### Dragon Queen -M762 Magazine ( Level 1 ) |
+29183. [1010081211][1010081211] ### Dragon Queen -M762 Magazine ( Level 2 ) |
+29184. [1010081212][1010081212] 260M762 Death Box ( Smoke ) |
+29191. [1010081221][1010081221] ### Dragon Queen -M762 Magazine ( Level 3 ) |
+29192. [1010081231][1010081231] ### Dragon Queen -M762 Magazine ( Level 4 ) |
+29193. [1010081241][1010081241] ### Dragon Queen -M762 Magazine ( Level 5 ) |
+29194. [1010081251][1010081251] ### Dragon Queen -M762 Magazine ( Level 6 ) |
+29195. [1010081261][1010081261] ### Dragon Queen -M762 Magazine ( Level 7 ) |
+29196. [1010081262][1010081262] 260M762 Death Box ( Hall Box) |
+29197. [1010081263][1010081263] 260M762 Death Box ( Combat Box) |
+29198. [1010081271][1010081271] ###290-M762 Magazine |
+29199. [1010081281][1010081281] ###240-M762 Magazine |
+31504. [1101008010][1101008010] Christmas Charm -M762 |
+31505. [1101008011][1101008011] Scarlet Evil Beast -M762 |
+31506. [1101008012][1101008012] Ice Dragon Roar -M762 |
+31507. [1101008013][1101008013] Red Crown of Thorns -M762 |
+31508. [1101008014][1101008014] Photon Chicken Anniversary -M762 |
+31509. [1101008015][1101008015] Flower Guard -M762 |
+31510.[1101008016][1101008016] Hive -M762 |
+31511. [1101008017][1101008017] Golden Age -M762 |
+31512. [1101008018][1101008018] Sekihara God of War -M762 |
+31513. [1101008019][1101008019] Luo Ying -M762 |
+31514. [1101008020][1101008020] Toxic - Beryl M762 |
+31515. [1101008021][1101008021] Deadly Hunter -M762 |
+31516. [1101008022][1101008022] Bitbury -M762 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31517. [1101008023][1101008023] Bitbury -M762 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31518. [1101008024][1101008024] Bitbury -M762 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31519. [1101008025][1101008025] Bitbury -M762 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31520. [1101008026][1101008026] Bitbury -M762 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31521. [1101008029][1101008029] Mr. Mihu -M762 |
+31522. [1101008030][1101008030] Lovely Planet -M762 |
+31523. [1101008031][1101008031] Flame Silver Soul -M762 |
+31524. [1101008032][1101008032] Wrath of the Divine Lotus -M762 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31525. [1101008033][1101008033] Wrath of the Divine Lotus -M762 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31526. [1101008034][1101008034] Wrath of the Divine Lotus -M762 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31527. [1101008035][1101008035] Wrath of the Divine Lotus -M762 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31528. [1101008036][1101008036] Wrath of the Divine Lotus -M762 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31529. [1101008039][1101008039] Dark Gold Emperor -M762 |
+31530. [1101008045][1101008045] Romantic Movement -M762 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31531. [1101008046][1101008046] Romantic Movement -M762 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31532. [1101008047][1101008047] Romantic Movement -M762 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31533. [1101008048][1101008048] Romantic Movement -M762 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31534. [1101008049][1101008049] Romantic Movement -M762 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31535. [1101008050][1101008050] Romantic Movement -M762 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31536. [1101008051][1101008051] Romantic Movement -M762 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31537. [1101008052][1101008052] Rainbow Wings -M762 |
+31538. [1101008053][1101008053] Painting Art -M762 |
+31539. [1101008054][1101008054] Wither Priest -M762 |
+31540. [1101008055][1101008055] Precision Killing -M762 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31541. [1101008056][1101008056] Precision Killing -M762 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31542. [1101008057][1101008057] Precision Killing -M762 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31543. [1101008058][1101008058] Precision Killing -M762 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31544. [1101008059][1101008059] Precision Killing -M762 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31545. [1101008060][1101008060] Precision Killing -M762 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31546. [1101008061][1101008061] Precision Killing -M762 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31547. [1101008062][1101008062] Golden Skull -M762 |
+31548. [1101008063][1101008063] Cute Mouse Girl -M762 |
+31549. [1101008064][1101008064] GACKT-M762 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31550. [1101008065][1101008065] GACKT-M762 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31551. [1101008066][1101008066] GACKT-M762 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31552. [1101008067][1101008067] GACKT-M762 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31553. [1101008068][1101008068] GACKT-M762 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31554. [1101008069][1101008069] GACKT-M762 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31555. [1101008070][1101008070] GACKT-M762 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31556. [1101008071][1101008071] Golden branches -M762 |
+31557. [1101008072][1101008072] The power of mystery -M762 |
+31558. [1101008073][1101008073] Perverse Stranger -M762 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31559. [1101008074][1101008074] Perverse Stranger -M762 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31560. [1101008075][1101008075] Perverse Stranger -M762 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31561. [1101008076][1101008076] Perverse Stranger -M762 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31562. [1101008077][1101008077] Perverse Stranger -M762 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31563. [1101008078][1101008078] Perverse Stranger -M762 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31564. [1101008079][1101008079] Perverse Stranger -M762 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31565. [1101008080][1101008080] Gundala-M762 |
+31566. [1101008081][1101008081] Perverse Stranger -M762 ( Level 8 ) | Can be upgraded in the research institute to obtain additional effects.
+31567. [1101008082][1101008082] Dr. Phantom Bear -M762 |
+31568. [1101008083][1101008083] Sharp Reed -M762 |
+31569. [1101008084][1101008084] Gold Foil Rose -M762 |
+31570. [1101008087][1101008087] Key to Destiny -M762 |
+31571. [1101008088][1101008088] Star Succubus -M762 |
+31572. [1101008092][1101008092] Mechanical Feathered Serpent -M762 |
+31573. [1101008097][1101008097] Nebula Machinery -M762 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31574. [1101008098][1101008098] Nebula Machinery -M762 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31575. [1101008099][1101008099] Nebula Machinery -M762 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31576. [1101008100][1101008100] Nebula Machinery -M762 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31577. [1101008101][1101008101] Nebula Machinery -M762 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31578. [1101008102][1101008102] Nebula Machinery -M762 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31579. [1101008103][1101008103] Nebula Machinery -M762 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31580. [1101008104][1101008104] Nebula Machinery -M762 ( Level 8 ) | Can be upgraded in the research institute to obtain additional effects.
+31581. [1101008106][1101008106] Snow Girl -M762 |
+31582. [1101008110][1101008110] Messi Green Legend M762 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31583. [1101008111][1101008111] Messi Green Legend M762 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31584. [1101008112][1101008112] Messi Green Legend M762 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31585. [1101008113][1101008113] Messi Green Legend M762 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31586. [1101008114][1101008114] Messi Green Legend M762 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31587. [1101008115][1101008115] Messi Green Legend M762 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31588. [1101008116][1101008116] Messi Green Legend M762 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31589. [1101008117][1101008117] Secret Blue Dragon Song -M762 |
+31590. [1101008118][1101008118] Golden Tower Priest -M762 |
+31591. [1101008120][1101008120] Dragon Queen -M762 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31592. [1101008121][1101008121] Dragon Queen -M762 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31593. [1101008122][1101008122] Dragon Queen -M762 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31594. [1101008123][1101008123] Dragon Queen -M762 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31595. [1101008124][1101008124] Dragon Queen -M762 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31596. [1101008125][1101008125] Dragon Queen -M762 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31597. [1101008126][1101008126] Dragon Queen -M762 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31598. [1101008127][1101008127] 2023PMGC Jinyao Champion - M762 |
+31599. [1101008128][1101008128] Centennial Celebration -M762 |

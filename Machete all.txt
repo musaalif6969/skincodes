@@ -1,0 +1,32 @@
+842. [108001][10800100] Machete | A multifunctional, precision-made, lightweight and easy-to-carry composite knife. A survival tool with classic design and reliable quality.
+2810. [1080011][108001100] Machete | A multifunctional, precision-made, lightweight and easy-to-carry composite knife. A survival tool with classic design and reliable quality.
+23941. [6004142][6004142] Machete - Gold Medal | Become the God of War! With this weapon you are unstoppable and unbeatable!
+23942. [6004143][6004143] Machete - Silver | Unbeatable ! Facing powerful enemies, this weapon is your best partner!
+23943. [6004144][6004144] Machete - Bronze Medal | You have mastered the use of this weapon!
+32611. [1108001011][1108001011] Barbarian Ice Breaker -Machete |
+32612. [1108001012][1108001012] Northern Frost Sword -Machete |
+32613. [1108001013][1108001013] Golden Leaf Princess -Machete |
+32614. [1108001014][1108001014] Ancient City Secret Agent -Machete |
+32615. [1108001015][1108001015] North Sea Raider -Machete |
+32616. [1108001016][1108001016] Dawn Red Fox -Machete |
+32617. [1108001018][1108001018] Hell Red Lotus -Machete |
+32619. [1108001021][1108001021] Romantic Rogue -Machete |
+32620. [1108001022][1108001022] Dimensional Key -Machete |
+32621. [1108001023] [1108001023] Phantom Murder -Machete |
+32622. [1108001024][1108001024] Technology Tribe -Machete |
+32623. [1108001025][1108001025] Candy Knight -Machete |
+32624. [1108001026][1108001026] Eastern Divine Weapon Machete |
+32625. [1108001031][1108001031] Cyber Monkey King -Machete |
+32627. [1108001033][1108001033] Legendary Warrior -Machete |
+32628. [1108001037][1108001037] EVANGELION Unit 2 Machete | EVANGELION official authorized cooperation
+32629. [1108001038][1108001038] Deadly Blade -Machete |
+32630. [1108001039][1108001039] Flaming Bird -Machete |
+32633. [1108001042] [1108001042] Deadly Blade Machete |
+32635. [1108001047][1108001047] Tide Warrior Machete |
+32637. [1108001049][1108001049] Endless Silver Scythe Machete |
+32638. [1108001052][1108001052] Butcher's Serrated Machete |
+32639. [1108001053][1108001053] Dragon Slayer Demon Blade Machete |
+32640. [1108001054][1108001054] Dragon-Slaying Blade Machete ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32641. [1108001056][1108001056] Dragon-Slaying Blade Machete ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32642. [1108001057][1108001057] Dragon-Slaying Blade Machete ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32644. [1108001060][1108001060] Mecha Machete |

@@ -1,0 +1,110 @@
+716. [101007][10100700] QBZ automatic rifle | Modern bullpup assault rifle.
+1127. [291007][29100700] QBZ assault rifle default magazine |
+2529. [1010071][101007100] QBZ Automatic Rifle (Broken) | Broken weapon with only a few accessories available
+2530. [1010072][101007200] QBZ automatic rifle (repaired) | The repaired weapon can be equipped with most accessories
+2531. [1010073][101007300] QBZ automatic rifle (mint) | intact weapon, all accessories can be used
+2532. [1010074][101007400] QBZ automatic rifle (improved) | Improved weapon, can use all accessories, damage increased by 15%
+2533. [1010075][101007500] QBZ automatic rifle (refined) | Weapon made with high precision, all accessories can be used, damage increased by 30%
+2534. [1010076][101007600] QBZ Automatic Rifle (One-Eyed Snake) | Special version of One-Eyed Snake, the damage is increased by 15% , the firing sound is reduced, and the recoil control is improved
+2535. [1010077][101007700] QBZ automatic rifle (Steel Front) | Steel Front special edition, damage increased by 15% . Strengthen the durability, reload speed, and scope opening speed, and also improve the durability , reloading speed , and scope opening speed .
+11647. [1518006][0] 1st Anniversary Treasure Chest | After opening , you will get one of the rewards such as the Fantasy Anniversary Helmet, Falcon Set, Falcon -QBZ , etc.
+18290. [1700400][1101007008] War Snow Monster -QBZ | Exclusive prop for combat readiness training. When the player's points are cleared, the right to use the item will be recovered.
+23818. [6004019][6004019] QBZ Automatic Rifle - Gold Medal | Become a Gun God! With this firearm, you are unstoppable and invincible!
+23819. [6004020][6004020] QBZ automatic rifle - Silver | Man and gun in one! Facing powerful enemies, this firearm is your best partner!
+23820. [6004021][6004021] QBZ Automatic Rifle - Bronze Medal | Missless shots! Your use of this firearm is already perfect!
+24683. [12219492][12219492] Hall QBZ gun inspection action |
+24732. [12219541][12219541] ###240QBZ Firearms Inspection Action |
+25978. [101007011][101007011] Earl of Red Nightmare -QBZ Magazine |
+26357. [417004278][417004278] QBZ ???? ? ??? ? ???? |
+28909. [1010070021][1010070021] Halloween Charm -QBZ Magazine |
+28910.[1010070031][1010070031] Angry Fighting Chicken -QBZ Magazine |
+28911. [1010070041][1010070041] Silver Lion Totem -QBZ Magazine |
+28912. [1010070051][1010070051] Purple Crystal -QBZ Magazine |
+28913. [1010070061][1010070061] Dragon relief -QBZ magazine |
+28914. [1010070071][1010070071] Falcon -QBZ Magazine |
+28915. [1010070081][1010070081] War Snow Monster -QBZ Magazine |
+28916. [1010070091][1010070091] MOMMYSON-QBZ magazine |
+28917.[1010070101][1010070101] Lethal Metal -QBZ Magazine |
+28918. [1010070111][1010070111] Scorching Scales -QBZ Magazine |
+28919. [1010070121][1010070121] Green Grass Trial -QBZ Magazine |
+28920. [1010070131][1010070131] Naughty Devil -QBZ Magazine |
+28921. [1010070141][1010070141] ### Qingxing Technology -QBZ Magazine |
+28922. [1010070171][1010070171] Golden Antlers -QBZ Magazine |
+28923. [1010070181][1010070181] God of Fighting -QBZ Magazine |
+28924. [1010070191][1010070191] Street Wolf -QBZ Magazine |
+28925. [1010070201][1010070201] ### Lovely Spot -QBZ Magazine |
+28926. [1010070211][1010070211] Bright Sun -QBZ Magazine ( Level 1 ) |
+28927. [1010070221][1010070221] Bright Sun -QBZ Magazine ( Level 2 ) |
+28928. [1010070222][1010070222] Bright Sun -QBZ Death Box |
+28929. [1010070231][1010070231] Bright Sun -QBZ Magazine ( Level 3 ) |
+28930. [1010070241][1010070241] Bright Sun -QBZ Magazine ( Level 4 ) |
+28931. [1010070251][1010070251] Bright Sun -QBZ Magazine ( Level 5 ) |
+28932. [1010070301][1010070301] ###1600-QBZ Magazine |
+28933. [1010070311][1010070311] ###1600-QBZ Magazine |
+28934. [1010070312][1010070312] ###1600-QBZ Death Box |
+28935. [1010070321][1010070321] ###1600-QBZ Magazine |
+28936. [1010070331][1010070331] ###PMPL 2021 Autumn Season QBZ Magazine |
+28937. [1010070341][1010070341] ###1600-QBZ Magazine |
+28938. [1010070351][1010070351] ###1600-QBZ Magazine |
+28939. [1010070361][1010070361] ###1600-QBZ Magazine |
+28940. [1010070371][1010070371] Trendy Cool Cactus -QBZ Magazine |
+28941. [1010070381][1010070381] ###220-QBZ Magazine |
+28942. [1010070391][1010070391] ###240-QBZ Magazine |
+28943. [1010070401][1010070401] ### Guiqi Lingji -QBZ Magazine ( Level 1 ) |
+28953. [1010070411][1010070411] ### Guiqi Lingji -QBZ Magazine ( Level 2 ) |
+28954. [1010070412][1010070412] 240QBZ Death Box ( Smoke ) |
+28960. [1010070421][1010070421] ### Guiqi Lingji -QBZ Magazine ( Level 3 ) |
+28961. [1010070431][1010070431] ### Guiqi Lingji -QBZ Magazine ( Level 4 ) |
+28962. [1010070441][1010070441] ### Guiqi Lingji -QBZ Magazine ( Level 5 ) |
+28963. [1010070451][1010070451] ### Guiqi Lingji -QBZ Magazine ( Level 6 ) |
+28964. [1010070461][1010070461] ### Guiqi Lingji -QBZ Magazine ( Level 7 ) |
+28965. [1010070462][1010070462] 240QBZ Death Box ( Hall Box) |
+28966. [1010070463][1010070463] 240QBZ Death Box ( Battle Box) |
+28967. [1010070471][1010070471] ###240-QBZ Magazine |
+28968. [1010070481][1010070481] ###240-QBZ Magazine |
+28969. [1010070541][1010070541] ###290-QBZ Magazine |
+28970. [1010070551][1010070551] ###290-QBZ Magazine |
+31460. [1101007001][1101007001] Earl of Red Nightmare -QBZ |
+31461. [1101007002][1101007002] Halloween Charm -QBZ |
+31462. [1101007003][1101007003] Angry Fighting Chicken -QBZ |
+31463. [1101007004][1101007004] Silver Lion Totem -QBZ |
+31464. [1101007005][1101007005] Purple Crystal -QBZ |
+31465. [1101007006][1101007006] Dragon relief -QBZ |
+31466. [1101007007] [1101007007] Eagle Falcon -QBZ |
+31467. [1101007008][1101007008] War Snow Monster -QBZ |
+31468. [1101007009][1101007009] MOMMYSON-QBZ |
+31469. [1101007010][1101007010] Lethal Metal -QBZ |
+31470. [1101007011][1101007011] Scorching Scales -QBZ |
+31471. [1101007012][1101007012] Trial of Green Grass -QBZ |
+31472. [1101007013][1101007013] Naughty Devil -QBZ |
+31473. [1101007014][1101007014] Qingxing Technology -QBZ |
+31474. [1101007017][1101007017] Golden Antlers -QBZ |
+31475. [1101007018][1101007018] God of Fighting -QBZ |
+31476. [1101007019][1101007019] Street Wolf -QBZ |
+31477. [1101007020][1101007020] Cute spots -QBZ |
+31478. [1101007021][1101007021] Brilliant Sun -QBZ ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31479. [1101007022][1101007022] Brilliant Sun -QBZ ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31480. [1101007023][1101007023] Brilliant Sun -QBZ ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31481. [1101007024][1101007024] Brilliant Sun -QBZ ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31482. [1101007025][1101007025] Brilliant Sun -QBZ ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31483. [1101007030][1101007030] Ultimate Kill -QBZ ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31484. [1101007031][1101007031] Ultimate Kill -QBZ ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31485. [1101007032][1101007032] Ultimate Kill -QBZ ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31486. [1101007033][1101007033] PMPL 2021 Autumn Season QBZ |
+31487. [1101007034][1101007034] Lonely Wanderer -QBZ |
+31488. [1101007035][1101007035] Ultimate Kill -QBZ ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31489. [1101007036][1101007036] Ultimate Kill -QBZ ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31490. [1101007037][1101007037] Trendy cool cactus -QBZ |
+31491.[1101007038][1101007038] Dawn Shimmer -QBZ |
+31492. [1101007039][1101007039] Space Quest -QBZ |
+31493. [1101007040][1101007040] Guiqi Lingji -QBZ ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31494. [1101007041][1101007041] Guiqi Lingji -QBZ ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31495. [1101007042][1101007042] Guiqi Lingji -QBZ ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31496. [1101007043][1101007043] Guiqi Lingji -QBZ ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31497. [1101007044][1101007044] Guiqi Lingji -QBZ ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31498. [1101007045][1101007045] Guiqi Lingji -QBZ ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31499. [1101007046][1101007046] Guiqi Lingji -QBZ ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31500. [1101007047][1101007047] Unruly laughter -QBZ |
+31501. [1101007048][1101007048] Top Pizza -QBZ |
+31502. [1101007054][1101007054] Snow Monster Video Game -QBZ |
+31503. [1101007055] [1101007055] Polar Night Muse -QBZ |

@@ -1,0 +1,104 @@
+145. [30039][0] Ice and Snow Pan |
+845. [108004][10800400] Pan | Hit your chest with a small pot !
+2811. [1080041][108004100] Pan | Hit your chest with a small pot !
+9918. [1511844][0] Kakao Pan Crate |
+13450. [1523208][0] AU Two Eggs - Pan | Contains a variety of great value discount items!
+13471. [1523229][0] SA Speed Demon - Pan | Contains a variety of great discount items!
+13476. [1523234][0] SG Speed Demon - Pan | Contains a variety of great discount items!
+13483. [1523241][0] EU Target Practice - Pan | Contains a variety of great discount items!
+13486. [1523244][0] CH Target Practice - Pan | Contains a variety of great discount items!
+13489. [1523247][0] GB Target Practice - Pan | Contains a variety of great discount items!
+18597. [1702303][0] Pan (Copper) | Obtained through events and can be redeemed for rewards in the designated event redemption interface. Expiration will be broken down automatically.
+18600. [1702306][0] Pan (gold) | Obtained through events and can be redeemed for rewards in the designated event redemption interface. Expiration will be broken down automatically.
+18664. [1702370][0] Pan (Copper) | Obtained through activities, can be exchanged for rewards in designated activities, and will be automatically decomposed upon expiration.
+18747. [1702453][0] Golden Pan (India) | Obtained through activities, can be redeemed for rewards in designated activities, and will be automatically decomposed upon expiration.
+18757. [1702463][0] Golden Pan (India) | Obtained through events and can be redeemed for rewards in the designated event redemption interface. Expiration will be broken down automatically.
+18833. [1702624][0] Pan (Copper) | Obtained through activities and can be redeemed for rewards in the designated event redemption interface. Expiration will be broken down automatically.
+20842. [2003012][0] Pan God avatar frame | Pan God avatar frame, stimulate the battlefield, the king of pans, your exclusive honor!
+22793.[2494002][0] Pan Master | Pan Master
+23950. [6004151][6004151] Pan - Gold Medal | Become the God of War! With this weapon you are unstoppable and unbeatable !
+23951. [6004152][6004152] Pan - Silver | Unbeatable ! Facing powerful enemies, this weapon is your best partner!
+23952. [6004153][6004153] Pan - Bronze Medal | You have mastered the use of this weapon!
+24780. [12219592][12219592] Hall Pan Firearms Inspection Action |
+30827. [1080042791][1080042791] 190 Pan Death Box (Performance) |
+30828. [1080042792][1080042792] 190 Pan Death Box (Smoke) |
+30829. [1080042793][1080042793] 190 Pan Hall Death Box (Performance) |
+30833. [1080417707][1108004177] Karaagekun regular - Pan (7d) | Lawson cooperation props
+30834. [1080417714][1108004177] Karaagekun regular - Pan (14d) | Lawson collaboration props
+30835. [1080417730][1108004177] Karaagekun regular - Pan (30d) | Lawson collaboration props
+30836. [1080418407][1108004184] Karaagekun red - Pan (7d) | Lawson collaboration props
+30837. [1080418414][1108004184] Karaagekun red - Pan (14d) | Lawson collaboration props
+30838. [1080418430][1108004184] Karaagekun red - Pan (30d) | Lawson collaboration props
+32742. [1108004041][1108004041] Pan |
+32750. [1108004049][1108004049] Rice Cake Soup - Pan |
+32752. [1108004051][1108004051] Cursed Demon Grasping Pan |
+32754. [1108004054][1108004054] Symphony Anniversary - Pan |
+32765.[1108004071][1108004071] Laton - Pan |
+32837. [1108004163][1108004163] Rhythm Fairy Pan |
+32846. [1108004176][1108004176] Prince Jinyao - Pan |
+32847. [1108004177][1108004177] Karaagekun regular - Pan | Lawson cooperation props
+32848. [1108004178][1108004178] Yummy Kitchen Pan |
+32849. [1108004179][1108004179] Horror Flowing Cloud Pan |
+32853. [1108004184][1108004184] Karaagekun red - Pan | Lawson collaboration props
+32860. [1108004195][1108004195] Golden Time Pan |
+32873. [1108004216][1108004216] Beautiful Purple Night Pan |
+32877. [1108004225][1108004225] Mysterious Mask Pan |
+32878. [1108004226][1108004226] Lulling Owl Pan |
+32888. [1108004240][1108004240] Rich Brian Skyline Punk Pan | Rich Brian Official Collaboration
+32889. [1108004242][1108004242] Geely Gourmet Pan |
+32891. [1108004244][1108004244] Taming the Beast Pan |
+32895. [1108004250][1108004250] Ghost Scanner Pan |
+32896. [1108004251][1108004251] Pixel Claw Mark Pan |
+32899. [1108004254][1108004254] New Year's Dream Set - Pan | Julien Fourni  Official Collaboration Design - New Year's Dream Set
+32900. [1108004255][1108004255] PMGC 2021 Pan | PMGC 2021 Event Special
+32901. [1108004256][1108004256] DUNE Pan |
+32903. [1108004258][1108004258] Tao Kae Noi Pan |
+32904. [1108004260][1108004260] Baby Shark Pan |
+32905. [1108004261][1108004261] Illusion Queen Pan |
+32906. [1108004265][1108004265] Tiger Samurai Pan |
+32908. [1108004269][1108004269] Purple Night Mutant Pan |
+32909. [1108004271][1108004271] Strange Flying Vehicle Pan |
+32910. [1108004272][1108004272] Fantasy Love Pan |
+32911. [1108004273][1108004273] Soul Brave Pan |
+32912. [1108004274][1108004274] Miracle Shaped Pan |
+32915. [1108004278][1108004278] Ultimate Fortress Pan ( Level 1 ) | Can be upgraded at the Research Institute to obtain additional effects.
+32916. [1108004279][1108004279] Ultimate Fortress Pan ( Level 2 ) | Can be upgraded at the Research Institute to obtain additional effects.
+32917. [1108004280][1108004280] Ultimate Fortress Pan ( Level 3 ) | Can be upgraded at the Research Institute to obtain additional effects.
+32918. [1108004281][1108004281] Ultimate Fortress Pan ( Level 4 ) | Can be upgraded at the Research Institute to obtain additional effects.
+32919. [1108004282][1108004282] Ultimate Fortress Pan ( Level 5 ) | Can be upgraded at the Research Institute to obtain additional effects.
+32920. [1108004283][1108004283] Ultimate Fortress Pan ( Level 6 ) | Can be upgraded at the Research Institute to obtain additional effects.
+32921. [1108004286][1108004286] Coma Rabbit Pan |
+32922. [1108004289][1108004289] First Love Set Pan | Julien Fourni  Official Cooperation Design - First Love Set
+32923. [1108004290][1108004290] EVANGELION Tenth Apostle Pan | EVANGELION Official Authorized Cooperation
+32924. [1108004291][1108004291] Xingyuan Wolf Pan |
+32925. [1108004292][1108004292] Game Land Pan |
+32927. [1108004296][1108004296] Luxury Maharaja Pan |
+32929. [1108004299][1108004299] BGMI Esports - Pan (Indian version) |
+32932. [1108004303][1108004303] Qingyin Chaotu Pan |
+32933. [1108004308][1108004308] Joker Cone Pan |
+32934. [1108004309][1108004309] Messi Green Legend Pan | Lionel Messi official cooperation prop
+32935. [1108004310][1108004310] Uncharted Clock Pan |
+32937. [1108004318][1108004318] Pink Bunny Pan |
+32938. [1108004320][1108004320] Bruce Lee Dragon Scale Barrier Pan | Bruce Lee official cooperation props
+32939. [1108004321][1108004321] Ink Pisces Pan |
+32940. [1108004324][1108004324] PRO LEAGUE Pan |
+32942. [1108004327][1108004327] Scarlet Magic Fountain Pan |
+32943. [1108004328][1108004328] Atomic Power Pan ( Level 1 ) | Can be upgraded at the Research Institute for additional effects.
+32944. [1108004329] [1108004329] Atomic Power Pan ( Level 2 ) | Can be upgraded at the Research Institute for additional effects.
+32945. [1108004330][1108004330] Atomic Powered Pan ( Level 3 ) | Can be upgraded at the Research Institute for additional effects.
+32946. [1108004331][1108004331] Atomic Powered Pan ( Level 4 ) | Can be upgraded at the Research Institute for additional effects.
+32947. [1108004332][1108004332] Atomic Powered Pan ( Level 5 ) | Can be upgraded at the Research Institute for additional effects.
+32948. [1108004333][1108004333] Magic Gold Compass Pan |
+32949. [1108004334][1108004334] Glory Light Pan |
+32950. [1108004336][1108004336] Little White Rabbit - Pan |
+32951. [1108004337][1108004337] Atomic Powered Pan ( Level 6 ) | Can be upgraded at the Research Institute for additional effects.
+32952. [1108004341] [1108004341] Archaeological Remains Pan |
+32953. [1108004342][1108004342] Commission Sack Pan |
+32954. [1108004343][1108004343] Gorgeous Painted Pan |
+32955. [1108004344] [1108004344] Yutide Dragon King Pan |
+32964. [1108004353][1108004353] 2023 PMWI- Pan |
+32965. [1108004354][1108004354] Hot Fried Chicken Pan ( Level 1 ) | Can be upgraded at the Research Institute to obtain additional effects.
+32966. [1108004355][1108004355] Hot Fried Chicken Pan ( Level 2 ) | Can be upgraded at the Research Institute to obtain additional effects.
+32967. [1108004356][1108004356] Hot Fried Chicken Pan ( Level 3 ) | Can be upgraded at the Research Institute to obtain additional effects.
+32968. [1108004357][1108004357] Centennial Celebration - Pan |
+32969. [1108004358][1108004358] Fool's Astrolabe Pan |

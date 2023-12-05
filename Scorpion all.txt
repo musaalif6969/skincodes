@@ -1,0 +1,67 @@
+804. [106008][10600800] Scorpion Pistol | A fully automatic submachine pistol made in Czechoslovakia .
+909. [203017][20301700] Scorpion pistol iron sights |
+1166. [296008][29600800] Scorpion pistol default magazine |
+2792. [1060081][106008100] Scorpion Pistol (Broken) | Broken weapon with only a few accessories available
+2793. [1060082][106008200] Scorpion Pistol (Repaired) | Repaired weapon that can be equipped with most accessories
+2794. [1060083][106008300] Scorpion Pistol (mint) | intact weapon, all accessories can be used
+2795. [1060084][106008400] Scorpion Pistol (Improved) | Improved weapon, all accessories can be used, and the damage is increased by 15%
+2796. [1060085][106008500] Scorpion Pistol (Refined) | Weapon made with high precision, all accessories can be used, damage increased by 30%
+2797. [1060089][106008900] Scorpion Pistol | A fully automatic submachine pistol made in Czechoslovakia .
+3933. [1402025][1402025] Deadly Sand Scorpion Hat |
+4841. [1403161][1403161] Scorpion Assassin Face Mask |
+5577. [1405010][1405010] Deadly Sand Scorpion Outfit |
+6783. [1406266][1406266] Scorpion Assassin Set |
+15226. [1532093][1532093] Scorpion Lassi | Deadly as a scorpion claw
+18266. [1680044][1680044] Scorpion Treasure Chest | Themed gameplay souvenirs, which can be redeemed for rewards in the season -CYCLE memory after collection
+23932. [6004133][6004133] Scorpion Pistol - Gold Medal | Become a Gun God! With this firearm, you are unstoppable and invincible!
+23933. [6004134][6004134] Scorpion Pistol - Silver | Man and gun in one! Facing powerful enemies, this firearm is your best partner!
+23934. [6004135][6004135] Scorpion Pistol - Bronze Medal | No shots missed! Your use of this firearm is already perfect!
+30346. [1030050171][1030050171] ### Scorpion Assassin -VSS Magazine |
+1030050172 ] ### Scorpion Assassin -VSS Scope |
+30790. [1060080011][1060080011] Emerald Frost Star - Scorpion Magazine |
+30791. [1060080012][1060080012] Emerald Frost Star - Scorpion Sight |
+30792. [1060080021] [1060080021] Badass Brave - Scorpion Magazine |
+30793. [1060080022] [1060080022] Badass Brave - Scorpion Sight |
+30794. [1060080031][1060080031] Mysterious Raid - Scorpion Magazine |
+30795. [1060080032][1060080032] Mysterious Raid - Scorpion Sight |
+30796. [1060080051][1060080051] ### Luo Ying Golden Flower - Scorpion Magazine |
+30797. [1060080052][1060080052] ### Luo Ying Golden Flower - Scorpion Sight |
+30798. [1060080061][1060080061] ###1600- Scorpion Magazine |
+30799. [1060080062][1060080062] ###1600- Scorpion Sight |
+30800. [1060080071][1060080071] ### Luo Ying Golden Flower - Scorpion Magazine |
+30801. [1060080072][1060080072] ### Luo Ying Golden Flower - Scorpion Sight |
+30802. [1060080081][1060080081] ### Pink Barrier - Scorpion Magazine |
+30803. [1060080082][1060080082] ### Pink Barrier - Scorpion Sight |
+30804. [1060080091][1060080091] ### Golden Secret Lock - Scorpion Magazine |
+30805. [1060080092][1060080092] ### Golden Secret Lock - Scorpion Sight |
+30806. [1060080101][1060080101] ### Golden Secret Lock - Scorpion Magazine |
+30807. [1060080102][1060080102] ### Golden Secret Lock - Scorpion Sight |
+30808. [1060080103][1060080103] 200 Scorpion Pistol Death Box (Smoke) |
+30809. [1060080111][1060080111] ### Golden Secret Lock - Scorpion Magazine |
+30810. [1060080112][1060080112] ### Golden Secret Lock - Scorpion Sight |
+30811. [1060080121][1060080121] ### Golden Secret Lock - Scorpion Magazine |
+30812. [1060080122][1060080122] ### Golden Secret Lock - Scorpion Sight |
+30813. [1060080131][1060080131] ### Golden Secret Lock - Scorpion Magazine |
+30814. [1060080132][1060080132] ### Golden Secret Lock - Scorpion Sight |
+30815. [1060080141][1060080141] ###240- Scorpion Magazine |
+30816. [1060080142][1060080142] ###240- Scorpion sight |
+30817. [1060080151][1060080151] ### Mutated Cucumber - Scorpion Style |
+30818. [1060080152][1060080152] ### Mutated Cucumber - Scorpion Style |
+30819. [1060080161][1060080161] ###290- Scorpion Magazine |
+30820. [1060080162][1060080162] ###290- Scorpion sight |
+32255. [1103005017][1103005017] Scorpion Assassin -VSS |
+32584. [1106008001][1106008001] Emerald Frost Star - Scorpion Style |
+32585. [1106008002] [1106008002] Badass Hero - Scorpion Style |
+32586. [1106008003][1106008003] Mysterious Raid - Scorpion |
+32587. [1106008005] [1106008005] Falling Sakura Golden Flower - Scorpion Style |
+32588. [1106008006][1106008006] Precision Killing - Scorpion Style |
+32589. [1106008007][1106008007] Refreshing Juice - Scorpion Style |
+32590. [1106008008][1106008008] Pink Barrier - Scorpion Pistol |
+32591. [1106008009][1106008009] Golden Secret Lock - Scorpion Pistol ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32592. [1106008010][1106008010] Golden Secret Lock - Scorpion Pistol ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32593. [1106008011][1106008011] Golden Secret Lock - Scorpion Pistol ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32594. [1106008012][1106008012] Golden Secret Lock - Scorpion Pistol ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32595. [1106008013][1106008013] Golden Secret Lock - Scorpion Pistol ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32596. [1106008014][1106008014] Sweet Dream - Scorpion Pose |
+32597. [1106008015][1106008015] Mutated Cucumber - Scorpion Style |
+32598. [1106008016][1106008016] Big Ear Baby - Scorpion Style |

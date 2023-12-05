@@ -1,0 +1,57 @@
+29377. [1020010191][1020010191] King of Beasts -UZI ( Level 1 ) Magazine |
+29378. [1020010201][1020010201] King of Beasts -UZI ( Level 2 ) Magazine |
+29380. [1020010211][1020010211] King of Beasts -UZI ( Level 3 ) Magazine |
+29381. [1020010221][1020010221] King of Beasts -UZI ( Level 4 ) Magazine |
+29382. [1020010231][1020010231] King of Beasts -UZI ( Level 5 ) Magazine |
+29383. [1020010241][1020010241] King of Beasts -UZI ( Level 6 ) Magazine |
+29389. [1020010321][1020010321] God Totem -UZI ( Level 1 ) Magazine |
+29390. [1020010331][1020010331] God Totem -UZI ( Level 2 ) Magazine |
+29392. [1020010341][1020010341] God Totem -UZI ( Level 3 ) Magazine |
+29393. [1020010351][1020010351] God Totem -UZI ( Level 4 ) Magazine |
+29394. [1020010361][1020010361] God Totem -UZI ( Level 5 ) Magazine |
+29402. [1020010541][1020010541] Surprise Love -UZI ( Level 1 ) Magazine |
+29403. [1020010551][1020010551] Surprise Love -UZI ( Level 2 ) Magazine |
+29405. [1020010561][1020010561] Surprise Love -UZI ( Level 3 ) Magazine |
+29406. [1020010571][1020010571] Surprise Love -UZI ( Level 4 ) Magazine |
+29407. [1020010581][1020010581] Surprise Love -UZI ( Level 5 ) Magazine |
+29413. [1020010651][1020010651] ### Mysterious Power -UZI ( Level 1 ) Magazine |
+29414. [1020010661][1020010661] ### Mysterious Power -UZI ( Level 2 ) Magazine |
+29415. [1020010671][1020010671] ### Mysterious Power -UZI ( Level 3 ) Magazine |
+29416. [1020010681][1020010681] ### Mysterious Power -UZI ( Level 4 ) Magazine |
+29417. [1020010691][1020010691] ### Mysterious Power -UZI ( Level 5 ) Magazine |
+31653. [1102001019][1102001019] King of Beasts -UZI ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31654. [1102001020][1102001020] King of Beasts -UZI ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31655. [1102001021][1102001021] King of Beasts -UZI ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31656. [1102001022][1102001022] King of Beasts -UZI ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31657. [1102001023][1102001023] King of Beasts -UZI ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31658. [1102001024][1102001024] King of Beasts -UZI ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31664. [1102001032][1102001032] God Totem -UZI ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31665. [1102001033][1102001033] God Totem -UZI ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31666. [1102001034][1102001034] God Totem -UZI ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31667. [1102001035][1102001035] God Totem -UZI ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31668. [1102001036][1102001036] God Totem -UZI ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31676. [1102001054][1102001054] Surprise Love -UZI ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31677. [1102001055][1102001055] Surprise Love -UZI ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31678. [1102001056][1102001056] Surprise Love -UZI ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31679. [1102001057][1102001057] Surprise Love -UZI ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31680. [1102001058][1102001058] Surprise Love -UZI ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31686. [1102001065][1102001065] Mysterious Power -UZI ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31687. [1102001066][1102001066] Mysterious Power -UZI ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31688. [1102001067][1102001067] Mysterious Power -UZI ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31689. [1102001068][1102001068] Mysterious Power -UZI ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31690. [1102001069][1102001069] Mysterious Power -UZI ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31701. [1102001083][1102001083] Magic Technology -UZI ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31704. [1102001086][1102001086] Magic Technology -UZI ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31705. [1102001087][1102001087] Magic Technology -UZI ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31706. [1102001088][1102001088] Magic Technology -UZI ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31707. [1102001089][1102001089] Magic Technology -UZI ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31709. [1102001092][1102001092] Orchard Orange -UZI ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31710. [1102001093][1102001093] Orchard Orange -UZI ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31711. [1102001094][1102001094] Orchard Orange -UZI ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31713. [1102001096][1102001096] Orchard Orange -UZI ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31714. [1102001098][1102001098] Syrup Shooter -UZI ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31715. [1102001099] [1102001099] Syrup Shooter -UZI ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31716. [1102001100][1102001100] Syrup Shooter -UZI ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31717. [1102001101][1102001101] Syrup Shooter -UZI ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects .
+31718. [1102001102][1102001102] Syrup Shooter -UZI ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31719. [1102001103][1102001103] Orchard Orange -UZI ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.

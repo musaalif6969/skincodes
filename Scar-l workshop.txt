@@ -1,0 +1,98 @@
+10090. [1512016][0] Premium Beach Treasure Box | After opening, you will get a Fantasy Water Gun -SCAR-L ( Level 1 ) or Pink ????? easy? ????? ? ?? ? ? ? ? ?
+28025. [1010030511][1010030511] Dream Water Gun -SCAR-L ( Level 1 ) Magazine |
+28026. [1010030521][1010030521] Dream Water Gun -SCAR-L ( Level 2 ) Magazine |
+28028. [1010030531][1010030531] Dream Water Gun -SCAR-L ( Level 3 ) Magazine |
+28029. [1010030541][1010030541] Dream Water Gun -SCAR-L ( Level 4 ) Magazine |
+28030. [1010030551][1010030551] Dream Water Gun -SCAR-L ( Level 5 ) Magazine |
+28031. [1010030561][1010030561] Dream Water Gun -SCAR-L ( Level 6 ) Magazine |
+28032. [1010030571][1010030571] Dream Water Gun -SCAR-L ( Level 7 ) Magazine |
+28041. [1010030641][1010030641] Magic Pumpkin -SCAR-L ( Level 1 ) Magazine |
+28042. [1010030651][1010030651] Magic Pumpkin -SCAR-L ( Level 2 ) Magazine |
+28044. [1010030661][1010030661] Magic Pumpkin -SCAR-L ( Level 3 ) Magazine |
+28045. [1010030671][1010030671] Magic Pumpkin -SCAR-L ( Level 4 ) Magazine |
+28046. [1010030681][1010030681] Magic Pumpkin -SCAR-L ( Level 5 ) Magazine |
+28047. [1010030691][1010030691] Magic Pumpkin -SCAR-L ( Level 6 ) Magazine |
+28048. [1010030701][1010030701] Magic Pumpkin -SCAR-L ( Level 7 ) Magazine |
+28053. [1010030741][1010030741] Operation Next Day -SCAR-L ( Level 1 ) Magazine |
+28054. [1010030751][1010030751] Operation Next Day -SCAR-L ( Level 2 ) Magazine |
+28056. [1010030761][1010030761] Operation Next Day -SCAR-L ( Level 3 ) Magazine |
+28057. [1010030771][1010030771] Operation Next Day -SCAR-L ( Level 4 ) Magazine |
+28058. [1010030781][1010030781] Operation Next Day -SCAR-L ( Level 5 ) Magazine |
+28059. [1010030791][1010030791] Operation Next Day -SCAR-L ( Level 6 ) Magazine |
+28060. [1010030801][1010030801] Operation Next Day -SCAR-L ( Level 7 ) Magazine |
+28071. [1010030931][1010030931] Mysterious Night -SCAR-L ( Level 1 ) Magazine |
+28080. [1010030941][1010030941] Mysterious Night -SCAR-L ( Level 2 ) Magazine |
+28089. [1010030951][1010030951] Mysterious Night -SCAR-L ( Level 3 ) Magazine |
+28093. [1010030961][1010030961] Mysterious Night -SCAR-L ( Level 4 ) Magazine |
+28094. [1010030971][1010030971] Mysterious Night -SCAR-L ( Level 5 ) Magazine |
+28095. [1010030981][1010030981] Mysterious Night -SCAR-L ( Level 6 ) Magazine |
+28096. [1010030991][1010030991] Mysterious Night -SCAR-L ( Level 7 ) Magazine |
+28204. [1010031751][1010031751] Fool's Embrace -SCAR-L ( Level 1 ) Magazine |
+28213. [1010031761][1010031761] Fool's Embrace -SCAR-L ( Level 2 ) Magazine |
+28221. [1010031771][1010031771] Fool's Embrace -SCAR-L ( Level 3 ) Magazine |
+28226. [1010031781][1010031781] Fool's Embrace -SCAR-L ( Level 4 ) Magazine |
+28227. [1010031791][1010031791] Fool's Embrace -SCAR-L ( Level 5 ) Magazine |
+28228. [1010031801][1010031801] Fool's Embrace -SCAR-L ( Level 6 ) Magazine |
+28229. [1010031811][1010031811] Fool's Embrace -SCAR-L ( Level 7 ) Magazine |
+31129. [1101003051][1101003051] Dream Water Gun -SCAR-L ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31130. [1101003052][1101003052] Dream Water Gun -SCAR-L ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31131. [1101003053][1101003053] Dream Water Gun -SCAR-L ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31132. [1101003054][1101003054] Dream Water Gun -SCAR-L ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31133. [1101003055][1101003055] Dream Water Gun -SCAR-L ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31134. [1101003056][1101003056] Dream Water Gun -SCAR-L ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31135. [1101003057][1101003057] Dream Water Gun -SCAR-L ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31142. [1101003064][1101003064] Magic Pumpkin -SCAR-L ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31143. [1101003065][1101003065] Magic Pumpkin -SCAR-L ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31144. [1101003066][1101003066] Magic Pumpkin -SCAR-L ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31145. [1101003067][1101003067] Magic Pumpkin -SCAR-L ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31146. [1101003068][1101003068] Magic Pumpkin -SCAR-L ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31147. [1101003069][1101003069] Magic Pumpkin -SCAR-L ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31148. [1101003070][1101003070] Magic Pumpkin -SCAR-L ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31151. [1101003074] [1101003074] Next Day's Operation -SCAR-L ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31152. [1101003075] [1101003075] Next Day's Action -SCAR-L ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31153. [1101003076] [1101003076] Next Day's Operation -SCAR-L ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31154. [1101003077][1101003077] Next Day's Action -SCAR-L ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31155. [1101003078] [1101003078] Next Day's Action -SCAR-L ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31156. [1101003079][1101003079] Next Day's Action -SCAR-L ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31157. [1101003080][1101003080] Next Day's Action -SCAR-L ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31167. [1101003093][1101003093] Mysterious Night -SCAR-L ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31168. [1101003094][1101003094] Mysterious Night -SCAR-L ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31169. [1101003095][1101003095] Mysterious Night -SCAR-L ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31170. [1101003096][1101003096] Mysterious Night -SCAR-L ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31171. [1101003097][1101003097] Mysterious Night -SCAR-L ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31172. [1101003098][1101003098] Mysterious Night -SCAR-L ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31173. [1101003099][1101003099] Mysterious Night -SCAR-L ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31178. [1101003113][1101003113] Magic Crystal -SCAR-L ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31179. [1101003114][1101003114] Magic Crystal -SCAR-L ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31180. [1101003115][1101003115] Magic Crystal -SCAR-L ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31181. [1101003116][1101003116] Magic Crystal -SCAR-L ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31182. [1101003117][1101003117] Magic Crystal -SCAR-L ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31183. [1101003118][1101003118] Magic Crystal -SCAR-L ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31184. [1101003119][1101003119] Magic Crystal -SCAR-L ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31187. [1101003122] [1101003122] Evil Plant -SCAR-L ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31188. [1101003123][1101003123] Evil Plant -SCAR-L ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31201. [1101003142] [1101003142] Evil Plant -SCAR-L ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31202. [1101003143][1101003143] Evil Plant -SCAR-L ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31203. [1101003144][1101003144] Evil Plant -SCAR-L ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31211. [1101003160][1101003160] Blood Soul Demon Emperor -SCAR-L ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31212. [1101003161][1101003161] Blood Soul Demon Emperor -SCAR-L ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31213. [1101003162][1101003162] Blood Soul Demon Emperor -SCAR-L ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31214. [1101003163][1101003163] Blood Soul Demon Emperor -SCAR-L ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31215. [1101003164][1101003164] Blood Soul Demon Emperor -SCAR-L ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31216. [1101003165][1101003165] Blood Soul Demon Emperor -SCAR-L ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31217. [1101003166][1101003166] Blood Soul Demon Emperor -SCAR-L ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31218. [1101003167][1101003167] Blood Soul Demon Emperor -SCAR-L ( Level 8 ) | Can be upgraded in the research institute to obtain additional effects.
+31221. [1101003175][1101003175] Fool's Embrace -SCAR-L ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31222. [1101003176][1101003176] Fool's Embrace -SCAR-L ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31223. [1101003177][1101003177] Fool's Embrace -SCAR-L ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31224. [1101003178][1101003178] Fool's Embrace -SCAR-L ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31225. [1101003179][1101003179] Fool's Embrace -SCAR-L ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31226. [1101003180][1101003180] Fool's Embrace -SCAR-L ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31227. [1101003181][1101003181] Fool's Embrace -SCAR-L ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31228. [1101003182][1101003182] Fool's Embrace -SCAR-L ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31229. [1101003183][1101003183] Fool's Embrace -SCAR-L ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31230. [1101003184][1101003184] Fool's Embrace -SCAR-L ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31231. [1101003185][1101003185] Fool's Embrace -SCAR-L ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31232. [1101003186][1101003186] Fool's Embrace -SCAR-L ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31233. [1101003187][1101003187] Fool's Embrace -SCAR-L ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31234. [1101003188][1101003188] Fool's Embrace -SCAR-L ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.

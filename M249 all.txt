@@ -1,0 +1,139 @@
+773. [105001][10500100] M249 light machine gun | It is actually lighter than it looks.
+959. [205009][20500900] M249 default stock |
+1155. [295001][29500100] M249 light machine gun default magazine |
+1170. [303001][30300100] 5.56mm bullet | M16A4 , M416 , SCAR-L , AUG , M249 , Mini14 , Q?????easy? ???? ? ??View ? ? ? ? ?
+2737. [1050011][105001100] M249 Light Machine Gun (Broken) | Broken weapon with only a few accessories available
+2738. [1050012][105001200] M249 light machine gun (repaired) | The repaired weapon can be equipped with most accessories
+2739. [1050013][105001300] M249 light machine gun (mint) | intact weapon, all accessories can be used
+2740. [1050014][105001400] M249 light machine gun (improved) | Improved weapon, can use all accessories, damage increased by 15%
+2741. [1050015][105001500] M249 light machine gun (refined) | Weapon made with high precision, all accessories can be used, damage increased by 30%
+2742. [1050016][105001600] M249 light machine gun (One-eyed Snake) | Special version of One-eyed Snake, the damage is increased by 15% , the firing sound is reduced, and the recoil control is improved
+2743. [1050017][105001700] M249 light machine gun (Steel Front) | Steel Front special version, damage increased by 15% . Strengthen the durability , reload speed , and scope opening speed , and also improve the ?
+23905. [6004106][6004106] M249 light machine gun - gold medal | Become a gun god! With this firearm, you are unstoppable and invincible!
+23906. [6004107][6004107] M249 light machine gun - Silver | Man and gun in one! Facing powerful enemies, this firearm is your best partner!
+23907. [6004108][6004108] M249 Light Machine Gun - Bronze Medal | Missless shots! Your use of this firearm is already perfect!
+24673. [12219482][12219482] Hall M249 firearm inspection action |
+24747. [12219557][12219557] ###250M249 Firearms Inspection Action |
+26490. [445001002][1105001002] Crazy Circus -M249 | Crazy Circus -M249 , with full firepower, dominate the audience and perform a wonderful circus!
+27131. [915001002][1105001002] Crazy Circus -M249 | Crazy Circus -M249 , with full firepower, dominate the audience and perform a wonderful circus!
+27340. [935001002][1105001002] Crazy Circus -M249 | Crazy Circus -M249 , with full firepower, dominate the audience and perform a wonderful circus!
+30611. [1050010012][1050010012] ###M249 Gun Stock |
+30613. [1050010022][1050010022] ###M249 Gun Stock |
+30614. [1050010121][1050010121] Infected Wild Bear -M249 Magazine |
+30615. [1050010122][1050010122] ###M249 Gun Stock |
+30616. [1050010131][1050010131] S10 Season -M249 Magazine |
+30617. [1050010132][1050010132] ###M249 Gun Stock |
+30618. [1050010141][1050010141] Ocean Storm -M249 Magazine |
+30619. [1050010142][1050010142] ###M249 Gun Stock |
+30620. [1050010161][1050010161] ### Ice Queen -M249 Magazine |
+30621. [1050010162][1050010162] ###M249 Gun Stock |
+30622. [1050010171][1050010171] ### Ice Queen -M249 Magazine |
+30623. [1050010172][1050010172] ###M249 Gun Stock |
+30624. [1050010173][1050010173] ###M249 Death Box |
+30625. [1050010181][1050010181] ### Ice Queen -M249 Magazine |
+30626. [1050010182][1050010182] ###M249 Gun Stock |
+30627. [1050010191][1050010191] ### Ice Queen -M249 Magazine |
+30628. [1050010192][1050010192] ###M249 Gun Stock |
+30629. [1050010201][1050010201] ### Ice Queen -M249 Magazine |
+30630. [1050010202][1050010202] ###M249 Gun Stock |
+30631. [1050010251][1050010251] S19 Season -M249 Magazine |
+30632. [1050010252][1050010252] ###M249 Gun Stock |
+30633. [1050010261][1050010261] ###1600-M249 Magazine |
+30634. [1050010262][1050010262] ###1600-M249 Gun Stock |
+30635. [1050010281][1050010281] Party Salute -M249 ( Level 1 ) Magazine |
+30644. [1050010291][1050010291] Party Salute -M249 ( Level 2 ) Magazine |
+30646. [1050010301][1050010301] Party Salute -M249 ( Level 3 ) Magazine |
+30647. [1050010311][1050010311] Party Salute -M249 ( Level 4 ) Magazine |
+30648. [1050010321][1050010321] Party Salute -M249 ( Level 5 ) Magazine |
+30649. [1050010331][1050010331] Party Salute -M249 ( Level 6 ) Magazine |
+30650. [1050010341][1050010341] Party Salute -M249 ( Level 7 ) Magazine |
+30651.[1050010342][1050010342] Party Salute M249 Hall Death Box |
+30652. [1050010343][1050010343] Party Salute M249 Combat In-Combat Death Box (Smoke) |
+30653.[1050010344][1050010344] Party Salute M249 Combat Death Box (Box) |
+30654. [1050010345][1050010345] Party Salute -M249 ( Level 1 ) Stock |
+30655. [1050010346][1050010346] Party Salute -M249 ( Level 2 ) Stock |
+30656. [1050010347][1050010347] Party Salute -M249 ( Level 3 ) Stock |
+30657. [1050010348][1050010348] Party Salute -M249 ( Level 4 ) Stock |
+30658. [1050010349][1050010349] Party Salute -M249 ( Level 5 ) Gun Stock |
+30659. [1050010350][1050010350] Party Salute -M249 ( Level 6 ) Stock |
+30660. [1050010351][1050010351] Party Salute -M249 ( Level 7 ) Stock |
+30661. [1050010352][1050010352] ### Mr. Magic Rabbit -M249 Gun Stock |
+30662. [1050010353][1050010353] ### Mr. Magic Rabbit -M249 Magazine |
+30663. [1050010361][1050010361] Party Salute -M249 ( Level 1 ) Magazine |
+30664. [1050010362][1050010362] ###1900-M249 Gun Stock |
+30665. [1050010363][1050010363] ### Gold Jade -M249 Magazine |
+30666. [1050010371][1050010371] ###220-M249 Gun Stock |
+30667. [1050010372][1050010372] ###220-M249 Magazine |
+30668. [1050010381][1050010381] ### Perverse Stranger -M249 Magazine |
+30669. [1050010382][1050010382] ### Perverse Stranger -M249 Gun Stock |
+30670. [1050010401][1050010401] ###240-M249 Magazine |
+30671. [1050010402][1050010402] ###240-M249 Gun Stock |
+30672. [1050010411][1050010411] ###240-M249 Magazine |
+30673. [1050010412][1050010412] ###240-M249 Gun Stock |
+30674. [1050010421][1050010421] Jihui Empress -M249 ( Level 1 ) Magazine |
+30675. [1050010422][1050010422] Jihui Empress -M249 ( Level 1 ) Gun Stock |
+30683. [1050010431][1050010431] Jihui Empress -M249 ( Level 2 ) Magazine |
+30684. [1050010432][1050010432] Jihui Empress -M249 ( Level 2 ) Gun Stock |
+30685. [1050010433][1050010433] 250M249 Death Box ( Smoke ) |
+30689. [1050010441][1050010441] Jihui Empress -M249 ( Level 3 ) Magazine |
+30690. [1050010442][1050010442] Jihui Empress -M249 ( Level 3 ) Gun Stock |
+30691. [1050010451][1050010451] Jihui Empress -M249 ( Level 4 ) Magazine |
+30692. [1050010452][1050010452] Jihui Empress -M249 ( Level 4 ) Gun Stock |
+30693. [1050010461][1050010461] Jihui Empress -M249 ( Level 5 ) Magazine |
+30694. [1050010462][1050010462] Jihui Empress -M249 ( Level 5 ) Gun Stock |
+30695. [1050010471][1050010471] Jihui Empress -M249 ( Level 6 ) Magazine |
+30696. [1050010472][1050010472] Jihui Empress -M249 ( Level 6 ) Gun Stock |
+30697. [1050010481][1050010481] Jihui Empress -M249 ( Level 7 ) Magazine |
+30698. [1050010482][1050010482] Jihui Empress -M249 ( Level 7 ) Gun Stock |
+30699. [1050010483][1050010483] 250M249 Death Box ( Hall Box) |
+30700. [1050010484][1050010484] 250M249 Death Box ( Combat Box) |
+30701. [1050010501][1050010501] ###Stargaze Fury - M249 Magazine ( Level 1 ) |
+30702. [1050010502][1050010502] ###Stargaze Fury - M249 Gun Stock ( Level 1 ) |
+30703. [1050010511][1050010511] ###Stargaze Fury - M249 Magazine ( Level 1 ) |
+30704. [1050010512][1050010512] ###Stargaze Fury - M249 Gun Stock ( Level 2 ) |
+30705. [1050010519][1050010519] Stargaze Fury - M249 Death Box ( Smoke ) |
+30707. [1050010522][1050010522] ###Stargaze Fury - M249 Gun Stock ( Level 3 ) |
+30708. [1050010531][1050010531] ###Stargaze Fury - M249 Magazine ( Level 1 ) |
+30709. [1050010532][1050010532] ###Stargaze Fury - M249 Gun Stock ( Level 4 ) |
+30710. [1050010541][1050010541] ###Stargaze Fury - M249 Magazine ( Level 1 ) |
+30711. [1050010542][1050010542] ###Stargaze Fury - M249 Gun Stock ( Level 5 ) |
+30712. [1050010571][1050010571] ###290-M249 Magazine |
+30713. [1050010572][1050010572] ###290-M249 Gun Stock |
+32464. [1105001001][1105001001] Wither -M249 | Wither -M249 , the touch of withering, the killing blow, once attacked, death will pour down.
+32465. [1105001002][1105001002] Crazy Circus -M249 | Crazy Circus -M249 , with full firepower, dominates the audience and performs a wonderful circus!
+32466. [1105001012][1105001012] Infected Crazy Bear -M249 |
+32467. [1105001013][1105001013] S10 Season -M249 |
+32468. [1105001014][1105001014] Ocean Storm -M249 |
+32469. [1105001016][1105001016] Ice Queen -M249 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32470. [1105001017][1105001017] Ice Queen -M249 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32471. [1105001018][1105001018] Ice Queen -M249 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32472. [1105001019][1105001019] Ice Queen -M249 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32473. [1105001020][1105001020] Ice Queen -M249 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32474. [1105001025][1105001025] S19 Season -M249 |
+32475. [1105001026][1105001026] Wild Mecha -M249 |
+32476. [1105001028][1105001028] Party Salute -M249 ( Level 1 ) | Can be upgraded at the Research Institute to gain additional effects.
+32477. [1105001029][1105001029] Party Salute -M249 ( Level 2 ) | Can be upgraded at the Research Institute to gain additional effects.
+32478. [1105001030][1105001030] Party Salute -M249 ( Level 3 ) | Can be upgraded at the Research Institute to gain additional effects .
+32479. [1105001031][1105001031] Party Salute -M249 ( Level 4 ) | Can be upgraded at the Research Institute to gain additional effects.
+32480. [1105001032][1105001032] Party Salute -M249 ( Level 5 ) | Can be upgraded in the Research Institute to gain additional effects.
+32481. [1105001033][1105001033] Party Salute -M249 ( Level 6 ) | Can be upgraded at the Research Institute to gain additional effects.
+32482. [1105001034][1105001034] Party Salute -M249 ( Level 7 ) | Can be upgraded at the Research Institute to gain additional effects.
+32483. [1105001035][1105001035] Mr. Magic Rabbit -M249 |
+32484. [1105001036][1105001036] Gold Jade -M249 |
+32485. [1105001037][1105001037] Nostalgic Note -M249 |
+32486. [1105001038][1105001038] Perverse Stranger -M249 |
+32487. [1105001040][1105001040] Kyoto Nightmare - M249 |
+32488. [1105001041][1105001041] Jade Rabbit Fairy -M249 |
+32489. [1105001042][1105001042] Empress Jihui -M249 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32490. [1105001043][1105001043] Empress Jihui -M249 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32491. [1105001044][1105001044] Ji Hui Empress -M249 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32492. [1105001045][1105001045] Ji Hui Empress -M249 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32493. [1105001046][1105001046] Empress Jihui -M249 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32494. [1105001047][1105001047] Empress Jihui -M249 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+32495. [1105001048][1105001048] Empress Jihui -M249 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+32496. [1105001050][1105001050] Stargaze Fury - M249 ( Level 1 ) | Can be upgraded at the Research Institute for additional effects.
+32497. [1105001051][1105001051] Stargaze Fury - M249 ( Level 2 ) | Can be upgraded at the Research Institute for additional effects.
+32498. [1105001052][1105001052] Stargaze Fury - M249 ( Level 3 ) | Can be upgraded at the Research Institute for additional effects.
+32499. [1105001053][1105001053] Stargaze Fury - M249 ( Level 4 ) | Can be upgraded at the Research Institute for additional effects.
+32500. [1105001054][1105001054] Stargaze Fury - M249 ( Level 5 ) | Can be upgraded at the Research Institute for additional effects.
+32501. [1105001057][1105001057] Evil Snow Monster -M249 |

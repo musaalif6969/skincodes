@@ -1,0 +1,3 @@
+32640. [1108001054][1108001054] Dragon-Slaying Blade Machete ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32641. [1108001056][1108001056] Dragon-Slaying Blade Machete ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32642. [1108001057][1108001057] Dragon-Slaying Blade Machete ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.

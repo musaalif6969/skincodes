@@ -1,0 +1,18 @@
+752. [ 103007][ 10300700 ] Mk14 sniper rifle | Select -fire precision marksman rifle, originally equipped with U.S. Special Operations Command units , such as the Navy SEALs ? ? ?
+1146. [293007][29300700] Mk14 sniper rifle default magazine |
+2665. [1030071][103007100] Mk14 sniper rifle (broken) | Broken weapon, only a few accessories can be used
+2666. [1030072][103007200] Mk14 sniper rifle (repaired) | The repaired weapon can be equipped with most accessories
+2667. [1030073][103007300] Mk14 sniper rifle (mint) | intact weapon, all accessories can be used
+2668. [1030074][103007400] Mk14 sniper rifle (improved) | Improved weapon, all accessories can be used, and the damage is increased by 15%
+2669. [1030075][103007500] Mk14 sniper rifle (refined) | Weapon made with high precision, all accessories can be used, damage increased by 30%
+2670. [1030076][103007600] Mk14 sniper rifle (One-eyed Snake) | Special version of One-eyed Snake, the damage is increased by 15% , the firing sound is reduced, and the recoil control and head hit are improved ????easy? ????? ? ??? ? ? ? ?
+2671. [1030077][103007700] Mk14 sniper rifle (Steel Front) | Steel Front special edition, damage increased by 15% . Strengthen the durability , reload speed , and scope opening speed , while reducing the ?
+23872. [6004073][6004073] Mk14 sniper rifle - gold medal | Become a gun god! With this firearm, you are unstoppable and invincible!
+23873. [6004074][6004074] Mk14 sniper rifle - Silver | Man and gun in one! Facing powerful enemies, this firearm is your best partner!
+23874. [6004075][6004075] Mk14 sniper rifle - Bronze medal | Missless shots! Your use of this firearm is already perfect!
+24678. [12219487][12219487] Hall Mk14 firearm inspection action |
+32320. [1103007016][1103007016] Nebula Power -Mk14 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32321. [1103007017][1103007017] Nebula Power -Mk14 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32322. [1103007018][1103007018] Nebula Power -Mk14 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32323. [1103007019][1103007019] Nebula Power -Mk14 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32324. [1103007020][1103007020] Nebula Power -Mk14 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.

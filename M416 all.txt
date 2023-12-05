@@ -1,0 +1,576 @@
+713. [101004][10100400] M416 automatic rifle | German quality , rock solid.
+900. [203008][20300800] M416 mechanical sight |
+947. [204016][20401600] Parallel magazine ( automatic rifle ) | Significantly increases magazine capacity. AKM , M762 , M416 , M16A4 , SCAR _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+949. [204018][20401800] ### Parallel magazine pre-research | Significantly increase the magazine capacity. AKM , M762 , M416 , M16A4 , SCAR _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+955. [205005][20500500] M416 default stock |
+965. [206102][20610200] XT Upgrade Box -M416 | Upgrade M416 to M416-XT . The speed of reloading and gun movement is increased.
+1124. [291004][29100400] M416 assault rifle default magazine |
+1170. [303001][30300100] 5.56mm bullet | M16A4 , M416 , SCAR-L , AUG , M249 , Mini14 , Q?????easy? ???? ? ??View ? ? ? ? ?
+2432. [1000021][0] Premium Rifle Value Pack | Try your luck ~ There is a certain probability of getting M416 automatic rifle (improved), M762 automatic rifle (?????easy? ???? ? ? ?pulver ? ? ? ? ?
+2439. [1000028][0] M416 suit (in good condition) | After opening , you will get the M416 automatic rifle (in good condition), 3x scope , and rifle muzzle compensator (in good condition)????? easy? ?????hard ??? ? ? ? ?
+2444. [1000033][0] One-eyed Snake M416 Lucky Gift Pack | Get random props every time you use it , and there is a certain probability of getting the exquisite One-eyed Snake M416 automatic rifle.
+2445. [1000034][0] Steel Front M416 Lucky Gift Pack | Get random props every time you use it , and there is a certain probability of getting the exquisite Steel Front M416 automatic rifle.
+2506. [1010041][101004100] M416 Automatic Rifle (Broken) | Broken weapon with only a few accessories available
+2507. [1010042][101004200] M416 Automatic Rifle (Repaired) | The repaired weapon can be equipped with most accessories
+2508. [1010043][101004300] M416 automatic rifle (mint) | intact weapon, all accessories can be used
+2509. [1010044][101004400] M416 automatic rifle (improved) | Improved weapon, can use all accessories, damage increased by 15%
+2510. [1010045][101004500] M416 automatic rifle (refined) | High-precision manufacturing of weapons, all accessories can be used, and the damage is increased by 30%
+2511. [1010046][101004600] M416 Automatic Rifle (One-Eyed Snake) | Special version of One-Eyed Snake, the damage is increased by 15% , the firing sound is reduced, and the recoil control is improved
+2512. [1010047][101004700] M416 Automatic Rifle (Steel Front) | Steel Front special edition, damage increased by 15% . Strengthen the durability , reload speed , and scope opening speed , and also improve the ?
+2513. [1010049][101004900] M416 automatic rifle | German quality , rock solid.
+12302. [1521561][0] Time and Space Roaming -M416 Gift Pack | Contains a variety of value-for-money discount items!
+12306. [1521565][0] Wilderness Impression -M416 Gift Pack | Contains a variety of great value discount items!
+12312. [1521571][0] Time and Space Roaming -M416 Gift Pack | Contains a variety of value-for-money discount items!
+13452. [1523210][0] AU Reaper -M416 | Contains a variety of great value discount items!
+13485. [1523243][0] CH Rugged (Orange) -M416 | Contains a variety of great discount items!
+13492. [1523250][0] PL Rugged (Orange) -M416 | Contains a variety of great discount items!
+13496. [1523254][0] TR Rugged (Orange) -M416 | Contains a variety of great discount items!
+15884. [1537011][0] Recruit M416 skin gift pack | Receive one of the rewards randomly :
+18081. [1621458][0] Level 2 M416 Set | Contains a variety of firearms and accessories
+18085. [1621462][0] Level 3 M416 Set | Contains a variety of firearms and accessories
+18286. [1700160][1101004019] Silver Plate-M416 ( 60 days) |
+18287. [1700161][1101004032] Celebration Night -M416 ( 60 days) |
+23809. [6004010][6004010] M416 Automatic Rifle - Gold Medal | Become a gun god! With this firearm, you are unstoppable and invincible!
+23810. [6004011][6004011] M416 automatic rifle - Silver | Man and gun in one! Facing powerful enemies, this firearm is your best partner!
+23811. [6004012][6004012] M416 Automatic Rifle - Bronze Medal | Missless shots! Your use of this firearm is already perfect!
+24839. [12219655][12219655] M416 firearm inspection |
+25243. [17001617][1101004032] Celebration Night -M416 ( 7 days) |
+25970. [100400101][100400101] Gold M416 Default Stock |
+25971. [100400102][100400102] Gold M416 Default Magazine |
+25972. [100400103][100400103] Gold M416 default sight |
+26330. [417004230][417004230] 210M416 ???? ? ??? ? ???? |
+26442. [441004010][1101004010] Skeleton Hand -M416 | Skeleton Hand -M416 , stable and reliable, brutal killing, Skeleton Hand salutes you!
+26754. [841004005][1101004005] Death Harvest -M416 | This weapon is decorated with a skull pattern and is embellished with green printing. I am traveling at home , and killing people and silencing them will definitely be done .
+26755. [841004030][1101004030] Time and Space Odyssey -M416 |
+26894. [911004003][1101004003] Graffiti Art -M416 | Street graffiti style, showing fashionable personality. Let's do some Hip-hop !
+26895. [911004005][1101004005] Death Harvest -M416 | This weapon is decorated with a skull pattern and is embellished with a green print. It 's a home trip , killing people and killing them will be done .
+26896. [911004006][1101004006] Dcamo-M416 | Dcamo-M416 , actual combat camouflage, professional war pattern, guaranteed strength in the battlefield!
+26897. [911004007][1101004007] Blood Oath -M416 | Blood Oath -M416 , Blood Oath, strong suppression, guarding the honor of the oath!
+26898. [911004009][1101004009] The power of the jungle -M416 | The power of the jungle -M416 , understand the power of the jungle, face the stubborn enemy, and be as silent as the forest.
+26899. [911004010][1101004010] Skeleton Hand -M416 | Skeleton Hand -M416 , stable and reliable, brutal killing, Skeleton Hand salutes you!
+26900.[911004014][1101004014] Speed Driver -M416 |
+26901. [911004030][1101004030] Time and Space Odyssey -M416 |
+27216. [931004003][1101004003] Graffiti Art -M416 | Street graffiti style, showing fashionable personality. Let's do some Hip-hop !
+27217. [931004008][1101004008] Blood Soul -M416 | Blood Soul -M416 , deadly combat power, crazy killing, blood soul burning in the battle!
+27218. [931004010][1101004010] Skeleton Hand -M416 | Skeleton Hand -M416 , stable and reliable, brutal killing, Skeleton Hand salutes you!
+27219. [931004011][1101004011] Purple Cyberpunk -M416 | Purple Cyberpunk -M416 , deadly firepower, steady killing, I wish you good luck in the battle!
+27220. [931004030][1101004030] Time and Space Odyssey -M416 |
+28233. [1010040021][1010040021] Viper -M416 Magazine |
+28234. [1010040022][1010040022] Viper -M416 sight |
+28235. [1010040023][1010040023] Viper -M416 Gun Stock |
+28236. [1010040031][1010040031] Graffiti Art -M416 Magazine |
+28237. [1010040032][1010040032] Graffiti Art -M416 Sight |
+28238. [1010040033][1010040033] Graffiti Art -M416 Gun Stock |
+28239. [1010040041][1010040041] Desert Storm -M416 Magazine |
+28240. [1010040042][1010040042] Desert Storm -M416 Sight |
+28241. [1010040043][1010040043] Desert Storm -M416 Gun Stock |
+28242. [1010040051][1010040051] Death Harvest -M416 Magazine |
+28243. [1010040052][1010040052] Death Harvest -M416 Sight |
+28244. [1010040053][1010040053] Death Harvest -M416 Gun Stock |
+28245. [1010040061][1010040061] Dcamo-M416 magazine |
+28246. [1010040062][1010040062] Dcamo-M416 sight |
+28247. [1010040063][1010040063] Dcamo-M416 gun stock |
+28266. [1010040141][1010040141] Speed Driver -M416 Magazine |
+28267. [1010040142][1010040142] Speed Driver -M416 Sight |
+28268.[1010040143][1010040143] Speed Driver -M416 Gun Stock |
+28272. [1010040161] [1010040161] Wilderness Impression -M416 Magazine |
+28273. [1010040162][1010040162] Field Impression -M416 Sight |
+28274. [1010040163][1010040163] Impression of the Wilderness -M416 Gun Stock |
+28275. [1010040171][1010040171] Bowtie -M416 Magazine |
+28276. [1010040172][1010040172] Bowtie -M416 sight |
+28277. [1010040173][1010040173] Bowtie -M416 Gun Stock |
+28278. [1010040181][1010040181] Rainbow Power -M416 Magazine |
+28279. [1010040182][1010040182] Rainbow Power -M416 Sight |
+28280.[1010040183][1010040183] Rainbow Power -M416 Gun Stock |
+28281. [1010040191][1010040191] Silver Plate-M416 Magazine |
+28282. [1010040192][1010040192] Silver Plate-M416 sight |
+28283. [1010040193][1010040193] Silver Plate-M416 Stock |
+28284. [1010040301][1010040301] Time and space roaming -M416 magazine |
+28285. [1010040302][1010040302] Time and space roaming -M416 sight |
+28286. [1010040303][1010040303] Time and Space Odyssey -M416 Gun Stock |
+28287. [1010040311][1010040311] Evil Night -M416 Magazine |
+28288. [1010040312][1010040312] Evil Night -M416 Sight |
+28289. [1010040313][1010040313] Evil Night -M416 Gun Stock |
+28290. [1010040321][1010040321] Celebration Night -M416 Magazine |
+28291. [1010040322][1010040322] Celebration Night -M416 Sight |
+28292. [1010040323][1010040323] Celebration Night -M416 Gun Stock |
+28293. [1010040331][1010040331] Earl Red Nightmare -M416 Magazine |
+28294. [1010040332][1010040332] Earl Red Nightmare -M416 Sight |
+28295. [1010040333][1010040333] Earl Red Nightmare -M416 Gun Stock |
+28296. [1010040341][1010040341] Golden Age -M416 Magazine |
+28297. [1010040342][1010040342] Golden Age -M416 Sight |
+28298. [1010040343][1010040343] Golden Age -M416 Gun Stock |
+28299. [1010040351][1010040351] Colorful Phantom -M416 Magazine |
+28300. [1010040352][1010040352] Colorful Phantom -M416 Sight |
+28301. [1010040353][1010040353] Colorful Phantom -M416 Gun Stock |
+28302. [1010040361][1010040361] Maple Forest Sunset -M416 Magazine |
+28303. [1010040362][1010040362] Maple Forest Sunset -M416 Sight |
+28304. [1010040363][1010040363] Maple Forest Sunset -M416 Gun Stock |
+28305. [1010040391][1010040391] Monster Tuta -M416 Magazine |
+28306. [1010040392][1010040392] Monster Tuta -M416 Sight |
+28307. [1010040393][1010040393] Monster Tuta -M416 Gun Stock |
+28308. [1010040401][1010040401] Frost Core -M416 Magazine ( Level 1 ) |
+28309. [1010040402][1010040402] Frost Core -M416 Sight ( Level 1 ) |
+28310. [1010040403][1010040403] Frost Core -M416 Gun Stock ( Level 1 ) |
+28311. [1010040411][1010040411] Frost Core -M416 Magazine ( Level 2 ) |
+28312. [1010040412][1010040412] Frost Core -M416 Sight ( Level 2 ) |
+28313. [1010040413][1010040413] Frost Core -M416 Gun Stock ( Level 2 ) |
+28314. [1010040414][1010040414] Frost Core -M416 Death Box |
+28315. [1010040421][1010040421] Frost Core -M416 Magazine ( Level 3 ) |
+28316. [1010040422][1010040422] Frost Core -M416 Sight ( Level 3 ) |
+28317. [1010040423][1010040423] Frost Core -M416 Gun Stock ( Level 3 ) |
+28318. [1010040431][1010040431] Frost Core -M416 Magazine ( Level 4 ) |
+28319. [1010040432][1010040432] Frost Core -M416 Sight ( Level 4 ) |
+28320. [1010040433][1010040433] Frost Core -M416 Gun Stock ( Level 4 ) |
+28321. [1010040441][1010040441] Frost Core -M416 Magazine ( Level 5 ) |
+28322. [1010040442][1010040442] Frost Core -M416 Sight ( Level 5 ) |
+28323. [1010040443][1010040443] Frost Core -M416 Gun Stock ( Level 5 ) |
+28324. [1010040451][1010040451] Frost Core -M416 Magazine ( Level 6 ) |
+28325. [1010040452][1010040452] Frost Core -M416 Sight ( Level 6 ) |
+28326. [1010040453][1010040453] Frost Core -M416 Gun Stock ( Level 6 ) |
+28327. [1010040461][1010040461] Frost Core -M416 Magazine ( Level 7 ) |
+28328. [1010040462][1010040462] Frost Core -M416 Sight ( Level 7 ) |
+28329. [1010040463][1010040463] Frost Core -M416 Gun Stock ( Level 7 ) |
+28330. [1010040464][1010040464] Frost Core -M416 Death Box |
+28331. [1010040465][1010040465] Frost Core -M416 Hall Death Box |
+28352. [1010040491][1010040491] Lethal Umbrella -M416 Magazine |
+28353. [1010040492][1010040492] Lethal Umbrella -M416 Sight |
+28354. [1010040493][1010040493] Lethal Umbrella -M416 Gun Stock |
+28355. [1010040511][1010040511] Street Graffiti -M416 Magazine |
+28356. [1010040512][1010040512] Street graffiti -M416 sight |
+28357. [1010040513][1010040513] Street Graffiti -M416 Gun Stock |
+28358. [1010040531][1010040531] Secret Treasure of the Ancient Temple -M416 Magazine |
+28359. [1010040532][1010040532] Secret Treasure of the Ancient Temple -M416 Sight |
+28360. [1010040533][1010040533] Secret Treasure of the Ancient Temple -M416 Gun Stock |
+28361. [1010040541][1010040541] ### Witch Mansion -M416 Magazine |
+28362. [1010040542][1010040542] ### Witch Mansion -M416 Sight |
+28363. [1010040543][1010040543] ### Witch Mansion -M416 Gun Stock |
+28364. [1010040551][1010040551] Dark Comedy -M416 Magazine |
+28365. [1010040552][1010040552] Dark Comedy -M416 Sight |
+28366. [1010040553][1010040553] Dark Comedy -M416 Gun Stock |
+28367. [1010040561][1010040561] Foolish Clown -M416 Magazine ( Level 1 ) |
+28368. [1010040562][1010040562] Foolish Clown -M416 Sight ( Level 1 ) |
+28369. [1010040563][1010040563] Foolish Clown -M416 Gun Stock ( Level 1 ) |
+28370. [1010040571][1010040571] Foolish Clown -M416 Magazine ( Level 2 ) |
+28371. [1010040572][1010040572] Foolish Clown -M416 Sight ( Level 2 ) |
+28372. [1010040573][1010040573] Foolish Clown -M416 Gun Stock ( Level 2 ) |
+28373. [1010040574][1010040574] Foolish Clown -M416 Death Box |
+28374. [1010040581][1010040581] Foolish Clown -M416 Magazine ( Level 3 ) |
+28375. [1010040582][1010040582] Foolish Clown -M416 Sight ( Level 3 ) |
+28376. [1010040583][1010040583] Foolish Clown -M416 Gun Stock ( Level 3 ) |
+28377. [1010040591][1010040591] Foolish Clown -M416 Magazine ( Level 4 ) |
+28378. [1010040592][1010040592] Foolish Clown -M416 Sight ( Level 4 ) |
+28379. [1010040593][1010040593] Foolish Clown -M416 Gun Stock ( Level 4 ) |
+28380. [1010040601][1010040601] Foolish Clown -M416 Magazine ( Level 5 ) |
+28381. [1010040602][1010040602] Foolish Clown -M416 Sight ( Level 5 ) |
+28382. [1010040603][1010040603] Foolish Clown -M416 Gun Stock ( Level 5 ) |
+28383. [1010040611][1010040611] Foolish Clown -M416 Magazine ( Level 6 ) |
+28384. [1010040612][1010040612] Foolish Clown -M416 Sight ( Level 6 ) |
+28385. [1010040613][1010040613] Foolish Clown -M416 Gun Stock ( Level 6 ) |
+28386. [1010040621][1010040621] Foolish Clown -M416 Magazine ( Level 7 ) |
+28387. [1010040622][1010040622] Foolish Clown -M416 Sight ( Level 7 ) |
+28388. [1010040623][1010040623] Foolish Clown -M416 Gun Stock ( Level 7 ) |
+28389. [1010040624][1010040624] Foolish Clown -M416 Death Box |
+28390.[1010040625][1010040625] Foolish Clown -M416 Hall Death Box |
+28391. [1010040671][1010040671] Flame Wind Breath -M416 Magazine |
+28392. [1010040672][1010040672] Breath of Flame -M416 Sight |
+28393. [1010040673][1010040673] Breath of Flame Wind -M416 Gun Stock |
+28394. [1010040691][1010040691] Sky Hunter -M416 Magazine |
+28395. [1010040692][1010040692] Sky Hunter -M416 Sight |
+28396. [1010040693][1010040693] Sky Hunter -M416 Gun Stock |
+28397. [1010040701][1010040701] Tangram -M416 Magazine |
+28398. [1010040702][1010040702] Tangram -M416 sight |
+28399. [1010040703][1010040703] Tangram -M416 Gun Stock |
+28400. [1010040711][1010040711] Libra -M416 Magazine |
+28401. [1010040712][1010040712] Libra -M416 sight |
+28402. [1010040713][1010040713] Libra -M416 Gun Stock |
+28403. [1010040721][1010040721] Exotic Wanderer -M416 Magazine ( Level 1 ) |
+28404. [1010040722][1010040722] Exotic Wanderer -M416 Sight ( Level 1 ) |
+28405. [1010040723][1010040723] Exotic Wanderer -M416 Gun Stock ( Level 1 ) |
+28406. [1010040731][1010040731] Exotic Wanderer -M416 Magazine ( Level 2 ) |
+28407. [1010040732][1010040732] Exotic Wanderer -M416 Sight ( Level 2 ) |
+28408. [1010040733][1010040733] Exotic Wanderer -M416 Gun Stock ( Level 2 ) |
+28409. [1010040734][1010040734] Exotic Wanderer -M416 Death Box |
+28410. [1010040741][1010040741] Exotic Wanderer -M416 Magazine ( Level 3 ) |
+28411. [1010040742][1010040742] Exotic Wanderer -M416 Sight ( Level 3 ) |
+28412. [1010040743][1010040743] Exotic Wanderer -M416 Gun Stock ( Level 3 ) |
+28413. [1010040751][1010040751] Exotic Wanderer -M416 Magazine ( Level 4 ) |
+28414. [1010040752][1010040752] Exotic Wanderer -M416 Sight ( Level 4 ) |
+28415. [1010040753][1010040753] Exotic Wanderer -M416 Gun Stock ( Level 4 ) |
+28416. [1010040761][1010040761] Exotic Wanderer -M416 Magazine ( Level 5 ) |
+28417. [1010040762][1010040762] Exotic Wanderer -M416 Sight ( Level 5 ) |
+28418. [1010040763][1010040763] Exotic Wanderer -M416 Gun Stock ( Level 5 ) |
+28419. [1010040771][1010040771] Exotic Wanderer -M416 Magazine ( Level 6 ) |
+28420. [1010040772][1010040772] Exotic Wanderer -M416 Sight ( Level 6 ) |
+28421. [1010040773][1010040773] Exotic Wanderer -M416 Gun Stock ( Level 6 ) |
+28422. [1010040781][1010040781] Exotic Wanderer -M416 Magazine ( Level 7 ) |
+28423. [1010040782][1010040782] Exotic Wanderer -M416 Sight ( Level 7 ) |
+28424. [1010040783][1010040783] Exotic Wanderer -M416 Gun Stock ( Level 7 ) |
+28425. [1010040784][1010040784] Exotic Wanderer -M416 Death Box |
+28426. [1010040785][1010040785] Exotic Wanderer -M416 Hall Death Box |
+28427. [1010040791][1010040791] Shadow Raiders -M416 Magazine |
+28428. [1010040792][1010040792] Shadow Raiders -M416 Sight |
+28429. [1010040793][1010040793] Shadow Raiders -M416 Gun Stock |
+28430. [1010040801][1010040801] Cute Dragon Roar -M416 Magazine ( Level 1 ) |
+28431. [1010040802][1010040802] Cute Dragon Roar -M416 Sight ( Level 1 ) |
+28432. [1010040803][1010040803] Cute Dragon Roar -M416 Gun Stock ( Level 1 ) |
+28433. [1010040811][1010040811] Cute Dragon Roar -M416 Magazine ( Level 2 ) |
+28434. [1010040812][1010040812] Cute Dragon Roar -M416 Sight ( Level 2 ) |
+28435. [1010040813][1010040813] Cute Dragon Roar -M416 Gun Stock ( Level 2 ) |
+28436. [1010040814][1010040814] Cute Dragon Roar -M416 Death Box |
+28437. [1010040821][1010040821] Cute Dragon Roar -M416 Magazine ( Level 3 ) |
+28438. [1010040822][1010040822] Cute Dragon Roar -M416 Sight ( Level 3 ) |
+28439. [1010040823][1010040823] Cute Dragon Roar -M416 Gun Stock ( Level 3 ) |
+28440. [1010040831][1010040831] Cute Dragon Roar -M416 Magazine ( Level 4 ) |
+28441. [1010040832][1010040832] Cute Dragon Roar -M416 Sight ( Level 4 ) |
+28442. [1010040833][1010040833] Cute Dragon Roar -M416 Gun Stock ( Level 4 ) |
+28443. [1010040841][1010040841] Cute Dragon Roar -M416 Magazine ( Level 5 ) |
+28444. [1010040842][1010040842] Cute Dragon Roar -M416 Sight ( Level 5 ) |
+28445. [1010040843][1010040843] Cute Dragon Roar -M416 Gun Stock ( Level 5 ) |
+28446. [1010040851][1010040851] Cute Dragon Roar -M416 Magazine ( Level 6 ) |
+28447. [1010040852][1010040852] Cute Dragon Roar -M416 Sight ( Level 6 ) |
+28448. [1010040853][1010040853] Cute Dragon Roar -M416 Gun Stock ( Level 6 ) |
+28449. [1010040861][1010040861] Cute Dragon Roar -M416 Magazine ( Level 7 ) |
+28450. [1010040862][1010040862] Cute Dragon Roar -M416 Sight ( Level 7 ) |
+28451. [1010040863][1010040863] Cute Dragon Roar -M416 Gun Stock ( Level 7 ) |
+28452. [1010040864][1010040864] Cute Dragon Roar -M416 Death Box |
+28453. [1010040865][1010040865] Cute Dragon Roar -M416 Hall Death Box |
+28454. [1010040871][1010040871] Arctic Hunting -M416 Magazine |
+28455. [1010040872][1010040872] Arctic Hunting -M416 Sight |
+28456. [1010040873][1010040873] Extreme Cold Hunting -M416 Gun Stock |
+28457. [1010040881][1010040881] Shadow of the Gods -M416 Magazine |
+28458. [1010040882][1010040882] Shadow of the Gods -M416 Sight |
+28459. [1010040883][1010040883] Shadow of the Gods -M416 Gun Stock |
+28460. [1010040891][1010040891] Temple Agent -M416 Magazine |
+28461. [1010040892][1010040892] Temple Agent -M416 Sight |
+28462. [1010040893][1010040893] Temple Agent -M416 Gun Stock |
+28463. [1010040901][1010040901] Qili Huazi -M416 Magazine |
+28464. [1010040902][1010040902] Qili Huazi -M416 sight |
+28465. [1010040903][1010040903] Qili Huazi -M416 Gun Stock |
+28466. [1010040911][1010040911] Freedom Guardian -M416 Magazine |
+28467. [1010040912][1010040912] Freedom Guardian -M416 Sight |
+28468. [1010040913][1010040913] Freedom Guardian -M416 Gun Stock |
+28469. [1010040921][1010040921] ### Wild Totem -M416 Magazine ( Level 1 ) |
+28470. [1010040922][1010040922] ### Wild Totem -M416 Sight ( Level 1 ) |
+28471. [1010040923][1010040923] ### Wild Totem -M416 Gun Stock ( Level 1 ) |
+28478. [1010040931][1010040931] ### Wild Totem -M416 Magazine ( Level 2 ) |
+28479. [1010040932][1010040932] ### Wild Totem -M416 Sight ( Level 2 ) |
+28480. [1010040933][1010040933] ### Wild Totem -M416 Gun Stock ( Level 2 ) |
+28487. [1010040941][1010040941] ### Wild Totem -M416 Magazine ( Level 3 ) |
+28488. [1010040942][1010040942] ### Wild Totem -M416 Sight ( Level 3 ) |
+28489. [1010040943][1010040943] ### Wild Totem -M416 Gun Stock ( Level 3 ) |
+28492. [1010040946][1010040946] ### Wild Totem -M416 Death Box |
+28493. [1010040951][1010040951] ### Wild Totem -M416 Magazine ( Level 4 ) |
+28494. [1010040952][1010040952] ### Wild Totem -M416 Sight ( Level 4 ) |
+28495. [1010040953][1010040953] ### Wild Totem -M416 Gun Stock ( Level 4 ) |
+28496. [1010040961][1010040961] ### Wild Totem -M416 Magazine ( Level 5 ) |
+28497. [1010040962][1010040962] ### Wild Totem -M416 Sight ( Level 5 ) |
+28498. [1010040963][1010040963] ### Wild Totem -M416 Gun Stock ( Level 5 ) |
+28499. [1010040971][1010040971] ### Wild Totem -M416 Magazine ( Level 6 ) |
+28500. [1010040972][1010040972] ### Wild Totem -M416 Sight ( Level 6 ) |
+28501. [1010040973][1010040973] ### Wild Totem -M416 Gun Stock ( Level 6 ) |
+28502. [1010040981][1010040981] ### Wild Totem -M416 Magazine ( Level 7 ) |
+28503. [1010040982][1010040982] ### Wild Totem -M416 Sight ( Level 7 ) |
+28504. [1010040983][1010040983] ### Wild Totem -M416 Gun Stock ( Level 7 ) |
+28505. [1010040984][1010040984] ### Wild Totem -M416 Death Box |
+28506. [1010040985][1010040985] ### Wild Totem -M416 Hall Death Box |
+28507. [1010040991][1010040991] ### Western Beauty -M416 Magazine |
+28508. [1010040992][1010040992] ###???-M416 sight |
+28509. [1010040993][1010040993] ### Western Beauty -M416 Gun Stock |
+28510. [1010041101][1010041101] ### Thorn Guard -M416 Magazine |
+28511. [1010041102][1010041102] ### Thorn Guard -M416 Sight |
+28512. [1010041103][1010041103] ### Thorn Guard -M416 Gun Stock |
+28513. [1010041121][1010041121] ###1600-M416 Magazine |
+28514. [1010041122][1010041122] ###1600-M416 sight |
+28515. [1010041123][1010041123] ###1600-M416 Gun Stock |
+28522. [1010041131][1010041131] ###1600-M416 Magazine |
+28523. [1010041132][1010041132] ###1600-M416 sight |
+28524. [1010041133][1010041133] ###1600-M416 Gun Stock |
+28531. [1010041141][1010041141] ###1600-M416 Magazine |
+28532. [1010041142][1010041142] ###1600-M416 sight |
+28533. [1010041143][1010041143] ###1600-M416 Gun Stock |
+28537. [1010041147][1010041147] ###1600-M416 Death Box |
+28538. [1010041171][1010041171] ### Spiritual Night Watch -M416 Magazine |
+28539. [1010041172][1010041172] ### Spiritual Night Watch -M416 Sight |
+28540. [1010041173][1010041173] ### Spiritual Night Watch -M416 Gun Stock |
+28541. [1010041181][1010041181] ### Weird Doll -M416 Magazine |
+28542. [1010041182][1010041182] ### Weird Doll -M416 Sight |
+28543. [1010041183][1010041183] ### Weird Doll -M416 Gun Stock |
+28544. [1010041191][1010041191] ### Blade Company -M416 Magazine |
+28545. [1010041192][1010041192] ### Blade Company -M416 Sight |
+28546. [1010041193][1010041193] ### Blade Company -M416 Gun Stock |
+28547. [1010041201][1010041201] Jinyao Queen Bee -M416 Magazine |
+28548. [1010041202][1010041202] Jin Yao Queen Bee -M416 sight |
+28549. [1010041203][1010041203] Jinyao Queen Bee -M416 Gun Stock |
+28550. [1010041221][1010041221] KONG-M416 magazine |
+28551. [1010041222][1010041222] KONG-M416 sight |
+28552. [1010041223][1010041223] KONG-M416 gun stock |
+28553. [1010041231][1010041231] ### Carnival Master -M416 Magazine |
+28554. [1010041232][1010041232] ### Carnival Master -M416 Sight |
+28555. [1010041233][1010041233] ### Carnival Master -M416 Gun Stock |
+28556. [1010041241][1010041241] ### Mecha Warrior -M416 Magazine |
+28557. [1010041242][1010041242] ### Mecha Warrior -M416 Sight |
+28558. [1010041243][1010041243] ### Mecha Warrior -M416 Gun Stock |
+28559. [1010041251][1010041251] ###1800-M416 Magazine |
+28560. [1010041252][1010041252] ###1800-M416 sight |
+28561. [1010041253][1010041253] ###1800-M416 Gun Stock |
+28562. [1010041331][1010041331] ### Power of Azure -M416 Magazine |
+28563. [1010041332][1010041332] ### Power of Blue -M416 Sight |
+28564. [1010041333][1010041333] ### Blue Power -M416 Gun Stock |
+28565. [1010041351][1010041351] ###1600-M416 Magazine |
+28566. [1010041352][1010041352] ###1600-M416 sight |
+28567. [1010041353][1010041353] ###1600-M416 Gun Stock |
+28568. [1010041361][1010041361] ###1600-M416 Magazine |
+28569. [1010041362][1010041362] ###1600-M416 sight |
+28570. [1010041363][1010041363] ###1600-M416 Gun Stock |
+28571. [1010041371][1010041371] ###1600-M416 Magazine |
+28572. [1010041372][1010041372] ###1600-M416 sight |
+28573. [1010041373][1010041373] ###1600-M416 Gun Stock |
+28574. [1010041381][1010041381] ###1600-M416 Magazine |
+28575. [1010041382][1010041382] ###1600-M416 sight |
+28576. [1010041383][1010041383] ###1600-M416 Gun Stock |
+28577. [1010041384][1010041384] Technology Core -M416 Death Box |
+28578. [1010041385][1010041385] Technology Core -M416 Hall Death Box |
+28579. [1010041451][1010041451] ### Charming Phantom -M416 Magazine |
+28580. [1010041452][1010041452] ### Charming Phantom -M416 Sight |
+28581. [1010041453][1010041453] ### Charming Phantom -M416 Gun Stock |
+28582. [1010041461][1010041461] ## Kitchen Battle -M416 |
+28583. [1010041462][1010041462] ## Kitchen Battle -M416 |
+28584. [1010041463][1010041463] ## Kitchen Battle -M416 |
+28585. [1010041481][1010041481] ###1800-M416 Magazine |
+28586. [1010041482][1010041482] ###1800-M416 sight |
+28587. [1010041483][1010041483] ###1800-M416 Gun Stock |
+28588. [1010041491][1010041491] ## Fun Kingdom -M416 |
+28589. [1010041492][1010041492] ## Fun Kingdom -M416 |
+28590. [1010041493][1010041493] ## Fun Kingdom -M416 |
+28591. [1010041501][1010041501] ### Colorful Sports -M416 |
+28592. [1010041502][1010041502] ### Colorful Competition -M416 |
+28593. [1010041503][1010041503] ### Colorful Competition -M416 |
+28594. [1010041511][1010041511] ##220-1--M416 |
+28595. [1010041512][1010041512] ##220-1--M416 |
+28596. [1010041513][1010041513] ##220-1--M416 |
+28597. [1010041541][1010041541] ## Flame-proof Armor -M416 |
+28598. [1010041542][1010041542] ## Flame Magic Armor -M416 |
+28599. [1010041543][1010041543] ## Flame Magic Armor -M416 |
+28600. [1010041551][1010041551] ###2100-M416 Magazine |
+28601. [1010041552][1010041552] ###2100-M416 sight |
+28602. [1010041553][1010041553] ###2100-M416 Gun Stock |
+28604. [1010041555][1010041555] 210M416 Death Box ( Smoke ) |
+28605. [1010041556][1010041556] 210M416 Death Box (Box) |
+28606. [1010041557][1010041557] 210M416 Death Box (Performance) |
+28607. [1010041558][1010041558] 210M416 Hall Death Box (Box) |
+28608. [1010041559][1010041559] 210M416 Hall Death Box (Performance) |
+28610. [1010041561][1010041561] ###2100-M416 Magazine |
+28611. [1010041562][1010041562] ###2100-M416 sight |
+28612. [1010041563][1010041563] ###2100-M416 Gun Stock |
+28620. [1010041571][1010041571] ###2100-M416 Magazine |
+28621. [1010041572][1010041572] ###2100-M416 sight |
+28622. [1010041573][1010041573] ###2100-M416 Gun Stock |
+28629. [1010041581][1010041581] ###2100-M416 Magazine |
+28630. [1010041582][1010041582] ###2100-M416 sight |
+28631. [1010041583][1010041583] ###2100-M416 Gun Stock |
+28632. [1010041591][1010041591] ###2100-M416 Magazine |
+28633. [1010041592][1010041592] ###2100-M416 sight |
+28634. [1010041593][1010041593] ###2100-M416 Gun Stock |
+28635. [1010041611][1010041611] ###2100-M416 Magazine |
+28636. [1010041612][1010041612] ###2100-M416 sight |
+28637. [1010041613][1010041613] ###2100-M416 Gun Stock |
+28638. [1010041621][1010041621] ###2100-M416 Magazine |
+28639. [1010041622][1010041622] ###2100-M416 sight |
+28640. [1010041623][1010041623] ###2100-M416 Gun Stock |
+28641. [1010041631][1010041631] ###2100-M416 Magazine |
+28642. [1010041632][1010041632] ###2100-M416 sight |
+28643. [1010041633][1010041633] ###2100-M416 Gun Stock |
+28644. [1010041641][1010041641] ##220-2--M416 |
+28645. [1010041642][1010041642] ##220-2--M416 |
+28646. [1010041643][1010041643] ##220-2--M416 |
+28647. [1010041791][1010041791] ##1-230--M416 |
+28648. [1010041792][1010041792] ##1-230--M416 |
+28649. [1010041793][1010041793] ##1-230--M416 |
+28650. [1010041941][1010041941] ###2400-M416 Magazine |
+28651. [1010041942][1010041942] ###2400-M416 sight |
+28652. [1010041943][1010041943] ###2400-M416 Gun Stock |
+28660. [1010041951][1010041951] ###2400-M416 Magazine |
+28661. [1010041952][1010041952] ###2400-M416 sight |
+28662. [1010041953][1010041953] ###2400-M416 Gun Stock |
+28670. [1010041961][1010041961] ###2400-M416 Magazine |
+28671. [1010041962][1010041962] ###2400-M416 sight |
+28672. [1010041963][1010041963] ###2400-M416 Gun Stock |
+28676. [1010041971][1010041971] ###2400-M416 Magazine |
+28677. [1010041972][1010041972] ###2400-M416 sight |
+28678. [1010041973][1010041973] ###2400-M416 Gun Stock |
+28679. [1010041981][1010041981] ###2400-M416 Magazine |
+28680. [1010041982][1010041982] ###2400-M416 sight |
+28681. [1010041983][1010041983] ###2400-M416 Gun Stock |
+28682. [1010041991][1010041991] ###2400-M416 Magazine |
+28683. [1010041992][1010041992] ###2400-M416 sight |
+28684. [1010041993][1010041993] ###2400-M416 Gun Stock |
+28685. [1010042001][1010042001] ###2400-M416 Magazine |
+28686. [1010042002][1010042002] ###2400-M416 sight |
+28687. [1010042003][1010042003] ###2400-M416 Gun Stock |
+28692. [1010042011][1010042011] ###2400-M416 Magazine |
+28693. [1010042012][1010042012] ###2400-M416 sight |
+28694. [1010042013][1010042013] ###2400-M416 Gun Stock |
+28695. [1010042021][1010042021] ### Tide of Asylum -M416 Magazine |
+28696. [1010042022][1010042022] ### Tide of Shelter -M416 Sight |
+28697. [1010042023][1010042023] ### Tide of Shelter -M416 Gun Stock |
+28704. [1010042031][1010042031] ### Tide of Asylum -M416 Magazine |
+28705. [1010042032][1010042032] ### Tide of Shelter -M416 Sight |
+28706. [1010042033][1010042033] ### Tide of Shelter -M416 Gun Stock |
+28713. [1010042041][1010042041] ### Tide of Asylum -M416 Magazine |
+28714. [1010042042][1010042042] ### Tide of Shelter -M416 Sight |
+28715. [1010042043][1010042043] ### Tide of Shelter -M416 Gun Stock |
+28722. [1010042051][1010042051] ### Tide of Asylum -M416 Magazine |
+28723. [1010042052][1010042052] ### Tide of Shelter -M416 Sight |
+28724. [1010042053][1010042053] ### Tide of Shelter -M416 Gun Stock |
+28727. [1010042056][1010042056] ###270M416 Death Box ( Smoke ) |
+28728. [1010042057][1010042057] ###270M416 Death Box ( Hall Box) |
+28729. [1010042058][1010042058] ###270M416 Death Box ( Combat Box) |
+28730. [1010042059][1010042059] ###270M416 Death Box ( Hall Show) |
+28731. [1010042061][1010042061] ### Tide of Asylum -M416 Magazine |
+28732. [1010042062][1010042062] ### Tide of Shelter -M416 Sight |
+28733. [1010042063][1010042063] ### Tide of Shelter -M416 Gun Stock |
+28734. [1010042071][1010042071] ### Tide of Asylum -M416 Magazine |
+28735. [1010042072][1010042072] ### Tide of Shelter -M416 Sight |
+28736. [1010042073][1010042073] ### Tide of Shelter -M416 Gun Stock |
+28737. [1010042074][1010042074] ###270M416 Death Box ( Battle Performance) |
+28738. [1010042081][1010042081] ### Tide of Asylum -M416 Magazine |
+28739. [1010042082][1010042082] ### Tide of Shelter -M416 Sight |
+28740. [1010042083][1010042083] ### Tide of Shelter -M416 Gun Stock |
+28741. [1010042091][1010042091] ### Tide of Asylum -M416 Magazine |
+28742. [1010042092][1010042092] ### Tide of Shelter -M416 Sight |
+28743. [1010042093][1010042093] ### Tide of Shelter -M416 Gun Stock |
+28744. [1010042101][1010042101] Campus Graffiti -M416 Magazine |
+28745. [1010042102][1010042102] Campus Graffiti -M416 Sight |
+28746. [1010042103][1010042103] Campus Graffiti -M416 Gun Stock |
+31238. [1101004001][1101004001] Yellow minimalist -M416 | Yellow minimalist -M416 , minimalist pure black, golden trim, clean color matching and stable heart.
+31239. [1101004002][1101004002] Viper -M416 | The butt of the gun has a Desert Viper pattern, which is very suitable for confusing opponents in field battles.
+31240. [1101004003][1101004003] Graffiti Art -M416 | Street graffiti style, showing fashionable personality. Let's do some Hip-hop !
+31241. [1101004004][1101004004] Desert Storm -M416 | The gun body adopts camouflage grid design, which is durable and integrated with the earth. It is very suitable for concealed ambush.
+31242. [1101004005][1101004005] Death Harvest -M416 | This weapon is decorated with a skull pattern and is embellished with green printing. It 's a home trip , killing people and silence will definitely be done . _
+31243. [1101004006][1101004006] Dcamo-M416 | Dcamo-M416 , actual combat camouflage, professional war pattern, guaranteed strength in the battlefield!
+31244. [1101004007][1101004007] Blood Oath -M416 | Blood Oath -M416 , blood oath, strong suppression, guarding the honor of the oath!
+31245. [1101004008][1101004008] Blood Soul -M416 | Blood Soul -M416 , deadly combat power, crazy killing, blood soul burning in the battle!
+31246. [1101004009][1101004009] The power of the jungle -M416 | The power of the jungle -M416 , understand the power of the jungle, face the stubborn enemy, and be as silent as the forest.
+31247. [1101004010][1101004010] Skeleton Hand -M416 | Skeleton Hand -M416 , stable and reliable, brutal killing, Skeleton Hand salutes you!
+31248. [1101004011][1101004011] Purple Cyberpunk -M416 | Purple Cyberpunk -M416 , deadly firepower, steady killing, I wish you good luck in the battle!
+31249. [1101004013][1101004013] Frenzy -M416 | Frenzy -M416 , the frenzy is coming , no one can hide, accept the baptism of fire!
+31250. [1101004014][1101004014] Speed Driver -M416 |
+31251. [1101004015][1101004015] Rugged(Orange)-M416 | Rugged(Orange)-M416 , steady fighting spirit, fully armed to defeat the enemy!
+31252. [1101004016] [1101004016] Wilderness Impression -M416 |
+31253. [1101004017][1101004017] Bowtie -M416 |
+31254. [1101004018][1101004018] Rainbow Power -M416 |
+31255. [1101004019][1101004019] Silver Plate-M416 |
+31256. [1101004030][1101004030] Time and space roaming -M416 |
+31257. [1101004031][1101004031] Evil Night -M416 |
+31258. [1101004032][1101004032] Celebration Night -M416 |
+31259. [1101004033][1101004033] Earl of Red Nightmare -M416 |
+31260. [1101004034][1101004034] Golden Age -M416 |
+31261. [1101004035][1101004035] Colorful Phantom -M416 |
+31262. [1101004036][1101004036] Maple Forest Sunset -M416 |
+31263. [1101004039][1101004039] Monster Tuta -M416 |
+31264. [1101004040][1101004040] Frost Core -M416 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31265. [1101004041][1101004041] Frost Core -M416 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31266. [1101004042][1101004042] Frost Core -M416 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31267. [1101004043][1101004043] Frost Core -M416 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31268. [1101004044][1101004044] Frost Core -M416 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31269. [1101004045][1101004045] Frost Core -M416 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31270. [1101004046] [1101004046] Frost Core -M416 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31271. [1101004049][1101004049] Fatal Umbrella -M416 | Fatal Umbrella -M416 , in the name of protection , has a fatal outcome. Every decision must be made carefully!
+31272. [1101004051][1101004051] Street Graffiti -M416 |
+31273. [1101004053][1101004053] Secret Treasure of the Ancient Temple -M416 |
+31274. [1101004054][1101004054] Witch Mansion -M416 |
+31275. [1101004055][1101004055] Dark Comedy -M416 |
+31276. [1101004056][1101004056] Foolish Clown -M416 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31277. [1101004057][1101004057] Foolish Clown -M416 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31278. [1101004058][1101004058] Foolish Clown -M416 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31279. [1101004059][1101004059] Foolish Clown -M416 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31280. [1101004060][1101004060] Foolish Clown -M416 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31281. [1101004061][1101004061] Foolish Clown -M416 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31282. [1101004062][1101004062] Foolish Clown -M416 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31283. [1101004067][1101004067] Flame Wind Breath -M416 |
+31284. [1101004069][1101004069] Sky Hunter -M416 |
+31285. [1101004070][1101004070] Tangram -M416 |
+31286. [1101004071][1101004071] Libra -M416 |
+31287. [1101004072][1101004072] Exotic Wanderer -M416 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31288. [1101004073][1101004073] Exotic Wanderer -M416 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31289. [1101004074][1101004074] Exotic Wanderer -M416 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31290. [1101004075][1101004075] Exotic Wanderer -M416 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31291. [1101004076][1101004076] Exotic Wanderer -M416 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31292. [1101004077][1101004077] Exotic Wanderer -M416 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31293. [1101004078][1101004078] Exotic Wanderer -M416 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31294. [1101004079][1101004079] Shadow Raiders -M416 |
+31295. [1101004080][1101004080] Cute Dragon Roar -M416 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31296. [1101004081][1101004081] Cute Dragon Roar -M416 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31297. [1101004082][1101004082] Cute Dragon Roar -M416 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31298. [1101004083][1101004083] Cute Dragon Roar -M416 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31299. [1101004084][1101004084] Cute Dragon Roar -M416 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31300. [1101004085][1101004085] Cute Dragon Roar -M416 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31301. [1101004086][1101004086] Cute Dragon Roar -M416 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31302. [1101004087][1101004087] Extreme Cold Hunting -M416 |
+31303. [1101004088][1101004088] Shadow of the Gods -M416 |
+31304. [1101004089][1101004089] Temple Agent -M416 |
+31305. [1101004090][1101004090] Purple Flame Tyrant -M416 |
+31306. [1101004091][1101004091] Freedom Guardian -M416 |
+31307. [1101004092][1101004092] Call of the Wild -M416 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31308. [1101004093][1101004093] Call of the Wild -M416 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31309. [1101004094][1101004094] Call of the Wild -M416 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31310. [1101004095][1101004095] Call of the Wild -M416 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31311. [1101004096][1101004096] Call of the Wild -M416 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31312. [1101004097][1101004097] Call of the Wild -M416 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31313. [1101004098][1101004098] Call of the Wild -M416 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31314. [1101004099][1101004099] Western Beauty -M416 |
+31315. [1101004107][1101004019] Silver Plate-M416 ( 7 days) |
+31316. [1101004110][1101004110] Thorn Guard -M416 |
+31317. [1101004112][1101004112] Technology Core -M416 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31318. [1101004113][1101004113] Technology Core -M416 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31319. [1101004114][1101004114] Technology Core -M416 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31320. [1101004117][1101004117] Spiritual Night Watchman -M416 |
+31321. [1101004118][1101004118] Weird Doll -M416 |
+31322. [1101004119][1101004119] Blade Company -M416 |
+31323. [1101004120][1101004120] Jinyao Queen Bee -M416 |
+31324. [1101004122][1101004122] KONG-M416 | Godzilla vs. Kong genuine authorized cooperation
+31325. [1101004123][1101004123] Carnival Master -M416 |
+31326. [1101004124][1101004124] Mecha Warrior -M416 |
+31327. [1101004125][1101004125] Legendary Bounty -M416 |
+31328. [1101004133][1101004133] Power of Azure -M416 |
+31329. [1101004135][1101004135] Technology Core -M416 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31330. [1101004136][1101004136] Technology Core -M416 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31331. [1101004137][1101004137] Technology Core -M416 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31332. [1101004138][1101004138] Technology Core -M416 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31333. [1101004145][1101004145] Charming Phantom -M416 |
+31334. [1101004146][1101004146] Kitchen Battle -M416 |
+31335. [1101004148][1101004148] Rebel Mutant -M416 |
+31336. [1101004149][1101004149] Fun Kingdom -M416 |
+31337. [1101004150][1101004150] Colorful Competition -M416 |
+31338. [1101004151][1101004151] Soul Hunter -M416 |
+31339. [1101004154][1101004154] Flame Magic Armor -M416 |
+31340. [1101004155][1101004155] Chaoming Palace -M416 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31341. [1101004156][1101004156] Chaoming Palace -M416 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31342. [1101004157][1101004157] Chaoming Palace -M416 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31343. [1101004158][1101004158] Chaoming Palace -M416 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects .
+31344. [1101004159][1101004159] Chaoming Palace -M416 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31346. [1101004161][1101004161] Chaoming Palace -M416 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31347. [1101004162][1101004162] Chaoming Palace -M416 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31348. [1101004163][1101004163] Chaoming Palace -M416 ( Level 8 ) | Can be upgraded in the research institute to obtain additional effects.
+31349. [1101004164][1101004164] Rainforest Fruit -M416 |
+31350. [1101004179][1101004179] Gift Box -M416 |
+31351. [1101004194][1101004194] Martial Soul Master -M416 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31352. [1101004195][1101004195] Martial Soul Master -M416 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31353. [1101004196][1101004196] Martial Soul Master -M416 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31354. [1101004197][1101004197] Martial Soul Master -M416 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31355. [1101004198][1101004198] Martial Soul Master -M416 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31356. [1101004199][1101004199] Martial Soul Master -M416 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31357. [1101004200][1101004200] Martial Soul Master -M416 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31358. [1101004201][1101004201] Martial Soul Master -M416 ( Level 8 ) | Can be upgraded in the research institute to obtain additional effects.
+31359. [1101004202][1101004202] Tide of Shelter -M416 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31360. [1101004203][1101004203] Tide of Shelter -M416 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31361. [1101004204][1101004204] Tide of Shelter -M416 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31362. [1101004205][1101004205] Tide of Shelter -M416 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31363. [1101004206][1101004206] Tide of Shelter -M416 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31364. [1101004207][1101004207] Tide of Shelter -M416 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31365. [1101004208][1101004208] Tide of Shelter -M416 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31366. [1101004209][1101004209] Tide of Shelter -M416 ( Level 8 ) | Can be upgraded in the research institute to obtain additional effects.
+31367. [1101004210][1101004210] Campus Graffiti -M416 |
+35978. [2101004013][1101004013] Frenzy -M416 (30 days ) | Frenzy -M416 , the frenzy is coming , no one can hide, accept the baptism of fire!
+35979. [2101004014][1101004016] Wilderness Impression -M416 ( 14 days) |

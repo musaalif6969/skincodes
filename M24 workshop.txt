@@ -1,0 +1,36 @@
+32086. [1103002014][1103002014] Raging Sea -M24 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32087. [1103002015][1103002015] Raging Sea -M24 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32088. [1103002016][1103002016] Raging Sea -M24 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32089. [1103002017][1103002017] Raging Sea -M24 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32090. [1103002018][1103002018] Raging Sea -M24 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32094. [1103002024][1103002024] Golden Scepter -M24 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32095. [1103002025][1103002025] Golden Scepter -M24 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32096. [1103002026][1103002026] Golden Scepter -M24 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32097. [1103002027][1103002027] Golden Scepter -M24 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32098. [1103002028][1103002028] Golden Scepter -M24 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32099. [1103002029][1103002029] Golden Scepter -M24 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+32100. [1103002030][1103002030] Golden Scepter -M24 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+32108. [1103002038][1103002038] Lady Black Butterfly -M24 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32109. [1103002039][1103002039] Lady Black Butterfly -M24 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32110. [1103002040][1103002040] Lady Black Butterfly -M24 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32111. [1103002043][1103002043] Fatal Note -M24 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32112. [1103002044][1103002044] Fatal Note -M24 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32113. [1103002045][1103002045] Fatal Note -M24 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32114. [1103002046][1103002046] Fatal Note -M24 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32115. [1103002047][1103002047] Fatal Note -M24 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32116. [1103002048][1103002048] Lady Black Butterfly -M24 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32117. [1103002049][1103002049] Lady Black Butterfly -M24 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32121. [1103002053][1103002053] Life Cycle -M24 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32122. [1103002054][1103002054] Life Cycle -M24 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32123. [1103002055][1103002055] Life Cycle -M24 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32124. [1103002056][1103002056] Life Cycle -M24 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32125. [1103002057][1103002057] Life Cycle -M24 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32126. [1103002058][1103002058] Life Cycle -M24 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+32127. [1103002059][1103002059] Life Cycle -M24 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+32138. [1103002081][1103002081] Extreme Music -M24 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32139. [1103002082][1103002082] Extreme Music -M24 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32140. [1103002083][1103002083] Extreme Music -M24 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32141. [1103002084][1103002084] Extreme Music -M24 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32142. [1103002085][1103002085] Extreme Music -M24 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32143. [1103002086][1103002086] Extreme Music -M24 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+32144. [1103002087][1103002087] Extreme Music -M24 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.

@@ -1,0 +1,118 @@
+27463. [1010011221][1010011221] Geely Dragon King -AKM ( Level 1 ) Magazine |
+27472. [1010011231][1010011231] Geely Dragon King -AKM ( Level 2 ) Magazine |
+27476. [1010011241][1010011241] Geely Dragon King -AKM ( Level 3 ) Magazine |
+27478. [1010011251][1010011251] Geely Dragon King -AKM ( Level 4 ) Magazine |
+27479. [1010011261][1010011261] Geely Dragon King -AKM ( Level 5 ) Magazine |
+27480. [1010011271][1010011271] Geely Dragon King -AKM ( Level 6 ) Magazine |
+27481. [1010011281][1010011281] Geely Dragon King -AKM ( Level 7 ) Magazine |
+27532. [1010011661][1010011661] ### King of the Tribe -AKM ( Level 1 ) Magazine |
+27542. [1010011671][1010011671] ### King of the Tribe -AKM ( Level 2 ) Magazine |
+27546. [1010011681][1010011681] ### King of the Tribe -AKM ( Level 3 ) Magazine |
+27547. [1010011691][1010011691] ### King of the Tribe -AKM ( Level 4 ) Magazine |
+27548. [1010011701][1010011701] ### King of the Tribe -AKM ( Level 5 ) Magazine |
+27549. [1010011711][1010011711] ### King of the Tribe -AKM ( Level 6 ) Magazine |
+27550. [1010011721][1010011721] ### King of the Tribe -AKM ( Level 7 ) Magazine |
+27554. [1010011741][1010011741] ### King of the Tribe -AKM ( Level 8 ) Magazine |
+27564. [1010012061][1010012061] ###1-230-AKM ( Level 1 ) Magazine |
+27574. [1010012071][1010012071] ###1-230-AKM ( Level 2 ) Magazine |
+27577. [1010012081][1010012081] ###1-230-AKM ( Level 3 ) Magazine |
+27578. [1010012091][1010012091] ###1-230-AKM ( Level 4 ) Magazine |
+27579. [1010012101][1010012101] ###1-230-AKM ( Level 5 ) Magazine |
+27580. [1010012111][1010012111] ###1-230-AKM ( Level 6 ) Magazine |
+27581. [1010012121][1010012121] ###1-230-AKM ( Level 7 ) Magazine |
+27582. [1010012131][1010012131] ###1-230-AKM ( Level 8 ) Magazine |
+27589. [1010012251][1010012251] ###1-230-AKM ( Level 1 ) Magazine |
+27593. [1010012261][1010012261] ###1-230-AKM ( Level 2 ) Magazine |
+27602. [1010012271][1010012271] ###1-230-AKM ( Level 3 ) Magazine |
+27608. [1010012281][1010012281] ###1-230-AKM ( Level 4 ) Magazine |
+27609. [1010012291][1010012291] ###1-230-AKM ( Level 5 ) Magazine |
+27627. [1010012411][1010012411] ###1-290-AKM ( Level 1 ) Magazine |
+27628. [1010012412][1010012412] ###1-290-AKM ( Level 2 ) Magazine |
+27629. [1010012413][1010012413] ###1-290-AKM ( Level 3 ) Magazine |
+27630. [1010012414][1010012414] ###1-290-AKM ( Level 4 ) Magazine |
+27631. [1010012415][1010012415] ###1-290-AKM ( Level 5 ) Magazine |
+27633. [1010012417][1010012417] ###1-290-AKM ( Level 7 ) Magazine |
+27634. [1010012418][1010012418] ###1-290-AKM ( Level 8 ) Magazine |
+30879. [1101001057][1101001057] Raging Sea -AKM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+30880. [1101001058][1101001058] Raging Sea -AKM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+30881. [1101001059][1101001059] Raging Sea -AKM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+30882. [1101001060][1101001060] Raging Sea -AKM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+30883. [1101001061][1101001061] Raging Sea -AKM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+30884. [1101001062][1101001062] Raging Sea -AKM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+30885. [1101001063][1101001063] Raging Sea -AKM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+30886. [1101001064][1101001064] White Tiger Roar -AKM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+30887. [1101001065][1101001065] White Tiger Roar -AKM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+30888. [1101001066][1101001066] White Tiger Roar -AKM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects .
+30889. [1101001067][1101001067] White Tiger Roar -AKM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+30890. [1101001068][1101001068] White Tiger Roar -AKM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+30894. [1101001083][1101001083] Frost Core -AKM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+30895. [1101001084][1101001084] Frost Core -AKM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+30896. [1101001085][1101001085] Frost Core -AKM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+30897. [1101001086][1101001086] Frost Core -AKM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+30898. [1101001087][1101001087] Frost Core -AKM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+30899. [1101001088][1101001088] Frost Core -AKM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+30900. [1101001089][1101001089] Frost Core -AKM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+30906. [1101001097][1101001097] Building Block Keel -AKM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+30907. [1101001098][1101001098] Building Block Keel -AKM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+30908. [1101001099][1101001099] Building Block Keel -AKM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+30909. [1101001100][1101001100] Building Block Keel -AKM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+30910. [1101001101][1101001101] Building Block Keel -AKM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+30911. [1101001102][1101001102] Building Block Keel -AKM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+30912. [1101001103][1101001103] Building Block Keel -AKM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+30918. [1101001110][1101001110] Strange Night -AKM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+30919. [1101001111][1101001111] Strange Night -AKM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+30920. [1101001112][1101001112] Strange Night -AKM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+30921. [1101001113][1101001113] Strange Night -AKM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+30922. [1101001114][1101001114] Strange Night -AKM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+30923. [1101001115][1101001115] Strange Night -AKM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+30924. [1101001116][1101001116] Strange Night -AKM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+30928. [1101001122][1101001122] Geely Dragon King -AKM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+30929. [1101001123][1101001123] Geely Dragon King -AKM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+30930. [1101001124][1101001124] Geely Dragon King -AKM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+30931. [1101001125][1101001125] Geely Dragon King -AKM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+30933. [1101001127][1101001127] Geely Dragon King -AKM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+30934. [1101001128][1101001128] Geely Dragon King -AKM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+30939. [1101001133][1101001133] Golden Pirate -AKM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+30940. [1101001134][1101001134] Golden Pirate -AKM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+30943. [1101001137][1101001137] Golden Pirate -AKM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+30945. [1101001140][1101001140] Golden Pirate -AKM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+30946. [1101001141][1101001141] Golden Pirate -AKM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+30947. [1101001142][1101001142] Golden Pirate -AKM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+30948. [1101001143][1101001143] Golden Pirate -AKM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+30952. [1101001148][1101001148] Fantasy Workshop -AKM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+30953. [1101001149][1101001149] Fantasy Workshop -AKM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+30954. [1101001150][1101001150] Fantasy Workshop -AKM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+30955. [1101001151][1101001151] Fantasy Workshop -AKM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+30956. [1101001152][1101001152] Fantasy Workshop -AKM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+30957. [1101001153][1101001153] Fantasy Workshop -AKM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+30958. [1101001154][1101001154] Fantasy Workshop -AKM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+30966. [1101001166][1101001166] King of the Tribe -AKM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+30967. [1101001167][1101001167] King of the Tribe -AKM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+30968. [1101001168][1101001168] King of the Tribe -AKM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+30969. [1101001169][1101001169] King of the Tribe -AKM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+30970. [1101001170][1101001170] King of the Tribe -AKM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+30971. [1101001171][1101001171] King of the Tribe -AKM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+30972. [1101001172][1101001172] King of the Tribe -AKM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+30974. [1101001174][1101001174] King of the Tribe -AKM ( Level 8 ) | Can be upgraded in the research institute to obtain additional effects.
+30982. [1101001206][1101001206] Xinghai Admiral -AKM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+30983. [1101001207][1101001207] Xinghai Admiral -AKM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+30984. [1101001208][1101001208] Xinghai Admiral -AKM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+30985. [1101001209][1101001209] Xinghai Admiral -AKM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+30986. [1101001210][1101001210] Xinghai Admiral -AKM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+30987. [1101001211][1101001211] Xinghai Admiral -AKM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+30989. [1101001213][1101001213] Xinghai Admiral -AKM ( Level 8 ) | Can be upgraded in the research institute to obtain additional effects.
+30991. [1101001225][1101001225] Playful Bunny -AKM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+30992. [1101001226][1101001226] Playful Bunny -AKM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+30993. [1101001227][1101001227] Playful Bunny -AKM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+30994. [1101001228][1101001228] Playful Bunny -AKM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+30995. [1101001229][1101001229] Playful Bunny -AKM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+30996. [1101001230][1101001230] Playful Bunny -AKM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+30997. [1101001231][1101001231] Playful Bunny -AKM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31000. [1101001235][1101001235] The Day of Decisiveness -AKM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31001. [1101001236][1101001236] The Day of Decisiveness -AKM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31002. [1101001237][1101001237] The Day of Decisiveness -AKM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31003. [1101001238][1101001238] The Day of Decisiveness -AKM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31004. [1101001239][1101001239] The Day of Decisiveness -AKM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31005. [1101001240][1101001240] The Day of Decisiveness -AKM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31006. [1101001241][1101001241] The Day of Decisiveness -AKM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31007. [1101001242][1101001242] The Day of Decisiveness -AKM ( Level 8 ) | Can be upgraded in the research institute to obtain additional effects.

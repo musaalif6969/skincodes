@@ -1,0 +1,52 @@
+29992. [1030010961][1030010961] Qili Yuehua -Kar98K ( Level 2 ) |
+31989. [1103001047][1103001047] Horrible Tooth Marks -Kar98K ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31990. [1103001048][1103001048] Horrible Tooth Marks -Kar98K ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31991. [1103001049][1103001049] Horrible Tooth Marks -Kar98K ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31993. [1103001057][1103001057] Horrible Tooth Marks -Kar98K ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31994. [1103001058][1103001058] Horrible Tooth Marks -Kar98K ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31995. [1103001059][1103001059] Horrible Tooth Marks -Kar98K ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31996. [1103001060][1103001060] Horrible Tooth Marks -Kar98K ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+32001. [1103001073][1103001073] Rainforest Dragon -Kar98K ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32002. [1103001074][1103001074] Rainforest Dragon -Kar98K ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32003. [1103001075][1103001075] Rainforest Dragon -Kar98K ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32004. [1103001076][1103001076] Rainforest Dragon -Kar98K ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32005. [1103001077][1103001077] Rainforest Dragon -Kar98K ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32006. [1103001078][1103001078] Rainforest Dragon -Kar98K ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+32007. [1103001079][1103001079] Rainforest Dragon -Kar98K ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+32009. [1103001081][1103001081] Rock Night -Kar98K ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32010. [1103001082][1103001082] Rock Night -Kar98K ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32011. [1103001083][1103001083] Rock Night -Kar98K ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32012. [1103001084][1103001084] Rock Night -Kar98K ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32013. [1103001085][1103001085] Rock Night -Kar98K ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32020. [1103001095][1103001095] Qili Yuehua -Kar98K ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32021. [1103001096][1103001096] Qili Yuehua -Kar98K ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32022. [1103001097][1103001097] Qili Yuehua -Kar98K ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32023. [1103001098][1103001098] Qili Yuehua -Kar98K ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32024. [1103001099][1103001099] Qili Yuehua -Kar98K ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32026. [1103001101][1103001101] Qili Yuehua -Kar98K ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+32043. [1103001134][1103001134] Steel Shark -Kar98K ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32044. [1103001135][1103001135] Steel Shark -Kar98K ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32045. [1103001136][1103001136] Steel Shark -Kar98K ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32051. [1103001143][1103001143] Steel Shark -Kar98K ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32052. [1103001144][1103001144] Steel Shark -Kar98K ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32053. [1103001145][1103001145] Steel Shark -Kar98K ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+32054. [1103001146][1103001146] Steel Shark -Kar98K ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+32055. [1103001148][1103001148] Fatal Code -Kar98K ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32056. [1103001149][1103001149] Fatal Code -Kar98K ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32057. [1103001150][1103001150] Fatal Code -Kar98K ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32058. [1103001151][1103001151] Fatal Code -Kar98K ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32059. [1103001152][1103001152] Fatal Code -Kar98K ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32060. [1103001153][1103001153] Fatal Code -Kar98K ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+32061. [1103001154][1103001154] Fatal Code -Kar98K ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+32063. [1103001156][1103001156] Nebula Hunter -Kar98K ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32064. [1103001157][1103001157] Nebula Hunter -Kar98K ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32065. [1103001158][1103001158] Nebula Hunter -Kar98K ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32066. [1103001159][1103001159] Nebula Hunter -Kar98K ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32067. [1103001160][1103001160] Nebula Hunter -Kar98K ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32072. [1103001173][1103001173] Purple Kill Electrode -Kar98K ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32073. [1103001174][1103001174] Purple Kill Electrode -Kar98K ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32074. [1103001175][1103001175] Purple Electrode -Kar98K ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32075. [1103001176][1103001176] Purple Kill Electrode -Kar98K ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32076. [1103001177][1103001177] Purple Kill Electrode -Kar98K ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects .
+32077. [1103001178][1103001178] Purple Kill Electrode -Kar98K ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+32078. [1103001179][1103001179] Purple Kill Electrode -Kar98K ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.

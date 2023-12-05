@@ -1,0 +1,437 @@
+711. [101002][10100200] M16A4 automatic rifle | assault rifle.
+898. [203006][20300600] M16A4 mechanical sight |
+947. [204016][20401600] Parallel magazine ( automatic rifle ) | Significantly increases magazine capacity. AKM , M762 , M416 , M16A4 , SCAR _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+949. [204018][20401800] ### Parallel magazine pre-research | Significantly increase the magazine capacity. AKM , M762 , M416 , M16A4 , SCAR _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+957. [205007][20500700] M16A4 default stock |
+977. [208001][20800100] Fully automatic gun | Allows the firearm to obtain fully automatic firing mode. It can only be equipped with M16A4 , MK47 and continuous sniper rifles .
+1111. [281002][28100200] M16A4 assault rifle default muzzle |
+1122. [291002][29100200] M16A4 assault rifle default magazine |
+1170. [303001][30300100] 5.56mm bullet | M16A4 , M416 , SCAR-L , AUG , M249 , Mini14 , Q?????easy? ???? ? ??View ? ? ? ? ?
+2493. [1010021][101002100] M16A4 Automatic Rifle (Broken) | Broken weapon with only a few accessories available
+2494. [1010022][101002200] M16A4 Automatic Rifle (Repaired) | The repaired weapon can be equipped with most accessories
+2495. [1010023][101002300] M16A4 automatic rifle (mint) | intact weapon, all accessories can be used
+2496. [1010024][101002400] M16A4 automatic rifle (improved) | Improved weapon, all accessories can be used, and the damage is increased by 15%
+2497. [1010025][101002500] M16A4 automatic rifle (refined) | High-precision manufacturing of weapons, all accessories can be used, and the damage is increased by 30%
+2879. [1400058][1400058] M16A4 white parachute | Parachute for M16A4 enthusiasts .
+2880. [1400059][1400059] M16A4 military green parachute | M16A4 military training parachute.
+11643. [1518002][0] Rainforest Gold Treasure Chest | After opening, you will get one of the Golden Sandbar -M16A4 , Death Messenger Mask and other rewards.
+19096. [1732052][1732052] ### Streamer M16A4 |
+21336. [2080011][208001000] Fully automatic bolt action | Allows the firearm to obtain fully automatic firing mode. It is limited to M16A4 , MK47 and burst sniper rifles.
+23803. [6004004][6004004] M16A4 Automatic Rifle - Gold Medal | Become a gun god! With this firearm, you are unstoppable and invincible!
+23804. [6004005][6004005] M16A4 automatic rifle - Silver | Man and gun in one! Facing powerful enemies, this firearm is your best partner!
+23805. [6004006][6004006] M16A4 Automatic Rifle - Bronze Medal | No shots missed! Your use of this firearm is already perfect!
+25975. [101002001][101002001] Shark Teeth -M16A4 |
+25976. [101002002][101002002] Qingyao -M16A4 |
+26428. [419004190][419004190] 190M16A4 ???? ? ??? ? ???? |
+26445. [441400058][1400058] M16A4 white parachute | Parachute for M16A4 enthusiasts .
+26446. [441400059][1400059] M16A4 military green parachute | M16A4 military training parachute.
+26874. [911002003][1101002003] Star -M16A4 | The gun body is decorated in a popular low polygon style, as if it depicts an intricate multi-dimensional universe.
+26875. [911002004][1101002004] Yellow minimalist -M16A4 | Yellow minimalist -M16A4 , minimalist pure black, golden trim, hardcore style conquers the battlefield.
+26876. [911002005][1101002005] Rugged(Beige)-M16A4 | Rugged(Beige)-M16A4 , elegant style, graceful and classic, stable performance ???? easy? ????? ? ??? ? ? ? fen
+26878. [911002008][1101002008] Trembling City -M16A4 | Trembling City -M16A4 , terrifying and trembling, cool city, stable firepower to control the overall situation.
+26917. [911400058][1400058] M16A4 white parachute | Parachute for M16A4 enthusiasts .
+27210. [931002001][1101002001] Royal style -M16A4 | The white part is made of high- strength ceramics to create a marble pattern texture, and other parts are decorated with gold carvings.?????easy? ?????? ??? ? ? ??
+27211. [931002006][1101002006] Leaf Blade -M16A4 | Leaf Blade -M16A4 , precise shooting, low-key and deadly, just like the Leaf Blade cutting the throat silently.
+27635. [1010020011][1010020011] Royal Style -M16A4 Magazine |
+27636. [1010020012][1010020012] Royal Style -M16A4 Muzzle |
+27637. [1010020013][1010020013] Royal Style -M16A4 Sight |
+27638. [1010020014][1010020014] Royal Style -M16A4 Gun Stock |
+27639. [1010020019][1010020019] Shark Teeth -M16A4 Gun Stock |
+27640. [1010020021][1010020021] Asimov -M16A4 Magazine |
+27641. [1010020022][1010020022] Asimov -M16A4 muzzle |
+27642. [1010020023][1010020023] Asimov -M16A4 sight |
+27643. [1010020024][1010020024] Asimov -M16A4 gun stock |
+27644.[1010020029][1010020029] Qingyao -M16A4 Gun Stock |
+27645. [1010020031][1010020031] Xingchen -M16A4 Magazine |
+27646. [1010020032][1010020032] Xingchen -M16A4 Muzzle |
+27647. [1010020033][1010020033] Star -M16A4 sight |
+27648. [1010020034][1010020034] Xingchen -M16A4 Gun Stock |
+27649. [1010020041][1010020041] Yellow Minimalist -M16A4 Magazine |
+27650. [1010020042][1010020042] Yellow minimalist -M16A4 muzzle |
+27651. [1010020043][1010020043] Yellow Minimalist -M16A4 Sight |
+27652. [1010020044][1010020044] Yellow minimalist -M16A4 stock |
+27653. [1010020051][1010020051] Rugged(Beige)-M16A4 Magazine |
+27654. [1010020052][1010020052] Rugged(Beige)-M16A4 Muzzle |
+27655. [1010020053][1010020053] Rugged(Beige)-M16A4 sight |
+27656. [1010020054][1010020054] Rugged(Beige)-M16A4 stock |
+27673. [1010020111][1010020111] The Queen of Extreme Ice -M16A4 Magazine |
+27674. [1010020112][1010020112] The Queen of Extreme Ice -M16A4 Muzzle |
+27675. [1010020113][1010020113] The Queen of Extreme Ice -M16A4 Sight |
+27676. [1010020114][1010020114] The Queen of Extreme Ice -M16A4 Gun Stock |
+27677. [1010020182][1010020182] M16A4 Muzzle ( Level 7 ) |
+27678. [1010020191][1010020191] Nutcracker -M16A4 Magazine |
+27679. [1010020192][1010020192] Nutcracker -M16A4 Muzzle |
+27680. [1010020193][1010020193] Nutcracker -M16A4 sight |
+27681. [1010020194][1010020194] Nutcracker -M16A4 Gun Stock |
+27682. [1010020201][1010020201] Frost Core -M16A4 Magazine |
+27683. [1010020202][1010020202] Frost Core -M16A4 Muzzle |
+27684. [1010020203][1010020203] Frost Core -M16A4 Sight |
+27685. [1010020204][1010020204] Frost Core -M16A4 Gun Stock |
+27686. [1010020231][1010020231] Blood Storm -M16A4 Magazine ( Level 1 ) |
+27687. [1010020232][1010020232] Blood Storm -M16A4 Muzzle ( Level 1 ) |
+27688. [1010020233][1010020233] Blood Storm -M16A4 Sight ( Level 1 ) |
+27689. [1010020234][1010020234] Blood Storm -M16A4 Gun Stock ( Level 1 ) |
+27690. [1010020241][1010020241] Blood Storm -M16A4 Magazine ( Level 2 ) |
+27691. [1010020242][1010020242] Blood Storm -M16A4 Muzzle ( Level 2 ) |
+27692. [1010020243][1010020243] Blood Storm -M16A4 Sight ( Level 2 ) |
+27693. [1010020244][1010020244] Blood Storm -M16A4 Gun Stock ( Level 2 ) |
+27694. [1010020245][1010020245] Blood Storm -M16A4 Death Box |
+27695. [1010020251][1010020251] Blood Storm -M16A4 Magazine ( Level 3 ) |
+27696. [1010020252][1010020252] Blood Storm -M16A4 Muzzle ( Level 3 ) |
+27697. [1010020253][1010020253] Blood Storm -M16A4 Sight ( Level 3 ) |
+27698. [1010020254][1010020254] Blood Storm -M16A4 Gun Stock ( Level 3 ) |
+27699. [1010020261][1010020261] Blood Storm -M16A4 Magazine ( Level 4 ) |
+27700. [1010020262][1010020262] Blood Storm -M16A4 Muzzle ( Level 4 ) |
+27701. [1010020263][1010020263] Blood Storm -M16A4 Sight ( Level 4 ) |
+27702. [1010020264][1010020264] Blood Storm -M16A4 Gun Stock ( Level 4 ) |
+27703. [1010020271][1010020271] Blood Storm -M16A4 Magazine ( Level 5 ) |
+27704. [1010020272][1010020272] Blood Storm -M16A4 Muzzle ( Level 5 ) |
+27705. [1010020273][1010020273] Blood Storm -M16A4 Sight ( Level 5 ) |
+27706. [1010020274][1010020274] Blood Storm -M16A4 Gun Stock ( Level 5 ) |
+27707. [1010020281][1010020281] Blood Storm -M16A4 Magazine ( Level 6 ) |
+27708. [1010020282][1010020282] Blood Storm -M16A4 Muzzle ( Level 6 ) |
+27709. [1010020283][1010020283] Blood Storm -M16A4 Sight ( Level 6 ) |
+27710. [1010020284][1010020284] Blood Storm -M16A4 Gun Stock ( Level 6 ) |
+27711. [1010020291][1010020291] Blood Storm -M16A4 Magazine ( Level 7 ) |
+27712. [1010020292][1010020292] Blood Storm -M16A4 Muzzle ( Level 7 ) |
+27713. [1010020293][1010020293] Blood Storm -M16A4 Sight ( Level 7 ) |
+27714. [1010020294][1010020294] Blood Storm -M16A4 Gun Stock ( Level 7 ) |
+27715. [1010020295][1010020295] Blood Storm -M16A4 Death Box |
+27716. [1010020296][1010020296] Blood Storm -M16A4 Hall Death Box |
+27717. [1010020301][1010020301] Gilt Iron Cannon -M16A4 Magazine |
+27718. [1010020302][1010020302] Gilt iron cannon -M16A4 muzzle |
+27719. [1010020303][1010020303] Gilt Iron Cannon -M16A4 Sight | `
+27720. [1010020304][1010020304] Gilt iron cannon -M16A4 stock | `
+27721. [1010020381][1010020381] Ancient City Agent -M16A4 Magazine |
+27722. [1010020382][1010020382] Ancient City Secret Agent -M16A4 Muzzle |
+27723. [1010020383][1010020383] Ancient City Agent -M16A4 Sight |
+27724. [1010020384][1010020384] Ancient City Agent -M16A4 Gun Stock |
+27725. [1010020391][1010020391] Cyber Warrior -M16A4 Magazine |
+27726. [1010020392][1010020392] Cyber Warrior -M16A4 Muzzle |
+27727. [1010020393][1010020393] Cyber Warrior -M16A4 Sight |
+27728. [1010020394][1010020394] Cyber Warrior -M16A4 Gun Stock |
+27729. [1010020401][1010020401] ### Sneak Attack Assassin -M16A4 Magazine |
+27730. [1010020402][1010020402] ### Sneak Attack Assassin -M16A4 Muzzle |
+27731. [1010020403][1010020403] ### Sneak Attack Assassin -M16A4 Sight |
+27732. [1010020404][1010020404] ### Sneak Attack Assassin -M16A4 Gun Stock |
+27733. [1010020411][1010020411] Begonia Witch -M16A4 Magazine |
+27734. [1010020412][1010020412] Begonia Witch -M16A4 Muzzle |
+27735. [1010020413][1010020413] Begonia Witch -M16A4 sight |
+27736. [1010020414][1010020414] Begonia Witch -M16A4 Gun Stock |
+27737.[1010020421][1010020421] Fjord Legend -M16A4 Magazine |
+27738. [1010020422][1010020422] Fjord Legend -M16A4 Muzzle |
+27739. [1010020423][1010020423] Fjord Legend -M16A4 Sight |
+27740.[1010020424][1010020424] Fjord Legend -M16A4 Gun Stock |
+27741. [1010020431][1010020431] Spirit Controller -M16A4 Magazine |
+27742. [1010020432][1010020432] Spirit Controller -M16A4 Muzzle |
+27743. [1010020433][1010020433] Spirit Controller -M16A4 Sight |
+27744. [1010020434][1010020434] Spirit Controller -M16A4 Gun Stock |
+27745. [1010020441][1010020441] Graffiti Art -M16A4 Magazine |
+27746. [1010020442][1010020442] Graffiti Art -M16A4 Muzzle |
+27747. [1010020443][1010020443] Graffiti Art -M16A4 Sight |
+27748. [1010020444][1010020444] Graffiti Art -M16A4 Gun Stock |
+27749. [1010020451][1010020451] Red Line - M16A4 Magazine |
+27750. [1010020452][1010020452] Red Line - M16A4 Muzzle |
+27751. [1010020453][1010020453] Red Line - M16A4 Sight |
+27752. [1010020454][1010020454] Red Line - M16A4 Stock |
+27753. [1010020461][1010020461] Ice Witch -M16A4 Magazine |
+27754. [1010020462][1010020462] Ice Witch -M16A4 Muzzle |
+27755. [1010020463][1010020463] Ice Witch -M16A4 Sight |
+27756. [1010020464][1010020464] Ice Witch -M16A4 Gun Stock |
+27757. [1010020471][1010020471] Charming Night -M16A4 Magazine |
+27758. [1010020472][1010020472] Charming Night -M16A4 Muzzle |
+27759. [1010020473][1010020473] Charming Night -M16A4 Sight |
+27760. [1010020474][1010020474] Charming Night -M16A4 Gun Stock |
+27761. [1010020481][1010020481] Scorching Madman -M16A4 Magazine |
+27762. [1010020482][1010020482] Scorching Madman -M16A4 Muzzle |
+27763. [1010020483][1010020483] Scorching Madman -M16A4 Sight |
+27764. [1010020484][1010020484] Scorching Madman -M16A4 Gun Stock |
+27765. [1010020491][1010020491] Carved Wood and Inscriptions -M16A4 Magazine |
+27766. [1010020492][1010020492] Carved Wood and Inscriptions -M16A4 Muzzle |
+27767. [1010020493][1010020493] Carved Wood and Inscriptions -M16A4 Sight |
+27768. [1010020494] [1010020494] Carved wood and gold inscriptions - M16A4 gun stock |
+27769. [1010020501][1010020501] Aurora Pulse -M16A4 Magazine |
+27770. [1010020502][1010020502] Aurora Pulse -M16A4 Muzzle |
+27771. [1010020503][1010020503] Aurora Pulse -M16A4 Sight |
+27772. [1010020504][1010020504] Aurora Pulse -M16A4 Gun Stock |
+27773. [1010020511][1010020511] Aurora Pulse -M16A4 Magazine |
+27774. [1010020512][1010020512] Aurora Pulse -M16A4 Muzzle |
+27775. [1010020513][1010020513] Aurora Pulse -M16A4 Sight |
+27776. [1010020514][1010020514] Aurora Pulse -M16A4 Gun Stock |
+27777. [1010020515][1010020515] Aurora Pulse -M16A4 Death Box |
+27778. [1010020521][1010020521] Aurora Pulse -M16A4 Magazine |
+27779. [1010020522][1010020522] Aurora Pulse -M16A4 Muzzle |
+27780. [1010020523][1010020523] Aurora Pulse -M16A4 Sight |
+27781. [1010020524][1010020524] Aurora Pulse -M16A4 Gun Stock |
+27782. [1010020531][1010020531] Aurora Pulse -M16A4 Magazine |
+27783. [1010020532][1010020532] Aurora Pulse -M16A4 Muzzle |
+27784. [1010020533][1010020533] Aurora Pulse -M16A4 Sight |
+27785. [1010020534][1010020534] Aurora Pulse -M16A4 Gun Stock |
+27786. [1010020541][1010020541] Aurora Pulse -M16A4 Magazine |
+27787. [1010020542][1010020542] Aurora Pulse -M16A4 Muzzle |
+27788. [1010020543][1010020543] Aurora Pulse -M16A4 Sight |
+27789. [1010020544][1010020544] Aurora Pulse -M16A4 Gun Stock |
+27790. [1010020551][1010020551] Aurora Pulse -M16A4 Magazine |
+27791. [1010020552][1010020552] Aurora Pulse -M16A4 Muzzle |
+27792. [1010020553][1010020553] Aurora Pulse -M16A4 Sight |
+27793. [1010020554][1010020554] Aurora Pulse -M16A4 Gun Stock |
+27794. [1010020561][1010020561] Aurora Pulse -M16A4 Magazine |
+27795. [1010020562][1010020562] Aurora Pulse -M16A4 Muzzle |
+27796. [1010020563][1010020563] Aurora Pulse -M16A4 Sight |
+27797. [1010020564][1010020564] Aurora Pulse -M16A4 Gun Stock |
+27798.[1010020565][1010020565] Aurora Pulse -M16A4 Death Box |
+27799. [1010020566][1010020566] Aurora Pulse -M16A4 Hall Death Box |
+27800. [1010020571][1010020571] Giant Squid -M16A4 Magazine |
+27801. [1010020572][1010020572] Giant Squid -M16A4 Muzzle |
+27802. [1010020573][1010020573] Giant Squid -M16A4 Sight |
+27803. [1010020574][1010020574] Giant Squid -M16A4 Gun Stock |
+27804. [1010020581][1010020581] Leo -M16A4 Magazine |
+27805. [1010020582][1010020582] Leo -M16A4 Muzzle |
+27806. [1010020583][1010020583] Leo -M16A4 sight |
+27807. [1010020584][1010020584] Leo -M16A4 Gun Stock |
+27808. [1010020601][1010020601] ### Deadly Demon Swamp -M16A4 Magazine |
+27809. [1010020602][1010020602] ### Deadly Demon Swamp -M16A4 Muzzle |
+27810. [1010020603][1010020603] ### Deadly Demon Swamp -M16A4 Sight |
+27811. [1010020604][1010020604] ### Deadly Demon Swamp -M16A4 Gun Stock |
+27812. [1010020611][1010020611] ### King Game -M16A4 Magazine |
+27813. [1010020612][1010020612] ### King Game -M16A4 Muzzle |
+27814. [1010020613][1010020613] ### King Game -M16A4 Sight |
+27815. [1010020614][1010020614] ### King Game -M16A4 Gun Stock |
+27816. [1010020621][1010020621] ### World War Armor -M16A4 Magazine |
+27817. [1010020622][1010020622] ### World War Armor -M16A4 Muzzle |
+27818. [1010020623][1010020623] ### World War Armor -M16A4 Sight |
+27819. [1010020624][1010020624] ### World War Armor -M16A4 Gun Stock |
+27820. [1010020631][1010020631] ### Snow Country Sakura -M16A4 Magazine |
+27821. [1010020632][1010020632] ### Snow Country Sakura -M16A4 Muzzle |
+27822. [1010020633][1010020633] ### Snow Country Sakura -M16A4 Sight |
+27823. [1010020634][1010020634] ### Snow Country Sakura -M16A4 Gun Stock |
+27824. [1010020641][1010020641] ###14000-M16A4 Magazine ( Level 1 ) |
+27825. [1010020642][1010020642] ###14000-M16A4 Muzzle ( Level 1 ) |
+27826. [1010020643][1010020643] ###14000-M16A4 sight ( level 1 ) |
+27827. [1010020644][1010020644] ###14000-M16A4 Gun Stock ( Level 1 ) |
+27828. [1010020651][1010020651] ###14000-M16A4 Magazine ( Level 2 ) |
+27829. [1010020652][1010020652] ###14000-M16A4 Muzzle ( Level 2 ) |
+27830. [1010020653][1010020653] ###14000-M16A4 sight ( level 2 ) |
+27831. [1010020654][1010020654] ###14000-M16A4 Gun Stock ( Level 2 ) |
+27832. [1010020655][1010020655] ###14000-M16A4 Death Box |
+27833. [1010020661][1010020661] ###14000-M16A4 Magazine ( Level 3 ) |
+27834. [1010020662][1010020662] ###14000-M16A4 Muzzle ( Level 3 ) |
+27835. [1010020663][1010020663] ###14000-M16A4 sight ( level 3 ) |
+27836. [1010020664][1010020664] ###14000-M16A4 Gun Stock ( Level 3 ) |
+27837. [1010020671][1010020671] ###14000-M16A4 Magazine ( Level 4 ) |
+27838. [1010020672][1010020672] ###14000-M16A4 Muzzle ( Level 4 ) |
+27839. [1010020673][1010020673] ###14000-M16A4 sight ( level 4 ) |
+27840. [1010020674][1010020674] ###14000-M16A4 Gun Stock ( Level 4 ) |
+27841. [1010020681][1010020681] ###14000-M16A4 Magazine ( Level 5 ) |
+27842. [1010020682][1010020682] ###14000-M16A4 Muzzle ( Level 5 ) |
+27843. [1010020683][1010020683] ###14000-M16A4 sight ( level 5 ) |
+27844. [1010020684][1010020684] ###14000-M16A4 Gun Stock ( Level 5 ) |
+27845. [1010020701][1010020701] ### Glacier King -M16A4 Magazine |
+27846. [1010020702][1010020702] ### Glacier King -M16A4 Muzzle |
+27847. [1010020703][1010020703] ### Glacier King -M16A4 Sight |
+27848. [1010020704][1010020704] ### Glacier King -M16A4 Gun Stock |
+27849. [1010020711][1010020711] ### Vegetable Package -M16A4 Magazine |
+27850. [1010020712][1010020712] ### Vegetable Package -M16A4 Muzzle |
+27851. [1010020713][1010020713] ### Vegetable Package -M16A4 Sight |
+27852. [1010020714][1010020714] ### Vegetable Package -M16A4 Gun Stock |
+27853. [1010020731][1010020731] ###?? bottle -M16A4 magazine |
+27854. [1010020732][1010020732] ###?? bottle -M16A4 Muzzle |
+27855. [1010020733][1010020733] ###?? bottle -M16A4 sight |
+27856. [1010020734][1010020734] ###?? bottle -M16A4 Gun Stock |
+27857. [1010020741][1010020741] ### Golden Rune -M16A4 Magazine |
+27858. [1010020742][1010020742] ### Golden Rune -M16A4 Muzzle |
+27859. [1010020743][1010020743] ### Golden Rune -M16A4 Sight |
+27860. [1010020744][1010020744] ### Golden Rune -M16A4 Gun Stock |
+27861. [1010020751][1010020751] M16A4 Magazine ( Level 1 ) |
+27862. [1010020752][1010020752] M16A4 Muzzle ( Level 1 ) |
+27863. [1010020753][1010020753] M16A4 sight ( level 1 ) |
+27864. [1010020754][1010020754] M16A4 Gun Stock ( Level 1 ) |
+27871. [1010020761][1010020761] M16A4 Magazine ( Level 2 ) |
+27872. [1010020762][1010020762] M16A4 Muzzle ( Level 2 ) |
+27873. [1010020763][1010020763] M16A4 sight ( level 2 ) |
+27874. [1010020764][1010020764] M16A4 Gun Stock ( Level 2 ) |
+27875. [1010020765][1010020765] 190M16A4 Combat Death Box (Smoke) |
+27881. [1010020771][1010020771] M16A4 Magazine ( Level 3 ) |
+27882. [1010020772][1010020772] M16A4 Muzzle ( Level 3 ) |
+27883. [1010020773][1010020773] M16A4 sight ( level 3 ) |
+27884. [1010020774][1010020774] M16A4 Gun Stock ( Level 3 ) |
+27886. [1010020781][1010020781] M16A4 Magazine ( Level 4 ) |
+27887. [1010020782][1010020782] M16A4 Muzzle ( Level 4 ) |
+27888. [1010020783][1010020783] M16A4 sight ( level 4 ) |
+27889. [1010020784][1010020784] M16A4 Gun Stock ( Level 4 ) |
+27890. [1010020791][1010020791] M16A4 Magazine ( Level 5 ) |
+27891. [1010020792][1010020792] M16A4 Muzzle ( Level 5 ) |
+27892. [1010020793][1010020793] M16A4 sight ( level 5 ) |
+27893. [1010020794][1010020794] M16A4 Gun Stock ( Level 5 ) |
+27894. [1010020801][1010020801] M16A4 Magazine ( Level 6 ) |
+27895. [1010020802][1010020802] M16A4 Muzzle ( Level 6 ) |
+27896. [1010020803][1010020803] M16A4 sight ( level 6 ) |
+27897. [1010020804][1010020804] M16A4 Gun Stock ( Level 6 ) |
+27898. [1010020811][1010020811] M16A4 Magazine ( Level 7 ) |
+27899. [1010020813][1010020813] M16A4 sight ( level 7 ) |
+27900. [1010020814][1010020814] M16A4 Gun Stock ( Level 7 ) |
+27901. [1010020815][1010020815] 190M16A4 Hall Death Box |
+27902. [1010020816][1010020816] 190M16A4 Combat Death Box (Box) |
+27903. [1010020831][1010020831] ###1-230-M16A4 Magazine |
+27904. [1010020832][1010020832] ###1-230-M16A4 Muzzle |
+27905. [1010020833][1010020833] ###1-230-M16A4 sight |
+27906. [1010020834][1010020834] ###1-230-M16A4 Gun Stock |
+27907. [1010020841][1010020841] ### Daughter of the Ocean -M16A4 Magazine |
+27908. [1010020842][1010020842] ### Daughter of the Ocean -M16A4 Muzzle |
+27909. [1010020843][1010020843] ### Daughter of the Ocean -M16A4 Sight |
+27910. [1010020844][1010020844] ### Daughter of the Ocean -M16A4 Gun Stock |
+27911. [1010020851][1010020851] M16A4 magazine |
+27912. [1010020852][1010020852] M16A4 Muzzle |
+27913. [1010020853][1010020853] M16A4 sight |
+27914. [1010020854][1010020854] M16A4 gun stock |
+27915. [1010020861][1010020861] ### Happy Melody -M16A4 Magazine |
+27916. [1010020862][1010020862] ### Happy Melody -M16A4 Muzzle |
+27917. [1010020863][1010020863] ### Happy Melody -M16A4 Sight |
+27918. [1010020864][1010020864] ### Happy Melody -M16A4 Gun Stock |
+27919. [1010020871][1010020871] ###2-230-M16A4 Magazine |
+27920. [1010020872][1010020872] ###2-230-M16A4 Muzzle |
+27921. [1010020873][1010020873] ###2-230-M16A4 sight |
+27922. [1010020874][1010020874] ###2-230-M16A4 Gun Stock |
+27923. [1010020891][1010020891] ###220-M16A4 Magazine |
+27924. [1010020892][1010020892] ###220-M16A4 muzzle |
+27925. [1010020893][1010020893] ###220-M16A4 sight |
+27926. [1010020894][1010020894] ###220-M16A4 Gun Stock |
+27927. [1010020901][1010020901] ###220-M16A4 Magazine |
+27928. [1010020902][1010020902] ###220-M16A4 Muzzle |
+27929. [1010020903][1010020903] ###220-M16A4 sight |
+27930. [1010020904][1010020904] ###220-M16A4 Gun Stock |
+27931. [1010020911][1010020911] ###220-M16A4 Magazine |
+27932. [1010020912][1010020912] ###220-M16A4 Muzzle |
+27933. [1010020913][1010020913] ###220-M16A4 sight |
+27934. [1010020914][1010020914] ###220-M16A4 Gun Stock |
+27935. [1010020921][1010020921] Feather of the Wild -M16A4 Magazine |
+27936. [1010020922][1010020922] Feather of the Wild -M16A4 Muzzle |
+27937. [1010020923][1010020923] Feather of the Wild -M16A4 Sight |
+27938. [1010020924][1010020924] Feather of the Wild -M16A4 Gun Stock |
+27939. [1010020931][1010020931] Fragrant Poisonous Kiss -M16A4 Magazine |
+27940. [1010020932][1010020932] Fragrant poisonous kiss -M16A4 muzzle |
+27941. [1010020933][1010020933] Fragrant Poison Kiss -M16A4 Sight |
+27942. [1010020934][1010020934] Fragrant Poisonous Kiss -M16A4 Gun Stock |
+27943. [1010020951][1010020951] Arc Ripple -M16A4 Magazine |
+27944. [1010020952][1010020952] Arc Ripple -M16A4 Muzzle |
+27945. [1010020953][1010020953] Arc Ripple -M16A4 Sight |
+27946. [1010020954][1010020954] Arc Ripple -M16A4 Gun Stock |
+27947. [1010020971][1010020971] Steel Swift Shadow -M16A4 Magazine |
+27948. [1010020972][1010020972] Steel Swift Shadow -M16A4 Muzzle |
+27949. [1010020973][1010020973] Steel Swift Shadow -M16A4 Sight |
+27950. [1010020974][1010020974] Steel Swift Shadow -M16A4 Gun Stock |
+27951. [1010020981][1010020981] ###2-230-M16A4 Magazine |
+27952. [1010020982][1010020982] ###2-230-M16A4 Muzzle |
+27953. [1010020983][1010020983] ###2-230-M16A4 sight |
+27954. [1010020984][1010020984] ###2-230-M16A4 Gun Stock |
+27955. [1010020991][1010020991] Castle Dragon Guard -M16A4 Magazine 1 |
+27956. [1010020992][1010020992] Castle Dragon Guard -M16A4 Muzzle 1 |
+27957. [1010020993][1010020993] Castle Dragon Guard -M16A4 Sight 1 |
+27958. [1010020994][1010020994] Castle Dragon Guard -M16A4 Gun Stock 1 |
+27959. [1010021001][1010021001] Castle Dragon Guard -M16A4 Magazine 2 |
+27960. [1010021002][1010021002] Castle Dragon Guard -M16A4 Muzzle 2 |
+27961. [1010021003][1010021003] Castle Dragon Guard -M16A4 Sight 2 |
+27962. [1010021004][1010021004] Castle Dragon Guard -M16A4 Gun Stock 2 |
+27963. [1010021005][1010021005] 260M16A4 Death Box ( Smoke ) |
+27964. [1010021011][1010021011] Castle Dragon Guard -M16A4 Magazine 3 |
+27965. [1010021012][1010021012] Castle Dragon Guard -M16A4 Muzzle 3 |
+27966. [1010021013][1010021013] Castle Dragon Guard -M16A4 Sight 3 |
+27967. [1010021014][1010021014] Castle Dragon Guard -M16A4 Gun Stock 3 |
+27968. [1010021021][1010021021] Castle Dragon Guard -M16A4 Magazine 4 |
+27969. [1010021022][1010021022] Castle Dragon Guard -M16A4 Muzzle 4 |
+27970. [1010021023][1010021023] Castle Dragon Guard -M16A4 Sight 4 |
+27971. [1010021024][1010021024] Castle Dragon Guard -M16A4 Gun Stock 4 |
+27972. [1010021031][1010021031] Castle Dragon Guard -M16A4 Magazine 5 |
+27973. [1010021032][1010021032] Castle Dragon Guard -M16A4 Muzzle 5 |
+27974. [1010021033][1010021033] Castle Dragon Guard -M16A4 Sight 5 |
+27975. [1010021034][1010021034] Castle Dragon Guard -M16A4 Gun Stock 5 |
+27976. [1010021041][1010021041] Feather of the Wild -M16A4 Magazine |
+27977. [1010021042][1010021042] Feather of the Wild -M16A4 Muzzle |
+27978. [1010021043][1010021043] Feather of the Wild -M16A4 Sight |
+27979. [1010021044][1010021044] Feather of the Wild -M16A4 Gun Stock |
+27980. [1010021051][1010021051] Cute girl -M16A4 magazine |
+27981. [1010021052][1010021052] Cute girl -M16A4 muzzle |
+27982. [1010021053][1010021053] Cute girl -M16A4 sight |
+27983. [1010021054][1010021054] Cute girl -M16A4 gun stock |
+31008. [1101002001][1101002001] Royal style -M16A4 | The white part is made of high- strength ceramics to create a marble pattern texture, and other parts are decorated with gold carvings.?????easy? ?????? ??? ? ? ??
+31009. [1101002002][1101002002] Asimov -M16A4 | Sci- fi style painting, perfect for fighting aliens or something.
+31010. [1101002003][1101002003] Star -M16A4 | The gun body is decorated in a popular low polygon style, as if it depicts an intricate multi-dimensional universe.
+31011. [1101002004][1101002004] Yellow minimalist -M16A4 | Yellow minimalist -M16A4 , minimalist pure black, golden trim, hardcore style conquers the battlefield.
+31012. [1101002005][1101002005] Rugged(Beige)-M16A4 | Rugged(Beige)-M16A4 , elegant style, graceful and classic, stable performance ????easy? ???? ? ? ?view ? ? ? ??
+31013. [1101002006][1101002006] Leaf Blade -M16A4 | Leaf Blade -M16A4 , precise shooting, low-key and deadly, just like the Leaf Blade cutting the throat silently.
+31014. [1101002007][1101002007] Lightning -M16A4 | Lightning -M16A4 , as fast as lightning and as fast as lightning, can subdue the enemy from the beginning of the war.
+31015. [1101002008][1101002008] Trembling City -M16A4 | Trembling City -M16A4 , terrifying and trembling, cool city, stable firepower to control the overall situation.
+31016. [1101002009][1101002009] Golden Sandbank -M16A4 |
+31017.[1101002019][1101002019] Nutcracker -M16A4 |
+31018. [1101002020][1101002020] Frost Core -M16A4 |
+31019. [1101002023][1101002023] Blood Storm -M16A4 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31020. [1101002024][1101002024] Blood Storm -M16A4 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31021. [1101002025][1101002025] Blood Storm -M16A4 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31022. [1101002026][1101002026] Blood Storm -M16A4 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31023. [1101002027][1101002027] Blood Storm -M16A4 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31024. [1101002028][1101002028] Blood Storm -M16A4 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31025. [1101002029][1101002029] Blood Storm -M16A4 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31026. [1101002030][1101002030] Gilt Iron Cannon -M16A4 |
+31027. [1101002038][1101002038] Ancient City Agent -M16A4 |
+31028. [1101002039][1101002039] Cyber Warrior -M16A4 |
+31029. [1101002040][1101002040] Sniper Assassin -M16A4 |
+31030. [1101002041][1101002041] Begonia Witch -M16A4 |
+31031. [1101002042][1101002042] Fjord Legend -M16A4 |
+31032. [1101002043] [1101002043] Spirit Controller -M16A4 |
+31033. [1101002044][1101002044] Graffiti Art -M16A4 |
+31034. [1101002045][1101002045] Red Line - M16A4 |
+31035. [1101002046][1101002046] Ice Witch -M16A4 |
+31036. [1101002047][1101002047] Charming Night -M16A4 |
+31037. [1101002048][1101002048] Scorching Madman -M16A4 |
+31038. [1101002049][1101002049] Carved Wood and Inscriptions -M16A4 |
+31039. [1101002050][1101002050] Aurora Pulse -M16A4 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31040. [1101002051][1101002051] Aurora Pulse -M16A4 ( Level 2 ) | Can be upgraded at the Research Institute to obtain additional effects.
+31041. [1101002052][1101002052] Aurora Pulse -M16A4 ( Level 3 ) | Can be upgraded at the Research Institute to obtain additional effects.
+31042. [1101002053][1101002053] Aurora Pulse -M16A4 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31043. [1101002054][1101002054] Aurora Pulse -M16A4 ( Level 5 ) | Can be upgraded at the Research Institute to obtain additional effects.
+31044. [1101002055][1101002055] Aurora Pulse -M16A4 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31045. [1101002056][1101002056] Aurora Pulse -M16A4 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31046. [1101002057][1101002057] Giant Squid -M16A4 |
+31047. [1101002058][1101002058] Leo -M16A4 |
+31048. [1101002060][1101002060] Deadly Demon Swamp -M16A4 |
+31049. [1101002061][1101002061] King Game -M16A4 |
+31050. [1101002062][1101002062] World War Armor -M16A4 |
+31051. [1101002063][1101002063] Snow Country Sakura -M16A4 |
+31052. [1101002064][1101002064] Colorful Blade -M16A4 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31053. [1101002065][1101002065] Colorful Blade -M16A4 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31054. [1101002066][1101002066] Colorful Blade -M16A4 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31055. [1101002067][1101002067] Colorful Blade -M16A4 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31056. [1101002068][1101002068] Colorful Blade -M16A4 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31057. [1101002070][1101002070] Glacier King -M16A4 |
+31058. [1101002071][1101002071] Vegetable Package -M16A4 |
+31059. [1101002073][1101002073] Golden Jade Bottle -M16A4 |
+31060. [1101002074][1101002074] Golden Rune -M16A4 |
+31061. [1101002075][1101002075] Scarlet Blood Moon -M16A4 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31062. [1101002076][1101002076] Scarlet Blood Moon -M16A4 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31063. [1101002077][1101002077] Scarlet Blood Moon -M16A4 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31064. [1101002078][1101002078] Scarlet Blood Moon -M16A4 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31065. [1101002079] [1101002079] Scarlet Blood Moon -M16A4 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31066. [1101002080][1101002080] Scarlet Blood Moon -M16A4 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31067. [1101002081][1101002081] Scarlet Blood Moon -M16A4 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31068.[1101002083][1101002083] Palace Archon -M16A4 |
+31069. [1101002084][1101002084] Daughter of the Ocean -M16A4 |
+31070. [1101002085][1101002085] Bionic Technology -M16A4 |
+31071. [1101002086][1101002086] Happy Melody -M16A4 |
+31072. [1101002087][1101002087] Mr. Corn -M16A4 |
+31073.[1101002089][1101002089] Harvest Corn -M16A4 |
+31074. [1101002090][1101002090] 2022 PMWI M16A4 | 2022 PMWI event exclusive props
+31075. [1101002091][1101002091] Pen tip sharpness -M16A4 |
+31076. [1101002092][1101002092] Feather of the Wild -M16A4 |
+31077. [1101002093][1101002093] Fragrant poisonous kiss -M16A4 |
+31078. [1101002095][1101002095] Arc Ripple -M16A4 |
+31079. [1101002097][1101002097] Steel Swift Shadow -M16A4 |
+31080. [1101002098] [1101002098] Extreme Ice Queen -M16A4 |
+31081. [1101002099][1101002099] Castle Dragon Guard -M16A4 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31082. [1101002100][1101002100] Castle Dragon Guard -M16A4 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31083. [1101002101][1101002101] Castle Dragon Guard -M16A4 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31084. [1101002102][1101002102] Castle Dragon Guard -M16A4 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31085. [1101002103][1101002103] Castle Dragon Guard -M16A4 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31086. [1101002104][1101002104] PMSL Dream Chaser -M16A4 |
+31087. [1101002105][1101002105] Cute girl -M16A4 |
+31088. [1101002111] [1101002111] Extreme Ice Queen -M16A4 |
+31162. [1101003086][1101002086] Happy Melody -M16A4 |

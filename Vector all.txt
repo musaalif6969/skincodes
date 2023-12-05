@@ -1,0 +1,303 @@
+739. [102003][10200300] Vector submachine gun | A modern submachine gun that uses a delayed recoil bolt and fires 9mm bullets
+902. [203010][20301000] Vector mechanical sight |
+956. [205006][20500600] Vector default stock |
+1136. [292003][29200300] Vector submachine gun default magazine |
+1168. [301001][30100100] 9 mm bullet | P92 , P18C , Micro UZI , Vector , VSS , MP5K , ????? easy? ???????pulcher ? ? ? ? ?
+2454. [1000043][0] One-eyed Snake Vector Lucky Gift Pack | Get random props every time you use it , and there is a certain probability of getting the exquisite One-eyed Snake Vector submachine gun .
+2455. [1000044][0] Steel Front Vector Lucky Gift Pack | Get random props every time you use it , and there is a certain probability of getting the exquisite Steel Front Vector submachine gun .????? easy? ???? ? ? ??? ? ? ? ?
+2591. [1020031][102003100] Vector submachine gun (broken) | Broken weapon with only a few accessories available
+2592. [1020032][102003200] Vector submachine gun (repaired) | Repaired weapon that can be equipped with most accessories
+2593. [1020033][102003300] Vector submachine gun (mint) | intact weapon, all accessories can be used
+2594. [1020034][102003400] Vector submachine gun (improved) | Improved weapon, can use all accessories, damage increased by 15%
+2595. [1020035][102003500] Vector submachine gun (refined) | Weapon made with high precision, all accessories can be used, damage increased by 30%
+2596. [1020036][102003600] Vector submachine gun (One-eyed Snake) | Special version of One-eyed Snake, the damage is increased by 15% , the firing sound is reduced, and the recoil control and effective range are improved ?????easy? ???? ? ? ? ? ? ? ? ? _
+2597. [1020037][102003700] Vector submachine gun (Steel Front) | Steel Front special version, damage increased by 15% . Strengthen the durability , reload speed , scope opening speed , and move easily when moving .
+12933. [1522264][0] Vector gift pack | Contains a variety of great value discount items!
+18083. [1621460][0] Level 2 Vector gift pack | Contains a variety of firearms and accessories
+18087. [1621464][0] Level 3 Vector Set | Contains a variety of firearms and accessories
+18091. [1621468][0] Level 4 Vector Set | Contains a variety of firearms and accessories
+22826. [2601022][0] Transformation Core - Bloodfang War Bat | Used to unlock the gold color of Bloodfang War Bat -Vector skin. If obtained again, it will be automatically decomposed into upgraded ????? easy? ?????? ??? ? ? ??
+23124. [3701211][0] Decal 6-Vector Submachine Gun |
+23129. [3701216][0] Decal 6-Vector Submachine Gun |
+23130. [3701217][0] Decal 7-Vector Submachine Gun |
+23243. [3702251][0] Texture color 2-Vector submachine gun |
+23244. [3702252][0] Texture color 3-Vector submachine gun |
+23245. [3702253][0] Texture color 4-Vector submachine gun |
+23246. [3702254][0] Texture color 5-Vector submachine gun |
+23247. [3702255][0] Texture color 6-Vector submachine gun |
+23248. [3702256][0] Texture color 7-Vector submachine gun |
+23249. [3702257][0] Texture color 1-Vector submachine gun |
+23250. [3702258][0] Texture color 8-Vector submachine gun |
+23251. [3702259][0] Texture color 9-Vector submachine gun |
+23252. [3702260][0] Texture color 8-Vector submachine gun |
+23253. [3702261][0] Texture color 9-Vector submachine gun |
+23254. [3702262][0] Texture color 10-Vector submachine gun |
+23255. [3702263][0] Texture color 13-Vector submachine gun |
+23256. [3702264][0] Texture color 14-Vector submachine gun |
+23257. [3702265][0] Texture color 15-Vector submachine gun |
+23258. [3702266] [0] Off-white -Vector submachine gun |
+23259. [3702267][0] Dark Gray -Vector Submachine Gun |
+23260. [3702268][0] Black -Vector submachine gun |
+23261. [3702269][0] Velvet Red -Vector Submachine Gun |
+23262. [3702270][0] Dark brown -Vector submachine gun |
+23263. [3702271][0] Red -Vector submachine gun |
+23264. [3702272][0] Watermelon Red -Vector Submachine Gun |
+23265. [3702273][0] Rose Pink -Vector Submachine Gun |
+23266. [3702274][0] Dazzling pink -Vector submachine gun |
+23267. [3702275][0] Orange -Vector submachine gun |
+23268. [3702276][0] Orange -Vector submachine gun |
+23269. [3702277][0] Yellow -Vector submachine gun |
+23270. [3702278][0] Yellow -Green -Vector Submachine Gun |
+23271. [3702279][0] Bright green -Vector submachine gun |
+23272. [3702280][0] Green -Vector submachine gun |
+23273. [3702281][0] Macaron Green -Vector Submachine Gun |
+23274. [3702282][0] Teal - Vector submachine gun |
+23275. [3702283][0] Ice Blue -Vector Submachine Gun |
+23276. [3702284][0] Sky Blue -Vector Submachine Gun |
+23277. [3702285][0] Blue -Vector submachine gun |
+23278. [3702286][0] Dark Blue -Vector Submachine Gun |
+23279. [3702287][0] Deep Purple -Vector Submachine Gun |
+23280. [3702288][0] Dazzling purple -Vector submachine gun |
+23281. [3702289][0] Pink Purple -Vector Submachine Gun |
+23839. [6004040][6004040] Vector submachine gun - gold medal | Become a gun god! With this firearm, you are unstoppable and invincible!
+23840. [6004041][6004041] Vector submachine gun - Silver | Man and gun in one! Facing powerful enemies, this firearm is your best partner!
+23841. [6004042][6004042] Vector submachine gun - Bronze Medal | Missless shots! Your use of this firearm is already perfect!
+24688. [12219497][12219497] Hall Vector gun inspection action |
+26481. [442003002][1102003002] Street Kid -Vector |
+26801. [842003002][1102003002] Street Kid -Vector |
+26802. [842003003][1102003003] Silver Plate-Vector |
+27066. [912003002][1102003002] Street Kid -Vector |
+29617. [1020030021][1020030021] Street Kid -Vector Magazine |
+29618. [1020030022][1020030022] Street Kid -Vector Sight |
+29619. [1020030023][1020030023] Street Kid -Vector Gun Stock |
+29620. [1020030031][1020030031] Silver Plate-Vector Magazine |
+29621. [1020030032][1020030032] Silver Plate-Vector sight |
+29622. [1020030033][1020030033] Silver Plate-Vector Stock |
+29623. [1020030141][1020030141] Colorful Phantom -Vector Magazine |
+29624. [1020030142][1020030142] Colorful Phantom -Vector Sight |
+29625. [1020030143][1020030143] Colorful Phantom -Vector Gun Stock |
+29626. [1020030151][1020030151] Herald -Vector Magazine |
+29627. [1020030152][1020030152] Herald -Vector Sight |
+29628. [1020030153][1020030153] Herald -Vector Gun Stock |
+29629. [1020030161][1020030161] Bloodfang War Bat -Vector Magazine ( Level 1 ) |
+29630. [1020030162][1020030162] Bloodfang War Bat -Vector Sight ( Level 1 ) |
+29631. [1020030163][1020030163] Bloodfang War Bat -Vector Stock ( Level 1 ) |
+29632. [1020030171][1020030171] Bloodfang War Bat -Vector Magazine ( Level 2 ) |
+29633. [1020030172][1020030172] Bloodfang War Bat -Vector Sight ( Level 2 ) |
+29634. [1020030173][1020030173] Bloodfang War Bat -Vector Stock ( Level 2 ) |
+29635. [1020030174][1020030174] Bloodfang War Bat -Vector Death Box |
+29636. [1020030181][1020030181] Bloodfang War Bat -Vector Magazine ( Level 3 ) |
+29637. [1020030182][1020030182] Bloodfang War Bat -Vector Sight ( Level 3 ) |
+29638. [1020030183][1020030183] Bloodfang War Bat -Vector Gun Stock ( Level 3 ) |
+29639. [1020030191][1020030191] Bloodfang War Bat -Vector Magazine ( Level 4 ) |
+29640. [1020030192][1020030192] Bloodfang War Bat -Vector Sight ( Level 4 ) |
+29641. [1020030193][1020030193] Bloodfang War Bat -Vector Gun Stock ( Level 4 ) |
+29642. [1020030197][1020030197] ###190DIY Test Gun Vector Magazine |
+29643. [1020030198][1020030198] ###190DIY Test Gun Vector Sight |
+29644. [1020030199][1020030199] ###190DIY Test Gun Vector Stock |
+29645. [1020030201][1020030201] Bloodfang War Bat -Vector Magazine ( Level 5 ) |
+29646. [1020030202][1020030202] Bloodfang War Bat -Vector Sight ( Level 5 ) |
+29647. [1020030203][1020030203] Bloodfang War Bat -Vector Gun Stock ( Level 5 ) |
+29648. [1020030231][1020030231] Glacier King -Vector Magazine |
+29649. [1020030232][1020030232] Glacier King -Vector Sight |
+29650. [1020030233][1020030233] Glacier King -Vector Gun Stock |
+29651. [1020030241][1020030241] Exploding Colorful -Vector Magazine |
+29652. [1020030242][1020030242] Exploding Color -Vector Sight |
+29653. [1020030243][1020030243] Exploding Colorful -Vector Gun Stock |
+29654. [1020030251][1020030251] Toy Alliance -Vector Magazine |
+29655. [1020030252][1020030252] Toy Alliance -Vector Sight |
+29656. [1020030253][1020030253] Toy Alliance -Vector Gun Stock |
+29657. [1020030261][1020030261] Green Feather Thorn -Vector Magazine |
+29658. [1020030262][1020030262] Green Feather Thorn -Vector Sight |
+29659. [1020030263][1020030263] Green Feather Thorn -Vector Gun Stock |
+29660. [1020030271][1020030271] Rose Red Night -Vector Magazine ( Level 1 ) |
+29661. [1020030272][1020030272] Rose Red Night -Vector Sight ( Level 1 ) |
+29662. [1020030273][1020030273] Rose Red Night -Vector Gun Stock ( Level 1 ) |
+29663. [1020030281][1020030281] Rose Red Night -Vector Magazine ( Level 2 ) |
+29664. [1020030282][1020030282] Rose Red Night -Vector Sight ( Level 2 ) |
+29665. [1020030283][1020030283] Rose Red Night -Vector Gun Stock ( Level 2 ) |
+29666. [1020030284][1020030284] Rose Red Night -Vector Death Box |
+29667. [1020030291][1020030291] Rose Red Night -Vector Magazine ( Level 3 ) |
+29668. [1020030292][1020030292] Rose Red Night -Vector Sight ( Level 3 ) |
+29669. [1020030293][1020030293] Rose Red Night -Vector Gun Stock ( Level 3 ) |
+29670. [1020030301][1020030301] Rose Red Night -Vector Magazine ( Level 4 ) |
+29671. [1020030302][1020030302] Rose Red Night -Vector Sight ( Level 4 ) |
+29672. [1020030303][1020030303] Rose Red Night -Vector Gun Stock ( Level 4 ) |
+29673. [1020030311][1020030311] Rose Red Night -Vector Magazine ( Level 5 ) |
+29674. [1020030312][1020030312] Rose Red Night -Vector Sight ( Level 5 ) |
+29675. [1020030313][1020030313] Rose Red Night -Vector Gun Stock ( Level 5 ) |
+29676. [1020030341][1020030341] Tribal style -Vector clip |
+29677. [1020030342][1020030342] Tribal style -Vector sight |
+29678. [1020030343][1020030343] Tribal style -Vector gun stock |
+29679. [1020030351][1020030351] Cute Badass -Vector Magazine ( Level 1 ) |
+29680. [1020030352][1020030352] Cute Badass -Vector Sight ( Level 1 ) |
+29681. [1020030353][1020030353] Cute Badass -Vector Gun Stock ( Level 1 ) |
+29682. [1020030361][1020030361] Cute Badass -Vector Magazine ( Level 2 ) |
+29683. [1020030362][1020030362] Cute Badass -Vector Sight ( Level 2 ) |
+29684. [1020030363][1020030363] Cute Badass -Vector Gun Stock ( Level 2 ) |
+29685. [1020030364][1020030364] Cute Badass -Vector Death Box |
+29686. [1020030371][1020030371] Cute Badass -Vector Magazine ( Level 3 ) |
+29687. [1020030372][1020030372] Cute Badass -Vector Sight ( Level 3 ) |
+29688. [1020030373][1020030373] Cute Badass -Vector Gun Stock ( Level 3 ) |
+29689. [1020030381][1020030381] Cute Badass -Vector Magazine ( Level 4 ) |
+29690. [1020030382][1020030382] Cute Badass -Vector Sight ( Level 4 ) |
+29691. [1020030383][1020030383] Cute Badass -Vector Gun Stock ( Level 4 ) |
+29692. [1020030391][1020030391] Cute Badass -Vector Magazine ( Level 5 ) |
+29693. [1020030392][1020030392] Cute Badass -Vector Sight ( Level 5 ) |
+29694. [1020030393][1020030393] Cute Badass -Vector Gun Stock ( Level 5 ) |
+29695. [1020030421][1020030421] Shahe Lord -Vector Magazine |
+29696. [1020030422][1020030422] Sand River Dominator -Vector Sight |
+29697. [1020030423][1020030423] Shahe Lord -Vector Gun Stock |
+29698. [1020030451][1020030451] Glacier King -Vector Magazine |
+29699. [1020030452][1020030452] Glacier King -Vector Sight |
+29700. [1020030453][1020030453] Glacier King -Vector Gun Stock |
+29701. [1020030461][1020030461] ###1600-Vector Magazine |
+29702. [1020030462][1020030462] ###1600-Vector sight |
+29703. [1020030463][1020030463] ###1600-Vector Stock |
+29704. [1020030471][1020030471] ###1600-Vector Magazine |
+29705. [1020030472][1020030472] ###1600-Vector sight |
+29706. [1020030473][1020030473] ###1600-Vector Stock |
+29707. [1020030474][1020030474] ###1600-Vector Death Box |
+29708. [1020030481][1020030481] ###1600-Vector Magazine |
+29709. [1020030482][1020030482] ###1600-Vector sight |
+29710. [1020030483][1020030483] ###1600-Vector Stock |
+29711. [1020030491][1020030491] ### Mecha Maid -Vector Magazine |
+29712. [1020030492][1020030492] ### Mecha Maid -Vector Sight |
+29713. [1020030493][1020030493] ### Mecha Maid -Vector Gun Stock |
+29714. [1020030501][1020030501] ### Golden Country -Vector Magazine |
+29715. [1020030502][1020030502] ### Golden Country -Vector Sight |
+29716. [1020030503][1020030503] ### Golden Country -Vector Gun Stock |
+29717. [1020030511][1020030511] ###1600-Vector Magazine |
+29718. [1020030512][1020030512] ###1600-Vector sight |
+29719. [1020030513][1020030513] ###1600-Vector Stock |
+29720. [1020030521][1020030521] ###1600-Vector Magazine |
+29721. [1020030522][1020030522] ###1600-Vector sight |
+29722. [1020030523][1020030523] ###1600-Vector Stock |
+29723. [1020030541][1020030541] ### Cute Monster -Vector Magazine |
+29724. [1020030542][1020030542] ### Cute Monster -Vector Sight |
+29725. [1020030543][1020030543] ### Cute Monster -Vector Gun Stock |
+29726. [1020030581][1020030581] ### Colorful Gear -Vector Magazine |
+29727. [1020030582][1020030582] ### Colorful Gear -Vector Sight |
+29728. [1020030583][1020030583] ### Colorful Gear -Vector Gun Stock |
+29729. [1020030601][1020030601] ### Deadly Golden Scythe -Vector Magazine |
+29730. [1020030602][1020030602] ### Deadly Golden Scythe -Vector Sight |
+29731. [1020030603][1020030603] ### Deadly Golden Scythe -Vector Gun Stock |
+29732. [1020030611][1020030611] ### Deadly Golden Scythe -Vector Magazine |
+29733. [1020030612][1020030612] ### Deadly Golden Scythe -Vector Sight |
+29734. [1020030613][1020030613] ### Deadly Golden Scythe -Vector Gun Stock |
+29735. [1020030614][1020030614] 210Vector Death Box ( Smoke ) |
+29736. [1020030621][1020030621] ### Deadly Golden Scythe -Vector Magazine |
+29737. [1020030622][1020030622] ### Deadly Golden Scythe -Vector Sight |
+29738. [1020030623][1020030623] ### Deadly Golden Scythe -Vector Gun Stock |
+29739. [1020030631][1020030631] Swimmer's Buster -Vector Magazine |
+29740. [1020030632][1020030632] Swimmer's Buster -Vector Sight |
+29741. [1020030633][1020030633] Swimmer's Buster -Vector Gun Stock |
+29742. [1020030641][1020030641] ### Deadly Golden Scythe -Vector Magazine |
+29743. [1020030642][1020030642] ### Deadly Golden Scythe -Vector Sight |
+29744. [1020030643][1020030643] ### Deadly Golden Scythe -Vector Gun Stock |
+29745. [1020030651][1020030651] ### Deadly Golden Scythe -Vector Magazine |
+29746. [1020030652][1020030652] ### Deadly Golden Scythe -Vector Sight |
+29747. [1020030653][1020030653] ### Deadly Golden Scythe -Vector Gun Stock |
+29748. [1020030661][1020030661] ###1-230-Vector Magazine |
+29749. [1020030662][1020030662] ###1-230-Vector sight |
+29750. [1020030663][1020030663] ###1-230-Vector Stock |
+29751. [1020030671][1020030671] ###1-230-Vector Magazine |
+29752. [1020030672][1020030672] ###1-230-Vector sight |
+29753. [1020030673][1020030673] ###1-230-Vector Stock |
+29754. [1020030681][1020030681] ###1-230-Vector Magazine |
+29755. [1020030682][1020030682] ###1-230-Vector sight |
+29756. [1020030683][1020030683] ###1-230-Vector Stock |
+29757. [1020030711][1020030711] ###1-230-Vector Magazine |
+29758. [1020030712][1020030712] ###1-230-Vector sight |
+29759. [1020030713][1020030713] ###1-230-Vector Stock |
+29760. [1020030721][1020030721] ###1-230-Vector Magazine |
+29761. [1020030722][1020030722] ###1-230-Vector sight |
+29762. [1020030723][1020030723] ###1-230-Vector Stock |
+29764. [1020030731][1020030731] ### Emerald Warrior -Vector Magazine |
+29765. [1020030732][1020030732] ### Emerald Warrior -Vector Sight |
+29766. [1020030733][1020030733] ### Emerald Warrior -Vector Gun Stock |
+29767. [1020030741][1020030741] ### Skimming Wings -Vector Magazine |
+29768. [1020030742][1020030742] ### Skimming Wings -Vector Sight |
+29769. [1020030743][1020030743] ### Sky-skimming Wings -Vector Gun Stock |
+29777. [1020030751][1020030751] ### Skimming Wings -Vector Magazine |
+29778. [1020030752][1020030752] ### Sky-skimming Wings -Vector Sight |
+29779. [1020030753][1020030753] ### Sky-skimming Wings -Vector Gun Stock |
+29787. [1020030761][1020030761] ### Skimming Wings -Vector Magazine |
+29788. [1020030762][1020030762] ### Sky-skimming Wings -Vector Sight |
+29789. [1020030763][1020030763] ### Sky-skimming Wings -Vector Gun Stock |
+29792. [1020030771][1020030771] ### Skimming Wings -Vector Magazine |
+29793. [1020030772][1020030772] ### Sky-skimming Wings -Vector Sight |
+29794. [1020030773][1020030773] ### Sky-skimming Wings -Vector Gun Stock |
+29795. [1020030781][1020030781] ### Sky-skimming Wings -Vector Magazine |
+29796. [1020030782][1020030782] ### Skimming Wings -Vector Sight |
+29797. [1020030783][1020030783] ### Sky-skimming Wings -Vector Gun Stock |
+29798. [1020030791][1020030791] ### Skimming Wings -Vector Magazine |
+29799. [1020030792][1020030792] ### Sky-skimming Wings -Vector Sight |
+29800. [1020030793][1020030793] ### Sky-skimming Wings -Vector Gun Stock |
+29801. [1020030801][1020030801] ### Skimming Wings -Vector Magazine |
+29802. [1020030802][1020030802] ### Sky-skimming Wings -Vector Sight |
+29803. [1020030803][1020030803] ### Sky-skimming Wings -Vector Gun Stock |
+29807. [1020030811][1020030811] ### Emerald Warrior -Vector Magazine |
+29808. [1020030812][1020030812] ### Emerald Warrior -Vector Sight |
+29809. [1020030813][1020030813] ### Emerald Warrior -Vector Gun Stock |
+29810. [1020030821][1020030821] ### Digital Hipster -Vector Magazine |
+29811. [1020030822][1020030822] ### Digital Hipster -Vector Sight |
+29812. [1020030823][1020030823] ### Digital Hipster -Vector Gun Stock |
+31830. [1102003001][1102003001] JK Rabbit -Vector | JK Rabbit -Vector , the gun is as fast as the wind, and the bullets are falling like rain, here comes JK Rabbit!
+31831. [1102003002][1102003002] Street Kid -Vector |
+31832. [1102003003][1102003003] Silver Plate-Vector |
+31833. [1102003014][1102003014] Colorful Phantom -Vector |
+31834. [1102003015][1102003015] Herald -Vector |
+31835. [1102003016][1102003016] Bloodfang War Bat -Vector ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31836. [1102003017][1102003017] Bloodfang War Bat -Vector ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31837. [1102003018][1102003018] Bloodfang War Bat -Vector ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31838. [1102003019][1102003019] Bloodfang War Bat -Vector ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31839. [1102003020][1102003020] Bloodfang War Bat -Vector ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31840. [1102003023][1102003023] Graffiti Art -Vector |
+31841. [1102003024][1102003024] Exploding colors -Vector |
+31842. [1102003025][1102003025] Toy Alliance -Vector |
+31843. [1102003026][1102003026] Green Feather Thorn -Vector |
+31844. [1102003027][1102003027] Rose Red Night -Vector ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31845. [1102003028][1102003028] Rose Red Night -Vector ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31846. [1102003029][1102003029] Rose Red Night -Vector ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31847. [1102003030][1102003030] Rose Red Night -Vector ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31848. [1102003031][1102003031] Rose Red Night -Vector ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31849. [1102003034][1102003034] Tribal style -Vector |
+31850. [1102003035][1102003035] Cute Badass -Vector ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31851. [1102003036][1102003036] Cute Badass -Vector ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31852. [1102003037][1102003037] Cute Badass -Vector ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31853. [1102003038][1102003038] Cute Badass -Vector ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31854. [1102003039][1102003039] Cute Badass -Vector ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31855. [1102003042][1102003042] Sand River Lord -Vector |
+31856. [1102003045][1102003045] Glacier King -Vector |
+31857. [1102003046][1102003046] Golden Earl -Vector ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31858. [1102003047][1102003047] Golden Earl -Vector ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31859. [1102003048][1102003048] Golden Earl -Vector ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31860. [1102003049][1102003049] Mecha Maid -Vector |
+31861. [1102003050][1102003050] Golden Kingdom -Vector |
+31862. [1102003051][1102003051] Golden Earl -Vector ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31863. [1102003052][1102003052] Golden Earl -Vector ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31864. [1102003054][1102003054] Cute Monster -Vector |
+31865. [1102003058][1102003058] Colorful gear -Vector |
+31866. [1102003060][1102003060] Deadly Golden Scythe -Vector ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31867. [1102003061][1102003061] Deadly Golden Scythe -Vector ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31868. [1102003062][1102003062] Deadly Golden Scythe -Vector ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31869. [1102003063][1102003063] Swimmer's Buster -Vector |
+31870. [1102003064][1102003064] Deadly Golden Scythe -Vector ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31871. [1102003065][1102003065] Deadly Golden Scythe -Vector ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31872. [1102003066][1102003066] Ultimate Hunter -Vector ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31873. [1102003067][1102003067] Ultimate Hunter -Vector ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31874. [1102003068][1102003068] Ultimate Hunter -Vector ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31875. [1102003071][1102003071] Ultimate Hunter -Vector ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31876. [1102003072][1102003072] Ultimate Hunter -Vector ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31877. [1102003073][1102003073] Emerald Warrior -Vector |
+31878. [1102003074][1102003074] Skimming Wings -Vector ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31879. [1102003075][1102003075] Skimming Wings -Vector ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31880. [1102003076][1102003076] Skimming Wings -Vector ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31881. [1102003077][1102003077] Skimming Wings -Vector ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31882. [1102003078][1102003078] Skimming Wings -Vector ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31883. [1102003079][1102003079] Skimming Wings -Vector ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31884. [1102003080][1102003080] Skimming Wings -Vector ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31885. [1102003081][1102003081] Cool summer -Vector |
+31886. [1102003082][1102003082] Digital Hipster -Vector |
+31887. [1102003199][1102003199] DIY firearms -Vector submachine gun |

@@ -1,0 +1,33 @@
+782. [105010][10501000] MG3 light machine gun | battlefield tearing machine
+1160. [295007][29500700] MG3 light machine gun default magazine |
+2750. [1050101][105010100] MG3 light machine gun (broken) | Broken weapon, only a few accessories can be used
+2751. [1050102][105010200] MG3 light machine gun (repaired) | The repaired weapon can be equipped with most accessories
+2752. [1050103][105010300] MG3 light machine gun (mint) | intact weapon, all accessories can be used
+2753. [1050104][105010400] MG3 light machine gun ( improved ) | Improved weapon, all accessories can be used, and the damage is increased by 15%
+2754. [1050105][105010500] MG3 light machine gun (refined) | Weapon made with high precision, all accessories can be used, damage increased by 30%
+2755. [1050106][105010600] MG3 light machine gun (One-eyed Snake) | Special version of One-eyed Snake, the damage is increased by 15% , the firing sound is reduced, and the recoil control is improved
+2756. [1050107][105010700] MG3 light machine gun (Steel Front) | Steel Front special edition, damage increased by 15% . Strengthen the durability , reload speed , and scope opening speed , and also improve the ?
+2757. [1050109][105010900] MG3 light machine gun | battlefield tearing machine
+23911. [6004112][6004112] MG3 light machine gun - gold medal | Become a gun god! With this firearm, you are unstoppable and invincible!
+23912. [6004113][6004113] MG3 light machine gun - Silver | Man and gun in one! Facing powerful enemies, this firearm is your best partner!
+23913. [6004114][6004114] MG3 Light Machine Gun - Bronze Medal | Missless shots! Your use of this firearm is already perfect!
+24675. [12219484][12219484] Hall MG3 firearm inspection action |
+30763. [1050100011][1050100011] ###C2S6-MG3 default magazine |
+30764. [1050100041][1050100041] ###230-MG3 default magazine |
+30765. [1050100051][1050100051] ###230-MG3 default magazine |
+30766. [1050100061][1050100061] ###230-MG3 default magazine |
+30767. [1050100071][1050100071] ###230-MG3 default magazine |
+30768. [1050100081][1050100081] ###230-MG3 default magazine |
+30769. [1050100082][1050100082] 230MG3 Death Box ( Smoke ) |
+30770. [1050100091][1050100091] ###C2S6-MG3 default magazine |
+30771. [1050100101][1050100101] ### Bronze Divine Beast -MG3 Default Magazine |
+30772. [1050100111][1050100111] ###2800-MG3 default magazine |
+32547. [1105010001][1105010001] C2S6-MG3 |
+32548. [1105010004][1105010004] Dragon of the Sky -MG3 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32549. [1105010005][1105010005] Dragon of the Sky -MG3 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32550. [1105010006][1105010006] Dragon of the Sky -MG3 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32551. [1105010007][1105010007] Dragon of the Sky -MG3 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32552. [1105010008][1105010008] Dragon of the Sky -MG3 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32553. [1105010009][1105010009] Stunning masterpiece -MG3 |
+32554. [1105010010][1105010010] Bronze mythical beast -MG3 |
+32555. [1105010011][1105010011] C5S14-MG3 |

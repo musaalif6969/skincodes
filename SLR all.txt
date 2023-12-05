@@ -1,0 +1,65 @@
+30425. [1030060371][1030060371] ### Dimension Technology -SLR Magazine |
+30458. [1030090101][1030090101] Snowy Defender -SLR Magazine |
+30459. [1030090102][1030090102] Snowy Defender -SLR Muzzle |
+30460. [1030090111][1030090111] Poison Swamp Kraken -SLR Magazine |
+30461. [1030090112][1030090112] Poison Swamp Kraken -SLR Muzzle |
+30462. [1030090121][1030090121] Yulong Hunter -SLR Magazine |
+30463. [1030090122][1030090122] Yulong Hunter -SLR Muzzle |
+30464. [1030090131][1030090131] ### Fang -SLR Magazine |
+30465. [1030090132][1030090132] ### Fang -SLR Muzzle |
+30466. [1030090161][1030090161] Charming Night -SLR Magazine |
+30467. [1030090162][1030090162] Charming Night -SLR Muzzle |
+30470. [1030090181][1030090181] Luo Ying Golden Flower -SLR Magazine ( Level 1 ) |
+30471. [1030090182][1030090182] Luo Ying Golden Flower -SLR Muzzle ( Level 1 ) |
+30472. [1030090191][1030090191] Luo Ying Golden Flower -SLR Magazine ( Level 2 ) |
+30473. [1030090192][1030090192] Luo Ying Golden Flower -SLR Muzzle ( Level 2 ) |
+30474. [1030090193] [1030090193] Falling Cherry Blossoms -SLR Death Box |
+30475. [1030090201][1030090201] Luo Ying Golden Flower -SLR Magazine ( Level 3 ) |
+30476. [1030090202][1030090202] Luo Ying Golden Flower -SLR Muzzle ( Level 3 ) |
+30477. [1030090211][1030090211] Luo Ying Golden Flower -SLR Magazine ( Level 4 ) |
+30478. [1030090212][1030090212] Luo Ying Golden Flower -SLR Muzzle ( Level 4 ) |
+30479. [1030090221][1030090221] Luo Ying Golden Flower -SLR Magazine ( Level 5 ) |
+30480. [1030090222][1030090222] Luo Ying Golden Flower -SLR Muzzle ( Level 5 ) |
+30481. [1030090271][1030090271] Magic Night Dancer -SLR Magazine |
+30482. [1030090272][1030090272] Magic Night Dancer -SLR Muzzle |
+30483. [1030090281][1030090281] ### Coral Watcher -SLR Magazine |
+30484. [1030090282][1030090282] ### Coral Watcher -SLR Muzzle |
+30485. [1030090291][1030090291] ### Legendary Mystic -SLR Magazine |
+30486. [1030090292][1030090292] ### Legendary Mystic -SLR Muzzle |
+30487. [1030090301][1030090301] Fun Spaceman -SLR Magazine |
+30488. [1030090302][1030090302] Fun Spaceman -SLR Muzzle |
+30493. [1030090331][1030090331] Blue Demonic Flame -SLR Magazine ( Level 1 ) |
+30494. [1030090332][1030090332] Blue Demonic Flame -SLR Muzzle ( Level 1 ) |
+30495. [1030090341][1030090341] Blue Demonic Flame -SLR Magazine ( Level 2 ) |
+30496. [1030090342][1030090342] Blue Demonic Flame -SLR Muzzle ( Level 2 ) |
+30498. [1030090351][1030090351] Blue Demonic Flame -SLR Magazine ( Level 3 ) |
+30499. [1030090352][1030090352] Blue Demonic Flame -SLR Muzzle ( Level 3 ) |
+30500. [1030090361][1030090361] Blue Demonic Flame -SLR Magazine ( Level 4 ) |
+30501. [1030090362][1030090362] Blue Demonic Flame -SLR Muzzle ( Level 4 ) |
+30502. [1030090371][1030090371] Blue Demonic Flame -SLR Magazine ( Level 5 ) |
+30503. [1030090372][1030090372] Blue Demonic Flame -SLR Muzzle ( Level 5 ) |
+30504. [1030090381][1030090381] Vitality Girl -SLR Magazine |
+30505. [1030090382][1030090382] Vitality Girl -SLR Muzzle |
+32333. [1103009010][1103009010] Snowy Defender -SLR |
+32334. [1103009011][1103009011] Poison Swamp Kraken -SLR |
+32335. [1103009012][1103009012] Yulong Hunter -SLR |
+32336. [1103009013][1103009013] Fang -SLR |
+32337. [1103009016][1103009016] Charming Night -SLR |
+32338. [1103009017][1103009017] Minimalist Spray Paint -SLR |
+32339. [1103009018][1103009018] Luo Ying Golden Flower -SLR ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32340. [1103009019][1103009019] Luo Ying Golden Flower -SLR ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32341. [1103009020][1103009020] Luo Ying Golden Flower -SLR ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32342. [1103009021][1103009021] Luo Ying Golden Flower -SLR ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32343. [1103009022][1103009022] Luo Ying Golden Flower -SLR ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32344. [1103009027][1103009027] Fantasy Night Dancer -SLR |
+32345. [1103009028][1103009028] Coral Watcher -SLR |
+32346. [1103009029][1103009029] Legendary Mystic -SLR |
+32347. [1103009030][1103009030] Fun Spaceman -SLR |
+32348. [1103009031][1103009031] Dynamic notes -SLR |
+32349. [1103009032][1103009032] Scarlet -SLR |
+32350. [1103009033][1103009033] Azure Magic Flame -SLR ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32351. [1103009034][1103009034] Azure Magic Flame -SLR ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32352. [1103009035][1103009035] Azure Magic Flame -SLR ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32353. [1103009036][1103009036] Azure Magic Flame -SLR ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32354. [1103009037][1103009037] Azure Magic Flame -SLR ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32355. [1103009038][1103009038] Vitality Girl -SLR |

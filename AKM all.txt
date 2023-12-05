@@ -1,0 +1,418 @@
+710. [101001][10100100] AKM automatic rifle | Assault rifle widely equipped with armed forces around the world.
+947. [204016][20401600] Parallel magazine ( automatic rifle ) | Significantly increases magazine capacity. AKM , M762 , M416 , M16A4 , SCAR _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+949. [204018][20401800] ### Parallel magazine pre-research | Significantly increase the magazine capacity. AKM , M762 , M416 , M16A4 , SCAR _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+964. [206101][20610100] XT upgrade box -AKM | Upgrade AKM to AKM-XT , with reduced recoil and increased magazine capacity
+1121. [291001][29100100] AKM assault rifle default magazine |
+1169. [ 302001 ] [ 30200100 ] 7.62 mm bullets | AKM , Groza , Kar98k , M24 , SKS , MK14 , R1895 ? ? _ _ _ _
+2414. [1000003][0] Junior AKM gift pack | After opening , you will get an AKM automatic rifle (repaired), a red dot sight, a rifle expansion magazine (repaired), 6????? easy? ????????? ? ? ? ?
+2438. [1000027][0] AKM Set (Repair) | Open to get AKM automatic rifle (Repair), 2x scope , rifle expansion magazine (Repair), 1?????easy? ???? ???viewer ? ? ? ? ?
+2485. [1010011][101001100] AKM Automatic Rifle (Broken) | Broken weapon with only a few accessories available
+2486. [1010012][101001200] AKM Automatic Rifle (Repaired) | The repaired weapon can be equipped with most accessories
+2487. [1010013][101001300] AKM automatic rifle (mint) | intact weapon, all accessories can be used
+2488. [1010014][101001400] AKM automatic rifle (improved) | Improved weapon, can use all accessories, damage increased by 15%
+2489. [1010015][101001500] AKM automatic rifle (refined) | Weapon made with high precision, all accessories can be used, and the damage is increased by 30%
+2490. [1010016][101001600] AKM Automatic Rifle (One-Eyed Snake) | Special version of One-Eyed Snake, the damage is increased by 15% , the firing sound is reduced, and the recoil control is improved
+2491. [1010017][101001700] AKM Automatic Rifle (Steel Front) | ???? wield ??? similar to ??? version ??? sacrifice ??? ? ???? 15 % ????? ? ??? ???? ? ??? ? ??? ? ??? ? ??? ? ??? ? ??? ? ??? ? ??? Z ??? diameter ??? open _ ??? ???? ??? ? ??? ? ????
+2492. [1010019][101001900] AKM automatic rifle | Assault rifle widely equipped with armed forces around the world.
+11644. [1518003][0] Rainforest Diamond Treasure Chest | After opening, you will get one of the Golden Sandbar -AKM , Snowy Explorer Set and other rewards.
+12191. [1521450][0] AKM firearms gift pack | Contains a variety of great value discount items!
+12796. [1522127][0] Mr. Carrot AKM Treasure Box | Contains a variety of great value discount items!
+13482. [1523240][0] EU Rugged (Orange) - AKM | Contains a variety of great discount items!
+13488. [1523246][0] GB Rugged (Orange) - AKM | Contains a variety of great discount items!
+13491. [1523249][0] PL Rugged (Orange) - AKM | Contains a variety of great discount items!
+13615. [1523373][0] Wither -AKM Gift Pack | Contains a variety of great value discount items!
+18082. [1621459][0] Level 2 AKM Set | Contains a variety of firearms and accessories
+18086. [1621463][0] Level 3 AKM set | Contains a variety of firearms and accessories
+19093. [1730000][1101001005] Wither -AKM (3 days ) | Wither -AKM , withering touch, killing strike, attack is the beginning of domination.
+23800. [6004001][6004001] AKM Automatic Rifle - Gold Medal | Become a gun god! With this firearm, you are unstoppable and invincible!
+23801. [6004002][6004002] AKM automatic rifle - Silver | Man and gun in one! Facing powerful enemies, this firearm is your best partner!
+23802. [6004003][6004003] AKM Automatic Rifle - Bronze Medal | Missless shots! Your use of this firearm is already perfect!
+24647. [12219456][12219456] ###230AKM firearm inspection action |
+24884. [12219700][12219700] Japanese and Korean Moon Rabbit AKM firearms review |
+24944. [12219835][12219835] ###290AKM Firearms Inspection Action |
+25973. [101001002][101001002] Glory -AKM |
+25974. [101001027][1101001027] Minghuang -AKM |
+26318. [417004214][417004214] 200AKM ???? ? ??? ? ???? |
+26407. [418004100][418004100] ### Geely Dragon King -AKM Firearms Pendant |
+26414. [418004157][418004157] ????? ???? AKM ???? ? ??? ? ???? |
+26439. [441001001][1101001001] Solid wood gold -AKM | The handle is made of high-quality walnut wood, and the gun body is made of pure gold. The center of gravity is even and the grip is excellent.
+26750. [841001005] [1101001005] Wither -AKM | Wither -AKM , withering touch, killing blow, attack is the beginning of domination.
+26751. [841001006][1101001006] Rugged(Orange)-AKM | Rugged(Orange)-AKM , crazy fighting spirit, intensive bullet fire destroys everything!
+26752.[841001009][1101001009] Rockstar -AKM |
+26865. [911001002][1101001002] Yellow minimalist -AKM | Yellow minimalist -AKM , minimalist pure black, golden trim, low-key appearance can hardly hide the fighting spirit.
+26866. [911001003][1101001003] Blood Oath -AKM | Blood Oath -AKM , blood oath, fighting to the death, guarding the honor of the oath!
+26867. [911001004][1101001004] Trembling City -AKM | Trembling City -AKM , terrifying and trembling, cool city, crazy firepower shocked the whole world.
+26868. [911001005] [1101001005] Wither -AKM | Wither -AKM , withering touch, killing blow, attack is the beginning of domination.
+26870.[911001009][1101001009] Rockstar - AKM |
+27205. [931001001][1101001001] Solid wood gold -AKM | The handle is made of high-quality walnut wood, and the gun body is made of pure gold. The center of gravity is even and the grip is excellent.
+27206. [931001003][1101001003] Blood Oath -AKM | Blood Oath -AKM , blood oath, fighting to the death, guarding the honor of the oath!
+27207. [931001005] [1101001005] Wither -AKM | Wither -AKM , withering touch, killing blow, attack is the beginning of domination.
+27208.[931001009][1101001009] Rockstar -AKM |
+27349. [1010010011][1010010011] Solid Wood Gold -AKM Magazine |
+27350. [1010010021][1010010021] Yellow Minimalist -AKM Magazine |
+27355. [1010010071][1010010071] Golden Sandbar -AKM Magazine |
+27356. [1010010091][1010010091] Rockstar -AKM |
+27357. [1010010191][1010010191] Morning -AKM Magazine |
+27358. [1010010201][1010010201] Ragnarok -AKM Magazine |
+27359. [1010010221][1010010221] Celebration Night -AKM Magazine |
+27360. [1010010231][1010010231] Ghost Flame -AKM Magazine |
+27361. [1010010232][1010010232] Ghost Flame -AKM Death Box |
+27363. [1010010241][1010010241] Withered Skeleton -AKM Magazine |
+27364. [1010010251][1010010251] Dragon Flame -AKM Magazine |
+27365. [1010010271][1010010271] ###??-AKM Magazine |
+27366. [1010010281][1010010281] Lord of Ashes -AKM Magazine |
+27367. [1010010291][1010010291] Grizzly Roar -AKM Magazine |
+27368. [1010010301][1010010301] Golden Piggy -AKM Magazine |
+27369. [1010010311][1010010311] ## Dark Night Orange Color -AKM |
+27370. [1010010331][1010010331] Wujian Cats and Dogs -AKM Magazine |
+27371. [1010010351][1010010351] Wish Night -AKM Magazine |
+27372. [1010010361][1010010361] ## raging morning light -AKM |
+27373. [1010010371][1010010371] Gorgeous relief -AKM magazine ( level 1 ) |
+27374. [1010010381][1010010381] Gorgeous relief -AKM magazine ( level 2 ) |
+27375. [1010010391][1010010391] Gorgeous relief -AKM magazine ( level 3 ) |
+27376. [1010010401][1010010401] Gorgeous relief -AKM magazine ( level 4 ) |
+27377. [1010010411][1010010411] Gorgeous relief -AKM magazine ( level 5 ) |
+27378.[1010010412][1010010412] Combo -AKM Death Box |
+27379. [1010010421][1010010421] Gorgeous relief -AKM magazine ( level 6 ) |
+27380. [1010010441][1010010441] Martial Saint -AKM Magazine |
+27381. [1010010451][1010010451] ### Scarlet Skeleton -AKM Magazine |
+27382. [1010010461][1010010461] Fel Power -AKM Magazine |
+27383. [1010010471][1010010471] ##1-230-AKM |
+27384. [1010010481][1010010481] Scarlet Hell -AKM Magazine |
+27385. [1010010501][1010010501] Shadow of Speed -AKM Magazine |
+27386. [1010010511][1010010511] Exotic Wanderer -AKM Magazine |
+27387. [1010010521][1010010521] Pearl Hunter -AKM Magazine |
+27388. [1010010531][1010010531] ### Alien Technology -AKM Magazine |
+27389. [1010010541][1010010541] Breath of Flame Wind -AKM Magazine |
+27390. [1010010551][1010010551] ### Colorful Food -AKM Magazine |
+27391. [1010010561][1010010561] Breath of Flame Wind -AKM Magazine |
+27392. [1010010571][1010010571] Raging Sea -AKM Magazine |
+27393. [1010010581][1010010581] Raging Sea -AKM Magazine |
+27394. [1010010582][1010010582] Raging Sea -AKM Death Box |
+27395. [1010010591][1010010591] Raging Sea -AKM Magazine |
+27396. [1010010601][1010010601] Raging Sea -AKM Magazine |
+27397. [1010010611][1010010611] Raging Sea -AKM Magazine |
+27398. [1010010621][1010010621] Raging Sea -AKM Magazine |
+27399. [1010010631][1010010631] Raging Sea -AKM Magazine |
+27400. [1010010632][1010010632] Raging Sea -AKM Death Box |
+27401. [1010010633][1010010633] Raging Sea -AKM Hall Death Box |
+27402. [1010010641][1010010641] White Tiger Roar -AKM Magazine |
+27403. [1010010651][1010010651] White Tiger Roar -AKM Magazine |
+27404. [1010010652][1010010652] White Tiger Roar -AKM Death Box |
+27405. [1010010661][1010010661] White Tiger Roar -AKM Magazine |
+27406. [1010010671][1010010671] White Tiger Roar -AKM Magazine |
+27407. [1010010681][1010010681] White Tiger Roar -AKM Magazine |
+27408. [1010010711][1010010711] Snow Flower Princess -AKM Magazine |
+27409. [1010010791][1010010791] Cool Blue -AKM Magazine |
+27410. [1010010811][1010010811] ### Soul Dream -AKM Magazine |
+27411. [1010010831][1010010831] Frost Core -AKM Magazine |
+27412. [1010010841][1010010841] Frost Core -AKM Magazine |
+27413. [1010010842][1010010842] Frost Core -AKM Death Box |
+27414. [1010010851][1010010851] Frost Core -AKM Magazine |
+27415. [1010010861][1010010887] Frost Core -AKM Magazine |
+27416. [1010010871][1010010871] Frost Core -AKM Magazine |
+27417. [1010010881][1010010881] Frost Core -AKM Magazine |
+27418. [1010010891][1010010891] Frost Core -AKM Magazine |
+27419. [1010010892][1010010892] Frost Core -AKM Death Box |
+27420. [1010010893][1010010893] Frost Core -AKM Hall Death Box |
+27421. [1010010911][1010010911] Dragon Terminator -AKM Magazine |
+27422. [1010010921][1010010921] King of Poker -AKM Magazine |
+27423. [1010010931][1010010931] Styx Judge -AKM Magazine |
+27424. [1010010941][1010010941] Taurus -AKM Magazine |
+27425. [1010010951][1010010951] Spade Smile -AKM Magazine |
+27426. [1010010971][1010010971] Building block keel -AKM magazine ( level 1 ) |
+27427. [1010010981][1010010981] Building block keel -AKM magazine ( level 2 ) |
+27428. [1010010982][1010010982] Brick Keel -AKM Death Box |
+27429. [1010010991][1010010991] Building block keel -AKM magazine ( level 3 ) |
+27430. [1010011001][1010011001] Building block keel -AKM magazine ( level 4 ) |
+27431. [1010011011][1010011011] Building block keel -AKM magazine ( level 5 ) |
+27432. [1010011021][1010011021] Building block keel -AKM magazine ( level 6 ) |
+27433. [1010011031][1010011031] Building block keel -AKM magazine ( level 7 ) |
+27434. [1010011032][1010011032] Brick Keel -AKM Death Box |
+27435. [1010011033][1010011033] Brick Keel -AKM Hall Death Box |
+27436. [1010011041][1010011041] Ash Beast -AKM Magazine |
+27437. [1010011051][1010011051] ### Scorching Dragon Flame -AKM Magazine |
+27438. [1010011071][1010011071] ### Mysterious Samurai -AKM Magazine |
+27439. [1010011081][1010011081] Mr. Carrot -AKM Magazine |
+27440. [1010011091][1010011091] ### bloody trace -AKM magazine |
+27441. [1010011101][1010011101] ### Strange Night -AKM Magazine ( Level 1 ) |
+27450. [1010011111][1010011111] ### Strange Night -AKM Magazine ( Level 2 ) |
+27452. [1010011113][1010011113] ### Strange Night -AKM Death Box |
+27453. [1010011121][1010011121] ### Strange Night -AKM Magazine ( Level 3 ) |
+27454. [1010011131][1010011131] ### Strange Night -AKM Magazine ( Level 4 ) |
+27455. [1010011141][1010011141] ### Strange Night -AKM Magazine ( Level 5 ) |
+27456. [1010011151][1010011151] ### Strange Night -AKM Magazine ( Level 6 ) |
+27457. [1010011161][1010011161] ### Strange Night -AKM Magazine ( Level 7 ) |
+27458. [1010011162][1010011162] ### Strange Night -AKM Death Box |
+27459. [1010011163][1010011163] ### Strange Night -AKM Hall Death Box |
+27460. [1010011171][1010011171] ### Old Time -AKM Magazine |
+27461. [1010011181][1010011181] ### Justice Messenger -AKM Magazine |
+27462. [1010011211][1010011211] Cyber Monkey King -AKM Magazine |
+27463. [1010011221][1010011221] Geely Dragon King -AKM ( Level 1 ) Magazine |
+27472. [1010011231][1010011231] Geely Dragon King -AKM ( Level 2 ) Magazine |
+27476. [1010011241][1010011241] Geely Dragon King -AKM ( Level 3 ) Magazine |
+27477. [1010011242][1010011242] Geely Dragon King -AKM Death Box |
+27478. [1010011251][1010011251] Geely Dragon King -AKM ( Level 4 ) Magazine |
+27479. [1010011261][1010011261] Geely Dragon King -AKM ( Level 5 ) Magazine |
+27480. [1010011271][1010011271] Geely Dragon King -AKM ( Level 6 ) Magazine |
+27481. [1010011281][1010011281] Geely Dragon King -AKM ( Level 7 ) Magazine |
+27482. [1010011282][1010011282] Geely Dragon King -AKM Death Box |
+27483. [1010011283][1010011283] Geely Dragon King -AKM Hall Death Box |
+27484. [1010011291][1010011291] ### Urban Night Scene -AKM Magazine |
+27485. [1010011301][1010011301] ###1600-AKM Magazine |
+27486. [1010011311][1010011311] Mysterious Wonderland -AKM Magazine |
+27487. [1010011321][1010011321] ### Mysterious Phantom -AKM Magazine |
+27488. [1010011331][1010011331] ### Golden Pirate -AKM Magazine ( Level 2 ) |
+27489. [1010011341][1010011341] ### Golden Pirate -AKM Magazine ( Level 3 ) |
+27490. [1010011351][1010011351] ### Crimson Battle Cat -AKM Magazine |
+27491. [1010011361][1010011361] ###1600-AKM Magazine |
+27492. [1010011371][1010011371] ### Golden Pirate -AKM Magazine ( Level 1 ) |
+27493. [1010011391][1010011391] ### Mechanical Shark -AKM Magazine |
+27494. [1010011401][1010011401] ### Golden Pirate -AKM Magazine ( Level 4 ) |
+27495. [1010011411][1010011411] ### Golden Pirate -AKM Magazine ( Level 5 ) |
+27496. [1010011421][1010011421] ### Golden Pirate -AKM Magazine ( Level 6 ) |
+27498. [1010011431][1010011431] ### Golden Pirate -AKM Magazine ( Level 7 ) |
+27501. [1010011441][1010011441] ###1600-AKM Magazine |
+27502. [1010011451][1010011451] ### Loyal Reindeer -AKM Magazine |
+27503. [1010011461][1010011461] ### Frost Magician -AKM Magazine |
+27504. [1010011481][1010011481] 170-AKM ( level 1 ) magazine |
+27514. [1010011491][1010011491] 170-AKM ( level 2 ) magazine |
+27520. [1010011501][1010011501] 170-AKM ( level 3 ) magazine |
+27521. [1010011511][1010011511] 170-AKM ( level 4 ) magazine |
+27522. [1010011521][1010011521] 170-AKM ( level 5 ) magazine |
+27523. [1010011531][1010011531] 170-AKM ( level 6 ) magazine |
+27524. [1010011541][1010011541] 170-AKM ( level 7 ) magazine |
+27525. [1010011551][1010011551] ### Power of Jinx -AKM |
+27526. [1010011561][1010011561] ### Legendary Warrior -AKM Magazine |
+27527. [1010011571][1010011571] ### Fun Graffiti -AKM Magazine |
+27528. [1010011581][1010011581] ## Colorful Colorful Smoke -AKM |
+27529. [1010011601][1010011601] ### Evil Energy -AKM |
+27530. [1010011611][1010011611] ### Huamei Engraving -AKM |
+27531. [1010011641][1010011641] ## Deadly Strings -AKM |
+27532. [1010011661][1010011661] ### King of the Tribe -AKM ( Level 1 ) Magazine |
+27542. [1010011671][1010011671] ### King of the Tribe -AKM ( Level 2 ) Magazine |
+27543. [1010011672][1010011672] 200AKM Combat Death Box (Smoke) |
+27546. [1010011681][1010011681] ### King of the Tribe -AKM ( Level 3 ) Magazine |
+27547. [1010011691][1010011691] ### King of the Tribe -AKM ( Level 4 ) Magazine |
+27548. [1010011701][1010011701] ### King of the Tribe -AKM ( Level 5 ) Magazine |
+27549. [1010011711][1010011711] ### King of the Tribe -AKM ( Level 6 ) Magazine |
+27550. [1010011721][1010011721] ### King of the Tribe -AKM ( Level 7 ) Magazine |
+27551. [1010011722][1010011722] 200AKM Hall Death Box |
+27552. [1010011723][1010011723] 200AKM Combat Death Box (Box) |
+27553. [1010011731][1010011731] ### Purple Golden Era -AKM |
+27554. [1010011741][1010011741] ### King of the Tribe -AKM ( Level 8 ) Magazine |
+27555. [1010011742][1010011742] 200AKM Hall Death Box (Performance) |
+27556. [1010011743][1010011743] 200AKM Death Box in Combat (Performance) |
+27557. [1010011771][1010011771] ## Gold foil blood rain -AKM |
+27558. [1010011781][1010011781] ##Bandook-AKM |
+27559. [1010011791][1010011791] ## Glory Nebula -AKM |
+27560. [1010011811][1010011811] ## Fantasy City Thief Head -AKM |
+27561. [1010011841][1010011841] ## Ancient Weapons -AKM |
+27562. [1010011931][1010011931] ##240-AKM |
+27563. [1010011991][1010011991] ### Polar Arms -AKM |
+27564. [1010012061][1010012061] ###1-230-AKM ( Level 1 ) Magazine |
+27574. [1010012071][1010012071] ###1-230-AKM ( Level 2 ) Magazine |
+27577. [1010012081][1010012081] ###1-230-AKM ( Level 3 ) Magazine |
+27578. [1010012091][1010012091] ###1-230-AKM ( Level 4 ) Magazine |
+27579. [1010012101][1010012101] ###1-230-AKM ( Level 5 ) Magazine |
+27580. [1010012111][1010012111] ###1-230-AKM ( Level 6 ) Magazine |
+27581. [1010012121][1010012121] ###1-230-AKM ( Level 7 ) Magazine |
+27582. [1010012131][1010012131] ###1-230-AKM ( Level 8 ) Magazine |
+27583. [1010012132][1010012132] 230 Ice Gun AKM Smoke (Smoke in Combat) |
+27584. [1010012133][1010012133] 230 Ice Gun AKM Death Box ( In-Battle Box) |
+27585. [1010012134][1010012134] 230 Ice Gun AKM Death Show ( In-combat Show) |
+27586. [1010012135][1010012135] 230 Ice Gun AKM Death Box ( Hall Box) |
+27587. [1010012136][1010012136] 230 Ice Gun AKM Death Show ( Hall Show) |
+27588. [1010012211][1010012211] ##240-AKM |
+27589. [1010012251][1010012251] ###1-230-AKM ( Level 1 ) Magazine |
+27590. [1010012254][1010012254] Playful Bunny -AKM ( Smoke ) |
+27591. [1010012255][1010012255] Playful bunny -AKM ( hall box) |
+27592. [1010012256][1010012256] Playful Bunny -AKM ( Battle Box) |
+27593. [1010012261][1010012261] ###1-230-AKM ( Level 2 ) Magazine |
+27602. [1010012271][1010012271] ###1-230-AKM ( Level 3 ) Magazine |
+27608. [1010012281][1010012281] ###1-230-AKM ( Level 4 ) Magazine |
+27609. [1010012291][1010012291] ###1-230-AKM ( Level 5 ) Magazine |
+27610. [1010012301][1010012301] ###1-230-AKM ( level 6 ) magazine |
+27612. [1010012321][1010012321] ### Colorful Notes -AKM |
+27613. [1010012331][1010012331] ### AKM |
+27627. [1010012411][1010012411] ###1-290-AKM ( Level 1 ) Magazine |
+27628. [1010012412][1010012412] ###1-290-AKM ( Level 2 ) Magazine |
+27629. [1010012413][1010012413] ###1-290-AKM ( Level 3 ) Magazine |
+27630. [1010012414][1010012414] ###1-290-AKM ( Level 4 ) Magazine |
+27631. [1010012415][1010012415] ###1-290-AKM ( Level 5 ) Magazine |
+27632. [1010012416][1010012416] ###1-290-AKM ( level 6 ) magazine |
+27633. [1010012417][1010012417] ###1-290-AKM ( Level 7 ) Magazine |
+27634. [1010012418][1010012418] ###1-290-AKM ( Level 8 ) Magazine |
+30839. [1101001001][1101001001] Solid wood gold -AKM | The handle is made of high-quality walnut wood, and the gun body is made of pure gold. The center of gravity is even and the grip is excellent.
+30840. [1101001002][1101001002] Yellow Minimalist -AKM| Yellow Minimalist -AKM , minimalist pure black, golden trim, low-key appearance can hardly conceal the soaring fighting spirit.
+30841. [1101001003][1101001003] Blood Oath -AKM | Blood Oath -AKM , blood oath, fighting to the death, guarding the honor of the oath!
+30842. [1101001004][1101001004] Trembling City -AKM | Trembling City -AKM , terrifying and trembling, cool city, crazy firepower shocked the whole world.
+30843. [1101001005][1101001005] Wither -AKM | Wither -AKM , withering touch, killing blow, attack is the beginning of domination.
+30844. [1101001006][1101001006] Rugged(Orange)-AKM | Rugged(Orange)-AKM , crazy fighting spirit, intensive bullet fire destroys everything!
+30845. [1101001007][1101001007] Golden Sandbar -AKM |
+30846. [1101001009][1101001009] Rockstar -AKM |
+30847. [1101001019][1101001019] Morning -AKM |
+30848. [1101001020][1101001020] Ragnarok -AKM |
+30849. [1101001022][1101001022] Celebration Night -AKM |
+30850. [1101001023][1101001023] Ghost Flame -AKM |
+30851. [1101001024][1101001024] Withered Bones -AKM |
+30852. [1101001025][1101001025] Dragon Flame -AKM |
+30853. [1101001027][1101001027] Minghuang -AKM |
+30854. [1101001028][1101001028] Lord of Ashes -AKM |
+30855. [1101001029][1101001029] Grizzly Roar -AKM |
+30856. [1101001030][1101001030] Golden Piggy -AKM |
+30857. [1101001031][1101001031] Dark Night Orange Color -AKM |
+30858. [1101001033] [1101001033] Infernal Cats and Dogs -AKM |
+30859. [1101001035][1101001035] Wish Night -AKM |
+30860. [1101001036][1101001036] Raging Flame Dawn -AKM |
+30861. [1101001037][1101001037] Gorgeous relief -AKM ( level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+30862. [1101001038][1101001038] Gorgeous relief -AKM ( level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+30863. [1101001039][1101001039] Gorgeous relief -AKM ( level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+30864. [1101001040][1101001040] Gorgeous relief -AKM ( level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+30865. [1101001041][1101001041] Gorgeous relief -AKM ( level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+30866. [1101001042][1101001042] Gorgeous relief -AKM ( level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+30867. [1101001044][1101001044]??-AKM |
+30868. [1101001045][1101001045] Scarlet Skeleton -AKM |
+30869. [1101001046][1101001046] Fel Power -AKM |
+30870. [1101001047][1101001047] Dark Star Warden -AKM |
+30871. [1101001048][1101001048] Scarlet Hell -AKM |
+30872. [1101001050][1101001050] Shadow of Speed -AKM |
+30873. [1101001051][1101001051] Exotic Wanderer -AKM |
+30874. [1101001052][1101001052] Pearl Hunter -AKM |
+30875. [1101001053][1101001053] Alien Technology -AKM |
+30876. [1101001054][1101001054] Breath of Flame Wind -AKM |
+30877. [1101001055][1101001055] Colorful Food -AKM |
+30878. [1101001056][1101001056] Breath of Flame Wind -AKM |
+30879. [1101001057][1101001057] Raging Sea -AKM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+30880. [1101001058][1101001058] Raging Sea -AKM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+30881. [1101001059][1101001059] Raging Sea -AKM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+30882. [1101001060][1101001060] Raging Sea -AKM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+30883. [1101001061][1101001061] Raging Sea -AKM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+30884. [1101001062][1101001062] Raging Sea -AKM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+30885. [1101001063][1101001063] Raging Sea -AKM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+30886. [1101001064][1101001064] White Tiger Roar -AKM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+30887. [1101001065][1101001065] White Tiger Roar -AKM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+30888. [1101001066][1101001066] White Tiger Roar -AKM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects .
+30889. [1101001067][1101001067] White Tiger Roar -AKM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+30890. [1101001068][1101001068] White Tiger Roar -AKM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+30891. [1101001071][1101001071] Snowflake - AKM |
+30892. [1101001079][1101001079] Cool Blue -AKM |
+30893. [1101001081][1101001081] Soul Talking in Dreams -AKM |
+30894. [1101001083][1101001083] Frost Core -AKM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+30895. [1101001084][1101001084] Frost Core -AKM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+30896. [1101001085][1101001085] Frost Core -AKM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+30897. [1101001086][1101001086] Frost Core -AKM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+30898. [1101001087][1101001087] Frost Core -AKM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+30899. [1101001088][1101001088] Frost Core -AKM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+30900. [1101001089][1101001089] Frost Core -AKM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+30901. [1101001091][1101001091] Dragon Terminator -AKM |
+30902. [1101001092][1101001092] The King of Poker -AKM |
+30903. [1101001093][1101001093] Stygian Judge -AKM |
+30904. [1101001094][1101001094] Taurus -AKM |
+30905. [1101001095][1101001095] Spade Smile -AKM |
+30906. [1101001097][1101001097] Building Block Keel -AKM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+30907. [1101001098][1101001098] Building Block Keel -AKM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+30908. [1101001099][1101001099] Building Block Keel -AKM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+30909. [1101001100][1101001100] Building Block Keel -AKM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+30910. [1101001101][1101001101] Building Block Keel -AKM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+30911. [1101001102][1101001102] Building Block Keel -AKM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+30912. [1101001103][1101001103] Building Block Keel -AKM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+30913. [1101001104][1101001104] Ash Beast -AKM |
+30914. [1101001105][1101001105] Scorching Dragon Flame -AKM |
+30915. [1101001107][1101001107] Mysterious Warrior -AKM |
+30916. [1101001108][1101001108] Mr. Carrot -AKM |
+30917. [1101001109][1101001109] Blood Lost Trail -AKM |
+30918. [1101001110][1101001110] Strange Night -AKM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+30919. [1101001111][1101001111] Strange Night -AKM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+30920. [1101001112][1101001112] Strange Night -AKM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+30921. [1101001113][1101001113] Strange Night -AKM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+30922. [1101001114][1101001114] Strange Night -AKM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+30923. [1101001115][1101001115] Strange Night -AKM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+30924. [1101001116][1101001116] Strange Night -AKM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+30925. [1101001117][1101001117] Old Times -AKM |
+30926. [1101001118][1101001118] Messenger of Justice -AKM |
+30927. [1101001121][1101001121] Cyber Monkey King -AKM |
+30928. [1101001122][1101001122] Geely Dragon King -AKM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+30929. [1101001123][1101001123] Geely Dragon King -AKM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+30930. [1101001124][1101001124] Geely Dragon King -AKM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+30931. [1101001125][1101001125] Geely Dragon King -AKM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+30933. [1101001127][1101001127] Geely Dragon King -AKM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+30934. [1101001128][1101001128] Geely Dragon King -AKM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+30935. [1101001129][1101001129] Urban Night Scene -AKM |
+30936. [1101001130][1101001130] Rage God of War -AKM |
+30937. [1101001131][1101001131] Mysterious Wonderland -AKM |
+30938. [1101001132][1101001132] Mysterious Phantom -AKM |
+30939. [1101001133][1101001133] Golden Pirate -AKM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+30940. [1101001134][1101001134] Golden Pirate -AKM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+30941. [1101001135][1101001135] Crimson Battle Cat -AKM |
+30942. [1101001136][1101001136] Cool Drifter -AKM |
+30943. [1101001137][1101001137] Golden Pirate -AKM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+30944. [1101001139][1101001139] Mechanical Shark -AKM |
+30945. [1101001140][1101001140] Golden Pirate -AKM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+30946. [1101001141][1101001141] Golden Pirate -AKM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+30947. [1101001142][1101001142] Golden Pirate -AKM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+30948. [1101001143][1101001143] Golden Pirate -AKM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+30949. [1101001144] [1101001144] Flavored Fruit -AKM |
+30950. [1101001145][1101001145] Loyal Reindeer -AKM |
+30951. [1101001146][1101001146] Frost Magician -AKM |
+30952. [1101001148][1101001148] Fantasy Workshop -AKM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+30953. [1101001149][1101001149] Fantasy Workshop -AKM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+30954. [1101001150][1101001150] Fantasy Workshop -AKM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+30955. [1101001151][1101001151] Fantasy Workshop -AKM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+30956. [1101001152][1101001152] Fantasy Workshop -AKM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+30957. [1101001153][1101001153] Fantasy Workshop -AKM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+30958. [1101001154][1101001154] Fantasy Workshop -AKM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+30959. [1101001155][1101001155] Jinx -AKM |
+30960. [1101001156][1101001156] Legendary Warrior -AKM |
+30961. [1101001157][1101001157] Fun Graffiti -AKM |
+30962. [1101001158][1101001158] Colorful smoke -AKM |
+30963. [1101001160][1101001160] Evil Energy -AKM |
+30964. [1101001161][1101001161] Gorgeous engraving -AKM |
+30965. [1101001164][1101001164] Fatal Strings -AKM |
+30966. [1101001166][1101001166] King of the Tribe -AKM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+30967. [1101001167][1101001167] King of the Tribe -AKM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+30968. [1101001168][1101001168] King of the Tribe -AKM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+30969. [1101001169][1101001169] King of the Tribe -AKM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+30970. [1101001170][1101001170] King of the Tribe -AKM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+30971. [1101001171][1101001171] King of the Tribe -AKM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+30972. [1101001172][1101001172] King of the Tribe -AKM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+30973. [1101001173][1101001173] Purple Golden Era -AKM |
+30974. [1101001174][1101001174] King of the Tribe -AKM ( Level 8 ) | Can be upgraded in the research institute to obtain additional effects.
+30975. [1101001177][1101001177] Gold foil blood rain -AKM |
+30976. [1101001178][1101001178] Bandook-AKM |
+30977. [1101001179][1101001179] Glory Nebula -AKM |
+30978. [1101001181] [1101001181] Fantasy City Rogue -AKM |
+30979. [1101001184][1101001184] Ancient weapons -AKM |
+30980. [1101001193][1101001193] Sea of Blood and Golden Bones -AKM |
+30981. [1101001199][1101001199] Polar Arms -AKM |
+30982. [1101001206][1101001206] Xinghai Admiral -AKM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+30983. [1101001207][1101001207] Xinghai Admiral -AKM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+30984. [1101001208][1101001208] Xinghai Admiral -AKM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+30985. [1101001209][1101001209] Xinghai Admiral -AKM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+30986. [1101001210][1101001210] Xinghai Admiral -AKM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+30987. [1101001211][1101001211] Xinghai Admiral -AKM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+30988. [1101001212][1101001212] Xinghai Admiral -AKM ( level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+30989. [1101001213][1101001213] Xinghai Admiral -AKM ( Level 8 ) | Can be upgraded in the research institute to obtain additional effects.
+30990.[1101001221][1101001221] Cactus Sheriff -AKM |
+30991. [1101001225][1101001225] Playful Bunny -AKM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+30992. [1101001226][1101001226] Playful Bunny -AKM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+30993. [1101001227][1101001227] Playful Bunny -AKM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+30994. [1101001228][1101001228] Playful Bunny -AKM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+30995. [1101001229][1101001229] Playful Bunny -AKM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+30996. [1101001230][1101001230] Playful Bunny -AKM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+30997. [1101001231][1101001231] Playful Bunny -AKM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+30998. [1101001232][1101001232] Colorful Notes -AKM |
+30999. [1101001233][1101001233] AKM |
+31000. [1101001235][1101001235] The Day of Decisiveness -AKM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31001. [1101001236][1101001236] The Day of Decisiveness -AKM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31002. [1101001237][1101001237] The Day of Decisiveness -AKM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31003. [1101001238][1101001238] The Day of Decisiveness -AKM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31004. [1101001239][1101001239] The Day of Decisiveness -AKM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31005. [1101001240][1101001240] The Day of Decisiveness -AKM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31006. [1101001241][1101001241] The Day of Decisiveness -AKM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31007. [1101001242][1101001242] The Day of Decisiveness -AKM ( Level 8 ) | Can be upgraded in the research institute to obtain additional effects.
+32973. [1110012372][1110012372] 290AKM Hall Death Box (Performance) |
+32974. [1110012373][1110012373] 290AKM Hall Death Box |
+32975. [1110012374][1110012374] 290AKM Combat Death Box (Smoke) |
+32976. [1110012375][1110012375] 290AKM Combat Death Box (Performance) |
+32977. [1110012376][1110012376] 290AKM Combat Death Box (Box) |

@@ -1,0 +1,12 @@
+32288. [1103006024][1103006024] Glacier Touch -Mini14 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32289. [1103006025][1103006025] Glacier Touch -Mini14 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32290. [1103006026][1103006026] Glacial Touch -Mini14 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32291. [1103006027][1103006027] Glacier Touch -Mini14 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32292. [1103006028][1103006028] Glacier Touch -Mini14 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32293. [1103006029][1103006029] Glacier Touch -Mini14 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+32294. [1103006030][1103006030] Glacier Touch -Mini14 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+32305. [1103006042][1103006042] Beautiful Flowers -Mini14 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32306. [1103006043][1103006043] Beautiful Flowers -Mini14 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32307. [1103006044][1103006044] Beautiful Flowers -Mini14 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32308. [1103006045][1103006045] Beautiful Flowers -Mini14 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32309. [1103006046][1103006046] Beautiful Flowers -Mini14 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.

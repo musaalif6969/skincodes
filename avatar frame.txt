@@ -1,0 +1,655 @@
+21083. [2005217][0] Ice and Snow Avatar Frame | Rare avatar frame, which can be obtained in designated activities.
+
+21084. [2005218][0] Rising Stars avatar frame | Rare avatar frame, available in designated activities.
+
+21085. [2005219][0] Thousand-Faced Emperor Avatar Frame |
+
+21086. [2005220][0] RP commemorative avatar frame ( M19 ) |
+
+21087. [2005221][0] RP commemorative avatar frame ( M20 ) |
+
+21088. [2005222][0] Rabbit Border | Available at the Hourglass Store
+
+21089. [2005223][0] Sweet Borders | Available at the Hourglass Store
+
+21090. [2005224][0] Blood Abyss Holy King Avatar Frame |
+
+21091. [2005225][0] Soul-eating Hades avatar frame |
+
+21092. [2005226][0] Cyber Corgi Avatar Frame |
+
+21093. [2005227][0] Neon cat avatar frame |
+
+21094. [2005228][0] The Lion King avatar frame |
+
+20779. [2001001][0] Default avatar frame |
+
+20780. [2002001][0] [ Silver ] Honor Frame | Unyielding will, body of steel, as dazzling as silver!
+
+20781. [2002002][0] [Gold] Honor Border | Brave and outstanding, heroic and fearless, a quality as valuable as gold .
+
+20782. [2002003][0] [ Platinum] Honor Frame | Tenacity creates extraordinary, platinum is a symbol of superior strength!
+
+20783. [2002004][0] [ Star Diamond ] Honor Frame | Even though fire and blood are silent, the blood is immortal and the star diamond is eternal.
+
+20784. [2002005][0] [Crown] Honor Frame | The highest honor of joint military exercises, the dazzling light given by the royal family!
+
+20785. [2002006][0] [Ace] Honor Frame | A top existence that surpasses the special elites of the three armed forces and is respected as an ace.
+
+20786. [2002007][0] [ God of War] Honor Frame | He is invincible all over the world and has no seal, he is the God of War!
+
+20787. [2002101][0] The avatar frame of the new talents on the battlefield | It's hard to hide the sharpness of the new talents ! Special training starts from now on, and you can expect to be strong!
+
+20788. [2002102][0] Battlefield Elite Avatar Frame | Stimulating the battlefield elites, the mission and responsibility are on your shoulders! Train your soldiers!
+
+20789. [2002103][0] Battlefield Legend avatar frame | Battlefield Legend, who else can you choose? Although the battlefield is huge, no one knows you!
+
+20790. [2002201][0] Golden King Legion Avatar Frame | Famous, legendary on the battlefield, shining with honor like a king in the world !
+
+20791. [2002202][0] Silver Elite Legion Avatar Frame | Extraordinary achievements, across the battlefield, pure fighting spirit, all the elites in the house!
+
+20792. [2002203][0] Bronze Brave Legion Avatar Frame | Excellent combat skills, promising future, calm and steady, showing the brave demeanor!
+
+20793. [2002204][0] Legion of Justice avatar frame | The division of justice , dominating the battlefield, the flames of war that cover the sky have just begun!
+
+20794. [2002205][0] Glory Legion Avatar Frame | Military glory and fame, the powerful God of War will surely become famous all over the world!
+
+20795. [2002206][0] Iron-Blooded Legion Avatar Frame | The Iron-Blooded Legion fights on the battlefield. Who dares to fight wherever the Legion passes!
+
+20796. [2002207][0] Exclusive for PMSC event celebrities | Exclusive for PMSC event celebrities
+
+20797. [2002901][0] S1 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved!
+
+20798. [2002902][0] S2 God of War Avatar Frame | Named after Mars, God of War, the outstanding figure crushes the heroes!
+
+20799. [2002903][0] S3 God of War avatar frame | In the name of the Nordic God of War, Tyr, I give you a medal symbolizing courage, S3 hero!
+
+20800. [2002904][0] S4 God of War Avatar Frame | In the name of Ares, the God of War, I give you a medal that symbolizes nobility, S4 God of War!
+
+20801. [2002905][0] S5 God of War Avatar Frame | In the name of Chi You, the God of War, I give you a medal symbolizing strength, S5 God of War!
+
+20802. [2002906][0] S6 God of War avatar frame | In the name of Hannibal, the God of War, I give you a medal that symbolizes miracles, S6 God of War!
+
+20803. [2002907][0] S7 God of War avatar frame | In the name of Guan Yu, God of War, I give you a medal symbolizing loyalty, S7 God of War!
+
+20804. [2002908][0] S8 God of War avatar frame | In the name of the God of War Kalkatyye , I give you a medal symbolizing fanaticism, S8 God of War!
+
+20805. [2002909][0] S9 God of War avatar frame | In the name of Alexander, the God of War, I give you a medal representing conquest, S9 God of War!
+
+20806. [2002910][0] S10 God of War avatar frame | In the name of God of War Xingtian, I give you a medal representing revenge, S10 God of War!
+
+20807. [2002911][0] S11 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved! S11 God of War!
+
+20808. [2002912][0] S12 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved! S12 God of War!
+
+20809. [2002913][0] S13 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved! S13 God of War!
+
+20810. [2002914][0] S14 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved! S14 God of War!
+
+20811. [2002915][0] S15 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved! S15 God of War!
+
+20812. [2002916][0] S16 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved! S16 God of War!
+
+20813. [2002917][0] S17 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved! S17 God of War!
+
+20814. [2002918][0] S18 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved! S18 God of War!
+
+20815. [2002919][0] S19 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved! S19 God of War!
+
+20816. [2002920][0] C1S1 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved! C1S1 God of War!
+
+20817. [2002921][0] C1S2 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved! C1S2 God of War!
+
+20818. [2002922][0] C1S3 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved! C1S3 God of War!
+
+20819. [2002923][0] C2S4 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved! C2S4 God of War!
+
+20820. [2002924][0] C2S5 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved! C2S5 God of War!
+
+20821. [2002925][0] C2S6 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved! C2S6 God of War!
+
+20822. [2002926][0] C3S7 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved! C3S7 God of War!
+
+20823. [2002927][0] C3S8 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved! C3S8 God of War!
+
+20824. [2002928][0] C3S9 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved! C3S9 God of War!
+
+20825. [2002929][0] C4S10 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved! C4S10 God of War!
+
+20826. [2002930][0] C4S11 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved! C4S11 God of War!
+
+20827. [2002931][0] C4S12 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved! C4S12 God of War!
+
+20828. [2002932][0] C5S13 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved! C5S13 God of War!
+
+20829. [2002933][0] C5S14 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved! C5S14 God of War!
+
+20830. [2002934][0] C5S15 God of War avatar frame | The most dazzling star of this season! The name of the God of War is well deserved! C5S15 God of War!
+
+20831. [2003001][0] Jedi Pioneer avatar frame | Server opening commemoration event, Jedi Pioneer exclusive avatar frame.
+
+20832. [2003002][0] Brave Avatar Frame | Brave Avatar Frame, exclusive for reservation on the official website, out-of-print collection.
+
+20833. [2003003][0] Stalker avatar frame | Stalker avatar frame, showing your unique personality.
+
+20834. [2003004][0] Silver Lover (Male) Avatar Frame | You are the world, and the world is you.
+
+20835. [2003005][0] Silver Lover (Female) Avatar Frame | You are the world, and the world is you.
+
+20836. [2003006][0] Golden Lover (Male) Avatar Frame | Hold your son's hand and grow old together with him.
+
+20837. [2003007][0] Golden Lover (Female) Avatar Frame | Hold your son's hand and grow old together with him.
+
+20838. [2003008][0] Golden Photon Avatar Frame | Golden Photon Avatar Frame, you have dominated the battlefield and are victorious in every battle! Veteran, salute to you!
+
+20839. [2003009][0] Silver Photon Avatar Frame | Silver Photon Avatar Frame, you are the backbone of the battlefield and unstoppable! Warrior, may you be stronger!
+
+20840. [2003010][0] Bronze Photon Avatar Frame | Bronze Photon Avatar Frame, you are a new warrior on the battlefield with a bright future! Recruit, I wish you growth!
+
+20841. [2003011][0] Lucky Supply Avatar Frame | Lucky Supply Avatar Frame, the battlefield requires both strength and luck. I wish you success in every battle!
+
+20842. [2003012][0] Pan God avatar frame | Pan God avatar frame, stimulate the battlefield, the king of pans, your exclusive honor!
+
+20843. [2003013][0] Stimulating grenade avatar frame | Stimulating grenade avatar frame, who have you never exploded, including your enemies, teammates, and yourself?
+
+20844. [2003014][0] Fighting champion avatar frame | Fighting champion avatar frame, bare hands, wild fighting, come and have fun!
+
+20845. [2003015][0] Golden Knight Avatar Frame | Dominate the battlefield like a dragon, the sound of cars is your killing horn!
+
+20846. [2003016][0] Silver Knight Avatar Frame | The battlefield is as domineering as a tiger, and the sound of the car is your battle roar!
+
+20847. [2003017][0] Bronze Knight avatar frame | The battlefield is as unruly as a wolf, and the sound of cars is your roar of war!
+
+20848. [2003018][0] Golden Laurel Crown Avatar Frame | As precious as gold and radiant with glory, wear the laurel crown to welcome victory!
+
+20849. [2003019][0] Silver Light Crown Portrait Frame | The silver light is shining and dazzling, and you can enjoy the crown of the strong!
+
+20850. [2003020][0] Bronze Battle Helmet Portrait Frame | Deep bronze , wild style, wear the battle helmet to enter the battlefield!
+
+20851. [2003021][0] Golden City in the Sky Avatar Frame | Strong as a golden city, shuttle through the blue sky, rush to the battlefield with strong fighting spirit!
+
+20852. [2003022][0] Cruising Silver Barrier Avatar Frame | Cruising Silver Barrier, cruising the battlefield, safe companionship without delay!
+
+20853. [2003023][0] Flying Copper Fortress Portrait Frame | Solid as copper, the Flying Fortress, the brave man descends with the roar!
+
+20854. [2003024][0] Silver fighting spirit avatar frame | The fighting spirit is burning, pure as silver, who can fight with you!
+
+20855. [2003025][0] Golden God of War avatar frame | The God of War protects you and triumphs with laughter. Who dares to block your way!
+
+20856. [2003026][0] Bronze Fighting Will Avatar Frame | Fighting fiercely, rushing to the end of the world, who dares to underestimate your ambition!
+
+20857. [2003027][0] Silver Gun Soul Avatar Frame | With bullets in hand, life is as good as life, one shot saves a life!
+
+20858. [2003028][0] Golden Gun God avatar frame | Push the bullet into the chamber, the Gun God is possessed, and the brutal killing is about to begin!
+
+20859. [2003029][0] Bronze Gun King Portrait Frame | All kinds of tactics are familiar to you, and victory is just ordinary!
+
+20860. [2003999][0] Utility when testing | Utility when testing
+
+20861. [2004001][0] TGA Champion Avatar Frame | TGA Grand Prix Champion Reward
+
+20862. [2004002][0] Resident Evil Exclusive Avatar Frame | Resident Evil Exclusive Avatar Frame
+
+20863. [2004003][0] 1st anniversary exclusive avatar frame | 1st anniversary exclusive avatar frame
+
+20864. [2004004][0] Golden Nobility | Golden Nobility
+
+20865. [2004005][0] Exclusive avatar frame for team competition | Exclusive avatar frame for team competition
+
+20866. [2004006][0] Fried rice candy avatar frame | Fried rice candy avatar frame
+
+20867. [2005001][0] Royale Pass commemorative avatar frame ( S5 ) |
+
+20868. [2005002][0] Dragon Roaring Avatar Frame ( S5 ) |
+
+20869. [2005003][0] Royale Pass commemorative avatar frame ( S6 ) |
+
+20870. [2005004][0] Anniversary Glory Avatar Frame ( S6 ) |
+
+20871. [2005005][0] Spring flowers bloom |
+
+20872. [2005006][0] Foolish clown |
+
+20873. [2005007][0] Crescent avatar frame |
+
+20874. [2005008][0] Royale Pass commemorative avatar frame ( S7 ) |
+
+20875. [2005009][0] Military Action Avatar Frame ( S7 ) |
+
+20876. [2005010][0] Exclusive event avatar frame | Participate in official events and obtain rankings
+
+20877. [2005011][0] Bad luck |
+
+20878. [2005012][0] Godzilla exclusive avatar frame | "Godzilla 2 : King of the Monsters " movie limited edition
+
+20879. [2005013][0] Ghidorah exclusive avatar frame | "Godzilla 2 : King of the Monsters " movie limited edition
+
+20880. [2005014][0] Rodan 's exclusive avatar frame | "Godzilla 2 : King of the Monsters " movie limited edition
+
+20881. [2005015][0] Mothra exclusive avatar frame | "Godzilla 2 : King of the Monsters " movie limited edition
+
+20882. [2005016][0] PMCO event exclusive avatar frame |
+
+20883. [2005017][0] Alan Walker avatar frame |
+
+20884. [2005018][0] Royale Pass commemorative avatar frame ( S8 ) |
+
+20885. [2005019][0] Ocean Treasure Avatar Frame ( S8 ) |
+
+20886. [2005020][0] Pirate avatar frame |
+
+20887. [2005021][0] Royale Pass commemorative avatar frame ( S9 ) |
+
+20888. [2005022][0] Ancient City Warrior Avatar Frame ( S9 ) |
+
+20889. [2005023][0] Royale Pass commemorative avatar frame ( S10 ) |
+
+20890. [2005024][0] Furious Lava Avatar Frame ( S10 ) |
+
+20891. [2005025][0] Falcon avatar frame |
+
+20892. [2005026][0] Gold camel avatar frame |
+
+20893. [2005027][0] Angry Birds Avatar Frame |
+
+20894. [2005028][0] Royale Pass commemorative avatar frame ( S11 ) |
+
+20895. [2005029][0] Special Service Elite Avatar Frame ( S11 ) |
+
+20896. [2005030][0] Year of the Rat photo frame | Year of the Rat photo frame
+
+20897. [2005031][0] Royale Pass commemorative avatar frame ( S12 ) |
+
+20898. [2005032][0] Anniversary Carnival Avatar Frame ( S12 ) |
+
+20899. [2005033][0] 2nd anniversary avatar frame |
+
+20900. [2005034][0] Royale Pass commemorative avatar frame ( S13 ) |
+
+20901. [2005035][0] Ice Flame Armor Avatar Frame ( S13 ) |
+
+20902. [2005036][0] Green Avatar Frame |
+
+20903. [2005037][0] Pharaoh avatar frame |
+
+20904. [2005038][0] Royale Pass commemorative avatar frame ( S14 ) |
+
+20905. [2005039][0] Purple Flame Tyrant Avatar Frame ( S14 ) |
+
+20906. [2005040][0] Devil Eyes Avatar Frame |
+
+20907. [2005041][0] Royale Pass commemorative avatar frame ( S15 ) |
+
+20908. [2005042][0] Mysterious Warrior Avatar Frame ( S15 ) |
+
+20909. [2005043][0] Royale Pass commemorative avatar frame ( S16 ) |
+
+20910. [2005044][0] Nightmare Bat Avatar Frame ( S16 ) |
+
+20911. [2005045][0] Bramble Guard avatar frame |
+
+20912. [2005046][0] Steel Legend Avatar Frame |
+
+20913. [2005047][0] Royale Pass commemorative avatar frame ( S17 ) |
+
+20914. [2005048][0] World Warframe Avatar Frame ( S17 ) |
+
+20915. [2005049][0] Royale Pass commemorative avatar frame ( S18 ) |
+
+20916. [2005050][0] Phantom Night Violin Avatar Frame ( S18 ) |
+
+20917. [2005051][0] Royale Pass commemorative avatar frame ( S19 ) |
+
+20918. [2005052][0] Rose Queen Avatar Frame ( S19 ) |
+
+20919. [2005053][0] Royale Pass commemorative avatar frame ( S20 ) |
+
+20920. [2005054][0] RP Elite Avatar Frame ( S20 ) |
+
+20921. [2005055][0] Fortune Power avatar frame | ? F ~ ???? ortune Power ???? ? ??? ?
+
+20922. [2005056][0] Card Master 2020 Avatar Frame | Collect PMGC 2020 PRO cards to obtain
+
+20923. [2005057][0] Sakura avatar frame | Spring event exclusive avatar frame
+
+20924. [2005058][0] Ham pizza avatar frame | Spring event exclusive avatar frame
+
+20925. [2005059][0] Gem Avatar Frame | Obtained through events
+
+20926. [2005060][0] Cyber Power Avatar Frame | Obtained in the [ Cyber Power] event
+
+20927. [2005061][0] PMCC avatar frame | PMCC e-sports exclusive avatar frame, obtained by completing designated activities
+
+20928. [2005062][0] PMCS champion commemorative avatar frame | Commemorative avatar frame available to the PMCS champion of this season
+
+20929. [2005063][0] Focused Inspector Avatar Frame | Obtained by participating in exclusive activities for video inspectors
+
+20930. [2005064][0] PMNC2021 avatar frame | Obtained from PMNC event
+
+20931. [2005065][0] Romantic Tower Avatar Frame | Obtained from active activities
+
+20932. [2005066][0] Cow avatar frame | Get from active activity
+
+20933. [2005067][0] Pizza Hut avatar frame | Obtained from active activities
+
+20934. [2005068][0] Cricket Star Avatar Frame | Retrieved from Active Activity
+
+20935. [2005069][0] RP Ji ?? Avatar Frame ( M1 ) |
+
+20936. [2005070][0] RP commemorative avatar frame ( M2 ) |
+
+20937. [2005071][0] RP commemorative avatar frame ( M3 ) |
+
+20938. [2005072][0] RP commemorative avatar frame ( M4 ) |
+
+20939. [2005073][0] RP commemorative avatar frame ( M5 ) |
+
+20940. [2005074][0] RP commemorative avatar frame ( M6 ) |
+
+20941. [2005075][0] Champion Gladiator Avatar Frame |
+
+20942. [2005076][0] Desert Gem Avatar Frame | Obtained from active activities
+
+20943. [2005077][0] Devil Eyes Avatar Frame | Obtained from active activity
+
+20944. [2005078][0] Glory Celebration Avatar Frame | Obtained from active activities
+
+20945. [2005079][0] Tulip avatar frame | Obtained from active activities
+
+20946. [2005080][0] Moon Rabbit Avatar Frame | Obtained from active activities
+
+20947. [2005081][0] Anger Power avatar frame | Obtained in [ Anger Power ] event
+
+20948. [2005082][0] Giant leaf avatar frame | Obtained from active activities
+
+20949. [2005083][0] Heroic Warrior Avatar Frame | Obtained through specific activities
+
+20950. [2005084][0] Aftermath avatar frame | Obtained through specific activities
+
+20951. [2005085][0] Ice and Snow Blessing Avatar Frame |
+
+20952. [2005086][0] Legendary Warrior Avatar Frame |
+
+20953. [2005087][0] Christmas Elk Portrait Frame | Obtained through specific activities
+
+20954. [2005088][0] Flower Diamond Avatar Frame | Flower Diamond Avatar Frame, only available at the third anniversary celebration of Arabic!
+
+20955. [2005089][0] Frost Avatar Frame | Event-specific avatar frame received through events
+
+20956. [2005090][0] Christmas Snow Bunny Avatar Frame | Event-specific avatar frame received through the event
+
+20957. [2005091][0] Year-end avatar frame | Event limited avatar frame
+
+20958. [2005092][0] Arcane avatar frame | Arcane cooperation avatar frame
+
+20959. [2005093][0] RP commemorative avatar frame ( M7 ) |
+
+20960. [2005094][0] RP commemorative avatar frame ( M8 ) |
+
+20961. [2005095][0] Spider Avatar Frame | Obtained through specific activities
+
+20962. [2005096][0] Jawara Avatar Frame | Obtained through specific activities
+
+20963. [2005097][0] Major Grom avatar frame | Major Grom official cooperation
+
+20964. [2005098][0] Spring Flower Avatar Frame | Obtained through specific activities
+
+20965. [2005099][0] Open the black master's avatar frame | Obtained through specific activities
+
+20966. [2005100][0] Pakistan Server 1st Anniversary Celebration Avatar Frame | Pakistan Server 1st Anniversary Celebration
+
+20967. [2005101][0] Tiger - Avatar Frame | Obtained through specific activities
+
+20968. [2005102][0] Super Chicken Bowl Champion Avatar Frame | We are the champions! This avatar frame commemorates Chicken Dinner Bowl 's???? easy? ???? ?? ??? ? ? ??
+
+20969. [2005103][0] Super Chicken Dinner Bowl runner-up avatar frame | Used to commemorate the runner-up of the Chicken Dinner Bowl .
+
+20970. [2005104][0] "Spider-Man: No Homecoming" avatar frame | "Spider-Man: No Homecoming" movie joint promotion limited edition props
+
+20971. [2005105][0] Trendy Power avatar frame | Obtained in the [ Trendy Power ] event
+
+20972. [2005106][0] Ultimate Showdown Avatar Frame | Obtained through specific activities
+
+20973. [2005107][0] RP commemorative avatar frame ( M9 ) |
+
+20974. [2005108][0] RP commemorative avatar frame ( M10 ) |
+
+20975. [2005109][0] PDP Elite Designer | Thank you for participating in the PUBG MOBILE PDP co-creation plan , the elite designs shortlisted for the semi-finals ?????easy? ???? ?? ??? ? ? ??
+
+20976. [ 2005110 ] [ 0 ] PDP top designer | PUBG MOBILE The highest honor of the PDP co - creation plan, won the design award in the competition
+
+20977. [2005111][0] Golden Moon Avatar Frame | 2022 Golden Moon Limited Avatar Frame
+
+20978. [2005112][0] Victory Avatar Frame | A precious avatar frame, produced in designated activities.
+
+20979. [2005113][0] Quiet Blue Avatar Frame | Obtained through specific activities
+
+20980. [2005114][0] Poseidon avatar frame | Poseidon event exclusive avatar frame
+
+20981. [2005115][0] Happy water gun avatar frame | Exclusive avatar frame for Water Splashing Festival event
+
+20982. [2005116] [0] Hot feeling avatar frame | You will look at me, stand here and shoot this ball
+
+20983. [2005117][0] Pakistan National Day avatar frame | Pakistan National Day exclusive avatar frame
+
+20984. [2005118][0] Masameer Trad avatar frame | Masameer Trad cooperation limited avatar frame
+
+20985. [2005119][0] 4th Anniversary Avatar Frame | Thanks for having you! Witness the 4th anniversary of PUBG MOBILE !
+
+20986. [2005120][0] Saif Nabeel avatar frame | Saif Nabeel cooperation limited avatar frame
+
+20987. [2005121][0] Parrot Border | Obtained through specific activities
+
+20988. [2005122][0] Baby Dragon Border | Obtained through specific activities
+
+20989. [2005123][0] Elf King Avatar Frame | Obtained through specific activities
+
+20990. [2005124][0] Barbecue avatar frame | Obtained through specific activities
+
+20991. [2005125][0] Cute Mummy Avatar Frame | Obtained through specific activities
+
+20992. [2005126][0] Summer Beach Avatar Frame | Obtained through specific activities
+
+20993. [2005127][0] RP commemorative avatar frame ( M11 ) |
+
+20994. [2005128][0] RP commemorative avatar frame ( M12 ) |
+
+20995. [2005129][0] Stars and Sea Avatar Frame | Rare avatar frame, obtained through exclusive activities
+
+20996. [2005130][0] Phoenix Nirvana Avatar Frame | Rare avatar frame, obtained through exclusive activities
+
+20997. [2005131][0] Flying Dragon in the Sky Avatar Frame | Rare avatar frame, obtained through exclusive activities
+
+20998. [2005132][0] Examination season avatar frame | Exclusive avatar frame for exam season, work hard to achieve good results!
+
+20999. [2005133][0] Celebrate summer vacation avatar frame | Celebrate summer vacation and have a cool summer.
+
+21000. [2005134][0] Crystal Power avatar frame | Obtained in the [ Crystal Power ] event
+
+21001. [2005135][0] Dinosaur Age Avatar Frame | Rare avatar frame, which can be obtained in designated activities .
+
+21002. [2005136][0] Nutcracker avatar frame | Rare avatar frame, available in designated activities.
+
+21003. [2005137][0] Survivor Points Avatar Frame | Rare avatar frame, available in designated activities.
+
+21004. [2005138][0] Honorary Rider Avatar Frame | Obtained through specific activities
+
+21005. [2005139][0] Fengwu Jiutian avatar frame | Obtained through specific activities
+
+21006. [2005140][0] Season Reunion S6 Limited Avatar Frame | Tribute to the brave men who reunited with us in S6 Season
+
+21007. [2005141][0] Chicken Winner Avatar Frame | Obtained through specific activities
+
+21008. [2005142][0] SEA Games 31 commemorative avatar frame | PUBG MOBILE x SEA Games 31 commemorative avatar frame
+
+21009. [2005143][0] Heartrocker Avatar Frame | Obtained through specific activities
+
+21010. [2005144][0] Diyan avatar frame | Rare avatar frame, obtained through exclusive activities
+
+21011. [2005145][0] Wings avatar frame | Rare avatar frame, obtained through exclusive activities
+
+21012. [2005146][0] 4U border | Korean and Japanese server 4th anniversary limited border
+
+21013. [2005147][0] Holmes Teddy Bear avatar frame | GB Teddy Bear official authorized cooperation
+
+21014. [2005148][0] Robin Hood Teddy Bear avatar frame | GB Teddy Bear official authorized cooperation
+
+21015. [2005149][0] Meow Chai avatar frame |
+
+21016. [2005150][0] Black Robe Picket Portrait Frame | A rare avatar frame co-branded by Black Robe Picket Team, which can be obtained in designated activities.
+
+21017. [2005151][0] American Independence Day avatar frame | Rare avatar frame, available in designated activities.
+
+21018. [2005152][0] Noon Dune Avatar Frame | Rare avatar frame, available in designated activities.
+
+21019. [2005153][0] Amir Karara avatar frame | Amir Karara cooperation avatar frame
+
+21020. [2005154][0] RP commemorative avatar frame ( M13 ) |
+
+21021. [2005155][0] RP commemorative avatar frame ( M14 ) |
+
+21022. [2005156][0] Pharaoh Border | Available at the Hourglass Shop
+
+21023. [2005157][0] Mid-Autumn Festival Border | Available at Waffle Shop
+
+21024. [2005158][0] Guardian avatar frame | Your exclusive avatar frame, granted as the eternal guardian of PUBG MOBILE !
+
+21025. [2005159][0] Independence Day Avatar Frame | 2022 Independence Day Limited Avatar Frame
+
+21026. [2005160][0] Gully Squad avatar frame | Gully Squad theme event limited avatar frame, the symbol of the highest glory!
+
+21027. [2005161][0] Corn avatar frame |
+
+21028. [2005162][0] Little Puff eating chicken avatar frame |
+
+21029. [2005163][0] Season Reunion C3S7 Limited Avatar Frame |
+
+21030. [2005164][0] Genesis Girl: Zero Head Photo Frame |
+
+21031. [2005165][0] Gangster Fury Avatar Frame |
+
+21032. [2005166][0] Back-to-school season avatar frame |
+
+21033. [2005167][0] Entertainment avatar frame |
+
+21034. [2005168][0] Ring of Courage Avatar Frame | Obtained by participating in the 2022 Summer Limited Event
+
+21035. [2005169][0] Lucky Cat Queen Avatar Frame | Obtained by participating in the 2022 Summer Limited Event
+
+21036. [2005170][0] Vigilance Scarab Avatar Frame | Obtained by participating in the 2022 Summer Limited Event
+
+21037. [2005171][0] Wings of Judgment Avatar Frame | Obtained by participating in the 2022 Summer Limited Event
+
+21038. [2005172][0] Mesopotamian Lion avatar frame | Exclusive avatar frame for cooperation with the Iraqi team !
+
+21039. [2005173][0] Aura avatar frame |
+
+21040. [2005174][0] Jin Huiyan Queen avatar frame |
+
+21041. [2005175][0] Thorns Red Crown Avatar Frame | Rare avatar frame, obtained through exclusive activities
+
+21042. [2005176][0] Glory Nebula Avatar Frame | Rare avatar frame, obtained through exclusive activities
+
+21043. [2005177][0] RP commemorative avatar frame ( M15 ) |
+
+21044. [2005178][0] RP commemorative avatar frame ( M16 ) |
+
+21045. [2005179][0] Hell Lord Avatar Frame | Rare avatar frame, obtained through exclusive activities
+
+21046. [2005180][0] Undead Carnival avatar frame |
+
+21047. [2005181][0] Argentina Come on Avatar Frame |
+
+21048. [2005182][0] 4EVE avatar frame |
+
+21049. [2005183][0] SuperBBB avatar frame |
+
+21050. [2005184][0] Indomie avatar frame |
+
+21051. [2005185][0] Season Reunion C3S8 Limited Avatar Frame |
+
+21052. [2005186][0] Candy Witch Avatar Frame |
+
+21053. [2005187][0] 2022 PMPL SEA avatar frame |
+
+21054. [2005188][0] 2022 PMWI Avatar Frame | 2022 PMWI Global Competition Avatar Frame
+
+21055. [2005189][0] Halloween Border | A limited border that can be obtained through the Trick or Treat! event
+
+21056. [2005190][0] Diwali Avatar Frame (India) | Diwali Exclusive Avatar Frame
+
+21057. [2005191][0] Future Vision Avatar Frame |
+
+21058. [2005192][0] Winning avatar frame |
+
+21059. [2005193][0] Celebration avatar frame | Precious props, obtained in designated activities
+
+21060. [2005194][0] Speed Race Avatar Frame | Precious props, obtained in designated activities
+
+21061. [2005195][0] Karol G avatar frame |
+
+21062. [2005196][0] Dodge Avatar Frame |
+
+21063. [2005197][0] Elenger 's ghost avatar frame |
+
+21064. [2005198][0] Celestial Power avatar frame | Obtained in [ Celestial Power ] event
+
+21065. [2005199][0] RP commemorative avatar frame ( M17 ) |
+
+21066. [2005200][0] RP commemorative avatar frame ( M18 ) |
+
+21067. [2005201][0] 2023 Commemorative Avatar Frame | Obtained through events
+
+21068. [2005202][0] Season Reunion C3S9 Limited Avatar Frame |
+
+21069. [2005203][0] Frozen Avatar Frame | Thank you for spending 2022 with PUBG MOBILE , and we will work hard together in 2023????easy? ???? ?? ?pulver ? ? ? ??
+
+21070. [2005204][0] Merry Christmas avatar frame |
+
+21071. [2005205][0] Cheering for victory avatar frame | 2022 cricket- themed event limited avatar frame, cheer for the Pakistan national cricket team together!
+
+21072. [2005206][0] Warm Reunion Avatar Frame | 2023 Winter Holiday Theme Event Limited Avatar Frame, let's reunite together warmly in the ice and snow season!
+
+21073. [2005207][0] 2023 New Year Avatar Frame |
+
+21074. [2005208][0] Thanksgiving colleagues avatar frame |
+
+21075. [2005209][0] Chicken Festival border | Exclusive border for Chicken Festival competition
+
+21076. [2005210][0] 2023 Border | Available at the Hourglass Store
+
+21077. [2005211][0] 2022PMGC avatar frame | 2022 PMGC global competition avatar frame
+
+21078. [2005212][0] Grubhub takeout avatar frame |
+
+21079. [2005213][0] Christmas crystal avatar frame |
+
+21080. [2005214][0] Permanently frozen avatar frame |
+
+21081. [2005215][0] The First Warrior - Avatar Frame | Rare avatar frame, which can be obtained in designated activities.
+
+21082. [2005216][0] Football Ambassador - Avatar Frame | Rare avatar frame, available in designated activities.
+
+21083. [2005217][0] Ice and Snow Avatar Frame | Rare avatar frame, which can be obtained in designated activities.
+
+21084. [2005218][0] Rising Stars avatar frame | Rare avatar frame, available in designated activities.
+
+21085. [2005219][0] Thousand-Faced Emperor Avatar Frame |
+
+21086. [2005220][0] RP commemorative avatar frame ( M19 ) |
+
+21087. [2005221][0] RP commemorative avatar frame ( M20 ) |
+
+21088. [2005222][0] Rabbit Border | Available at the Hourglass Store
+
+21089. [2005223][0] Sweet Borders | Available at the Hourglass Store
+
+21090. [2005224][0] Blood Abyss Holy King Avatar Frame |
+
+21091. [2005225][0] Soul-eating Hades avatar frame |
+
+21092. [2005226][0] Cyber Corgi Avatar Frame |
+
+21093. [2005227][0] Neon cat avatar frame |
+
+21094. [2005228][0] The Lion King avatar frame |

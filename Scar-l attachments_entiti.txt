@@ -1,0 +1,265 @@
+10090. [1512016][0] Premium Beach Treasure Box | After opening, you will get a Fantasy Water Gun -SCAR-L ( Level 1 ) or Pink ????? easy? ????? ? ?? ? ? ? ? ?
+12307. [1521566][0] Bustling District -SCAR-L Gift Pack | Contains a variety of great value discount items!
+18397. [1702102][1101003034] Malachite -SCAR-L ( 7 days) |
+19095. [1732000][1101003017] Flame Pizza -SCAR-L (3 days ) | Flame Pizza -SCAR-L , powerful suppression, full firepower, deadly as flames!
+23163. [3702101][0] Off-white -SCAR-L |
+23164. [3702102][0] Dark Gray -SCAR-L |
+23165. [3702103][0] Black -SCAR-L |
+23166. [3702104][0] Blue -SCAR-L |
+23167. [3702105][0] Green -SCAR-L |
+23168. [3702106][0] RED -SCAR-L |
+23169. [3702107][0] Yellow -SCAR-L |
+23170. [3702108][0] Orange -SCAR-L |
+23192. [3702130][0] Orange -SCAR-L |
+23193. [3702131][0] Yellow -green -SCAR-L |
+23194. [3702132][0] Dazzling pink -SCAR-L |
+23195. [3702133][0] Watermelon Red -SCAR-L |
+23196. [3702134][0] Macaron Green -SCAR-L |
+23197. [3702135][0] Deep Brown -SCAR-L |
+23198. [3702136][0] Deep Purple -SCAR-L |
+23200. [3702138][0] Pink Purple -SCAR-L |
+23201. [3702139][0] Dazzling Purple -SCAR-L |
+23202. [3702140][0] Bright Green -SCAR-L |
+23203. [3702141][0] Velvet Red -SCAR-L |
+25977.[101003001][101003001] Rage -SCAR-L |
+26441. [441003033][1101003033] Kagemusha -SCAR-L |
+26753. [841003017][1101003017] Flame Pizza -SCAR-L | Flame Pizza -SCAR-L , powerful suppression, full firepower, deadly like flames!
+26883. [911003003][1101003003] Blood Oath -SCAR-L | Blood Oath -SCAR-L , Blood Oath, fully armed, guarding the honor of the oath!
+26884. [911003005][1101003005] Trembling -SCAR-L | Trembling -SCAR-L , trembling with terror, crazy battlefield, let this fear spread!
+26885. [911003006][1101003006] Quenching -SCAR-L | Quenching -SCAR-L , forging molten iron and quenching into steel, can only be mastered by training.
+26890. [911003017][1101003017] Flame Pizza -SCAR-L | Flame Pizza -SCAR-L , powerful suppression, full firepower, deadly like flames!
+27214. [931003017][1101003017] Flame Pizza -SCAR-L | Flame Pizza -SCAR-L , powerful suppression, full firepower, deadly as flames!
+27984. [1010030011][1010030011] Yellow minimalist -SCAR-L magazine |
+27994. [1010030111][1010030111] Speed Driver -SCAR-L Magazine |
+27995. [1010030121][1010030121] Blue Space -SCAR-L Magazine |
+28002. [1010030191][1010030191] Busty District -SCAR-L Magazine |
+28004. [1010030201][1010030201] Wilderness Impression -SCAR-L Magazine |
+28005. [1010030211][1010030211] Rainbow Power -SCAR-L Magazine |
+28008. [1010030331][1010030331] Kagemusha -SCAR-L Magazine |
+28009. [1010030341] [1010030341] Malachite -SCAR-L Magazine |
+28010. [1010030351][1010030351] ### Fatal Bite -SCAR-L Magazine |
+28011. [1010030361][1010030361] Golden Age -SCAR-L Magazine |
+28013. [1010030381][1010030381] Christmas decoration -SCAR-L magazine |
+28014. [1010030391][1010030391] Steel Dragon Guard -SCAR-L Magazine |
+28015. [1010030401][1010030401] Sexy Panda -SCAR-L Magazine |
+28016. [1010030411][1010030411] Christmas Theater -SCAR-L Magazine |
+28017. [1010030421][1010030421] Razer -SCAR-L Magazine |
+28019. [1010030441][1010030441] Cool trendy donut -SCAR-L magazine |
+28020. [1010030451] [1010030451] Bloodthirsty Dragon -SCAR-L Magazine |
+28021. [1010030461][1010030461] Terror Touch -SCAR-L Magazine |
+28022. [1010030481][1010030481] Happy Cool Bi -SCAR-L Magazine |
+28023. [1010030491][1010030491] Sakura-hime -SCAR-L magazine |
+28024. [1010030501][1010030501] Dream Bouquet -SCAR-L Magazine |
+28025. [1010030511][1010030511] Dream Water Gun -SCAR-L ( Level 1 ) Magazine |
+28026. [1010030521][1010030521] Dream Water Gun -SCAR-L ( Level 2 ) Magazine |
+28027. [1010030522][1010030522] Dream Water Gun -SCAR-L Death Box |
+28028. [1010030531][1010030531] Dream Water Gun -SCAR-L ( Level 3 ) Magazine |
+28029. [1010030541][1010030541] Dream Water Gun -SCAR-L ( Level 4 ) Magazine |
+28030. [1010030551][1010030551] Dream Water Gun -SCAR-L ( Level 5 ) Magazine |
+28031. [1010030561][1010030561] Dream Water Gun -SCAR-L ( Level 6 ) Magazine |
+28032. [1010030571][1010030571] Dream Water Gun -SCAR-L ( Level 7 ) Magazine |
+28033. [1010030572][1010030572] Dream Water Gun -SCAR-L Death Box |
+28034. [1010030573][1010030573] Dream Water Gun -SCAR-L Hall Death Box |
+28035. [1010030581][1010030581] ### Alien Technology -SCAR-L Magazine |
+28036. [1010030591][1010030591] The Tide Moon Rabbit -SCAR-L Magazine |
+28037. [1010030601][1010030601] Minimalist light -SCAR-L magazine |
+28038. [1010030611][1010030611] Red Sea Monster -SCAR-L Magazine |
+28039. [1010030621][1010030621] Captain Abyss -SCAR-L Magazine |
+28040. [1010030631][1010030631] Qionggong Baby -SCAR-L Magazine |
+28041. [1010030641][1010030641] Magic Pumpkin -SCAR-L ( Level 1 ) Magazine |
+28042. [1010030651][1010030651] Magic Pumpkin -SCAR-L ( Level 2 ) Magazine |
+28043. [1010030652][1010030652] Magic Pumpkin -SCAR-L Death Box |
+28044. [1010030661][1010030661] Magic Pumpkin -SCAR-L ( Level 3 ) Magazine |
+28045. [1010030671][1010030671] Magic Pumpkin -SCAR-L ( Level 4 ) Magazine |
+28046. [1010030681][1010030681] Magic Pumpkin -SCAR-L ( Level 5 ) Magazine |
+28047. [1010030691][1010030691] Magic Pumpkin -SCAR-L ( Level 6 ) Magazine |
+28048. [1010030701][1010030701] Magic Pumpkin -SCAR-L ( Level 7 ) Magazine |
+28049. [1010030702][1010030702] Magic Pumpkin -SCAR-L Death Box |
+28050. [1010030703][1010030703] Magic Pumpkin -SCAR-L Hall Death Box |
+28051. [1010030711][1010030711] Flagship -SCAR-L Magazine |
+28052. [1010030731][1010030731] ### Venom Skeleton -SCAR-L Magazine |
+28053. [1010030741][1010030741] Operation Next Day -SCAR-L ( Level 1 ) Magazine |
+28054. [1010030751][1010030751] Operation Next Day -SCAR-L ( Level 2 ) Magazine |
+28055. [1010030752][1010030752] Operation Next Day -SCAR-L Death Box |
+28056. [1010030761][1010030761] Operation Next Day -SCAR-L ( Level 3 ) Magazine |
+28057. [1010030771][1010030771] Operation Next Day -SCAR-L ( Level 4 ) Magazine |
+28058. [1010030781][1010030781] Operation Next Day -SCAR-L ( Level 5 ) Magazine |
+28059. [1010030791][1010030791] Operation Next Day -SCAR-L ( Level 6 ) Magazine |
+28060. [1010030801][1010030801] Operation Next Day -SCAR-L ( Level 7 ) Magazine |
+28061. [1010030802][1010030802] Operation Next Day -SCAR-L Death Box |
+28062. [1010030803][1010030803] Operation Next Day -SCAR-L Hall Death Box |
+28063. [1010030821][1010030821] Gemini -SCAR-L Magazine |
+28064. [1010030831][1010030831] ### Fatal Cycle -SCAR-L Magazine |
+28065. [1010030841][1010030841] Flame Carnival -SCAR-L Magazine |
+28067. [1010030871][1010030871] ### Beautiful Lover -SCAR-L Magazine |
+28068. [1010030881][1010030881] ### Steel Jungle -SCAR-L Magazine |
+28069. [1010030891][1010030891] ### Angry Boiler Man -SCAR-L Magazine |
+28070. [1010030901][1010030901] ### Raccoon Sisters -SCAR-L Magazine |
+28071. [1010030931][1010030931] Mysterious Night -SCAR-L ( Level 1 ) Magazine |
+28080. [1010030941][1010030941] Mysterious Night -SCAR-L ( Level 2 ) Magazine |
+28089. [1010030951][1010030951] Mysterious Night -SCAR-L ( Level 3 ) Magazine |
+28092. [1010030954][1010030954] Mysterious Night -SCAR-L Death Box |
+28093. [1010030961][1010030961] Mysterious Night -SCAR-L ( Level 4 ) Magazine |
+28094. [1010030971][1010030971] Mysterious Night -SCAR-L ( Level 5 ) Magazine |
+28095. [1010030981][1010030981] Mysterious Night -SCAR-L ( Level 6 ) Magazine |
+28096. [1010030991][1010030991] Mysterious Night -SCAR-L ( Level 7 ) Magazine |
+28097. [1010030992][1010030992] Mysterious Night -SCAR-L Death Box |
+28098. [1010030993][1010030993] Mysterious Night -SCAR-L Hall Death Box |
+28100. [1010031011][1010031011] ### Deep Sea Master -SCAR-L Magazine |
+28101. [1010031031][1010031031] ### Golden Beach -SCAR-L Magazine |
+28127. [1010031201][1010031201] ### delicate rabbit girl -SCAR-L magazine |
+28128. [1010031211][1010031211] ### Spell Return -SCAR-L Magazine |
+28151. [1010031251][1010031251] ### Ms. Cactus -SCAR-L Magazine |
+28153. [1010031311][1010031311] ### Perfect Performance -SCAR-L Magazine |
+28154. [1010031321][1010031321] ### Nebula Roaming -SCAR-L |
+28155. [1010031331][1010031331] ### Viking Ship -SCAR-L |
+28156. [1010031341][1010031341] ### Spell Return -SCAR-L Magazine |
+28157. [1010031351][1010031351] ### Electronic Technology -SCAR-L |
+28158. [1010031361][1010031361] ## Blue Thunder -SCAR-L |
+28159. [1010031381][1010031381] ### Rose Red Thorn -SCAR-L Magazine |
+28168. [1010031481][1010031481] Steel Dragon Guard -SCAR-L Magazine |
+28203. [1010031741][1010031741] Steel Dragon Guard -SCAR-L Magazine |
+28204. [1010031751][1010031751] Fool's Embrace -SCAR-L ( Level 1 ) Magazine |
+28213. [1010031761][1010031761] Fool's Embrace -SCAR-L ( Level 2 ) Magazine |
+28221. [1010031771][1010031771] Fool's Embrace -SCAR-L ( Level 3 ) Magazine |
+28226. [1010031781][1010031781] Fool's Embrace -SCAR-L ( Level 4 ) Magazine |
+28227. [1010031791][1010031791] Fool's Embrace -SCAR-L ( Level 5 ) Magazine |
+28228. [1010031801][1010031801] Fool's Embrace -SCAR-L ( Level 6 ) Magazine |
+28229. [1010031811][1010031811] Fool's Embrace -SCAR-L ( Level 7 ) Magazine |
+31089. [1101003001][1101003001] Yellow Minimalist -SCAR-L | Yellow Minimalist -SCAR-L , minimalist pure black, golden trim, cool style across the battlefield.
+31091. [1101003003][1101003003] Blood Oath -SCAR-L | Blood Oath -SCAR-L , blood oath, fully armed, guarding the honor of the oath!
+31092. [1101003004][1101003004] Gold List -SCAR-L | Gold List -SCAR-L , prove your strength with one shot and one bullet, and you will always be on the list!
+31093. [1101003005][1101003005] Trembling -SCAR-L | Trembling -SCAR-L , trembling with terror, crazy battlefield, let this fear spread!
+31094. [1101003006][1101003006] Quenching -SCAR-L | Quenching -SCAR-L , forging molten iron and quenching into steel, can only be mastered by training.
+31095. [1101003007][1101003007] Lightning -SCAR-L | Lightning -SCAR-L , as fast as lightning and as fast as lightning, can suppress the enemy from the beginning of the war.
+31096. [1101003008][1101003008] Power of Tide -SCAR-L | Power of Tide -SCAR-L , understand the power of tide, face strong enemies, and be as flexible as water.
+31097. [1101003009][1101003009] The power of the desert -SCAR-L | The power of the desert -SCAR-L , understand the power of the desert, face the enemies, and sleep like sand.
+31099. [1101003011][1101003011] Speed Racer -SCAR-L |
+31100. [1101003012][1101003012] Blue Space -SCAR-L |
+31101. [1101003013][1101003013] Frenzy -SCAR-L | Frenzy -SCAR-L , the frenzy is coming , no one can hide, accept the baptism of fire!
+31102. [1101003014][1101003014] Tsunami -SCAR-L | Tsunami -SCAR-L , the power of tsunami , sweeping across the Jedi, can you survive under the gun?
+31103. [1101003015][1101003015] Blood Diamond -SCAR-L | Blood Diamond -SCAR-L , alluring and beautiful, haunted by blood, understand why you fight!
+31105. [1101003017][1101003017] Flame Pizza -SCAR-L | Flame Pizza -SCAR-L , powerful suppression, full firepower, deadly as flames!
+31107. [1101003019][1101003019] Busty District -SCAR-L |
+31108. [1101003020][1101003020] Magnificent Universe -SCAR-L |
+31109. [1101003021][1101003021] Rainbow Power -SCAR-L |
+31112. [1101003033][1101003033] Kagemusha -SCAR-L |
+31113. [1101003034][1101003034] Malachite -SCAR-L |
+31114. [1101003035][1101003035] Fatal Bite -SCAR-L |
+31115. [1101003036][1101003036] Golden Age -SCAR-L |
+31116. [1101003037][1101003037] Minghuang -SCAR-L |
+31117. [1101003038][1101003038] Christmas Decoration -SCAR-L |
+31118. [1101003039][1101003039] Competition Moment -SCAR-L |
+31119. [1101003040][1101003040] Sexy Panda -SCAR-L |
+31120. [1101003041][1101003041] Christmas Theater -SCAR-L |
+31121.[1101003042][1101003042] RAZER -SCAR-L |
+31123. [1101003044][1101003044] Cool Trendy Donut -SCAR-L |
+31124. [1101003045] [1101003045] Bloodthirsty Dragon -SCAR-L |
+31125. [1101003046][1101003046] Touch of Terror -SCAR-L | Touch of Terror -SCAR-L , deal with the terror crisis calmly, and fight against evil with passion!
+31126. [1101003048][1101003048] Happy Cool Bi -SCAR-L |
+31127. [1101003049][1101003049] Sakura-hime -SCAR-L |
+31128. [1101003050][1101003050] Dream Bouquet -SCAR-L |
+31129. [1101003051][1101003051] Dream Water Gun -SCAR-L ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31130. [1101003052][1101003052] Dream Water Gun -SCAR-L ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31131. [1101003053][1101003053] Dream Water Gun -SCAR-L ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31132. [1101003054][1101003054] Dream Water Gun -SCAR-L ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31133. [1101003055][1101003055] Dream Water Gun -SCAR-L ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31134. [1101003056][1101003056] Dream Water Gun -SCAR-L ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31135. [1101003057][1101003057] Dream Water Gun -SCAR-L ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31136. [1101003058][1101003058] Alien Technology -SCAR-L |
+31137. [1101003059][1101003059] Tide Moon Rabbit -SCAR-L |
+31138. [1101003060][1101003060] Minimalist Light -SCAR-L |
+31139. [1101003061][1101003061] Red Sea Monster -SCAR-L |
+31140. [1101003062][1101003062] Captain Abyss -SCAR-L |
+31141. [1101003063][1101003063] Qionggong Baby -SCAR-L |
+31142. [1101003064][1101003064] Magic Pumpkin -SCAR-L ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31143. [1101003065][1101003065] Magic Pumpkin -SCAR-L ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31144. [1101003066][1101003066] Magic Pumpkin -SCAR-L ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31145. [1101003067][1101003067] Magic Pumpkin -SCAR-L ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31146. [1101003068][1101003068] Magic Pumpkin -SCAR-L ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31147. [1101003069][1101003069] Magic Pumpkin -SCAR-L ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31148. [1101003070][1101003070] Magic Pumpkin -SCAR-L ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31149. [1101003071][1101003071] Flagship -SCAR-L |
+31150. [1101003073][1101003073] Venom Skeleton -SCAR-L |
+31151. [1101003074] [1101003074] Next Day's Operation -SCAR-L ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31152. [1101003075] [1101003075] Next Day's Action -SCAR-L ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31153. [1101003076] [1101003076] Next Day's Operation -SCAR-L ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31154. [1101003077][1101003077] Next Day's Action -SCAR-L ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31155. [1101003078] [1101003078] Next Day's Action -SCAR-L ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31156. [1101003079][1101003079] Next Day's Action -SCAR-L ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31157. [1101003080][1101003080] Next Day's Action -SCAR-L ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31158. [1101003082][1101003082] Gemini -SCAR-L |
+31159. [1101003083] [1101003083] Fatal Cycle -SCAR-L |
+31160. [1101003084][1101003084] Flame Carnival -SCAR-L |
+31161. [1101003085][1101003085] Sweet Candy -SCAR-L |
+31163. [1101003087][1101003087] Beautiful Lover -SCAR-L |
+31164. [1101003088][1101003088] Iron Jungle -SCAR-L |
+31165. [1101003089][1101003089] Angry Boiler Man -SCAR-L |
+31166. [1101003090][1101003090] Raccoon Sisters -SCAR-L |
+31167. [1101003093][1101003093] Mysterious Night -SCAR-L ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31168. [1101003094][1101003094] Mysterious Night -SCAR-L ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31169. [1101003095][1101003095] Mysterious Night -SCAR-L ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31170. [1101003096][1101003096] Mysterious Night -SCAR-L ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31171. [1101003097][1101003097] Mysterious Night -SCAR-L ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31172. [1101003098][1101003098] Mysterious Night -SCAR-L ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31173. [1101003099][1101003099] Mysterious Night -SCAR-L ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31175. [1101003101] [1101003101] Wave God of War -SCAR-L |
+31176. [1101003103][1101003103] Golden Beach -SCAR-L |
+31177. [1101003112][1101003112] Mechanical Death -SCAR-L |
+31178. [1101003113][1101003113] Magic Crystal -SCAR-L ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31179. [1101003114][1101003114] Magic Crystal -SCAR-L ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31180. [1101003115][1101003115] Magic Crystal -SCAR-L ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31181. [1101003116][1101003116] Magic Crystal -SCAR-L ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31182. [1101003117][1101003117] Magic Crystal -SCAR-L ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31183. [1101003118][1101003118] Magic Crystal -SCAR-L ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31184. [1101003119][1101003119] Magic Crystal -SCAR-L ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31185. [1101003120][1101003120] Lovely Rabbit Girl -SCAR-L |
+31186. [1101003121][1101003121] Spell Return to War -SCAR-L | Spell Return to War Official Cooperation
+31187. [1101003122] [1101003122] Evil Plant -SCAR-L ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31188. [1101003123][1101003123] Evil Plant -SCAR-L ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31189. [1101003124] [1101003124] Evil plant -SCAR-L ( level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31190.[1101003125][1101003125] Cactus Lady -SCAR-L |
+31191. [1101003130][1101003130] Mr. Scarecrow -SCAR-L |
+31192. [1101003131][1101003131] Perfect Performance -SCAR-L |
+31193. [1101003132][1101003132] Nebula Roaming -SCAR-L |
+31194. [1101003133][1101003133] Viking Ship -SCAR-L |
+31196. [1101003135][1101003135] Electronic Technology -SCAR-L |
+31197. [1101003136][1101003136] Blue Thunder -SCAR-L |
+31198. [1101003138][1101003138] Rose Red Thorn -SCAR-L |
+31199. [1101003140][1101003140] Butterfly Lady -SCAR-L |
+31200.[1101003141][1101003141] Brilliant Galaxy -SCAR-L |
+31201. [1101003142] [1101003142] Evil Plant -SCAR-L ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31202. [1101003143][1101003143] Evil Plant -SCAR-L ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31203. [1101003144][1101003144] Evil Plant -SCAR-L ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31204. [1101003145] [1101003145] Evil plant -SCAR-L ( level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31205. [1101003146] [1101003146] Evil plant -SCAR-L ( level 8 ) | Can be upgraded in the research institute to obtain additional effects.
+31206. [1101003147][1101003147] Hotel Transylvania -SCAR-L |
+31207. [1101003148][1101003148] Royal Craft -SCAR-L |
+31208. [1101003150][1101003150] Luxury Decoration -SCAR-L |
+31210. [1101003158][1101003158] Super Chicken Bowl Champion -SCAR-L |
+31211. [1101003160][1101003160] Blood Soul Demon Emperor -SCAR-L ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31212. [1101003161][1101003161] Blood Soul Demon Emperor -SCAR-L ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31213. [1101003162][1101003162] Blood Soul Demon Emperor -SCAR-L ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31214. [1101003163][1101003163] Blood Soul Demon Emperor -SCAR-L ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31215. [1101003164][1101003164] Blood Soul Demon Emperor -SCAR-L ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31216. [1101003165][1101003165] Blood Soul Demon Emperor -SCAR-L ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31217. [1101003166][1101003166] Blood Soul Demon Emperor -SCAR-L ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31218. [1101003167][1101003167] Blood Soul Demon Emperor -SCAR-L ( Level 8 ) | Can be upgraded in the research institute to obtain additional effects.
+31219. [1101003168][1101003168] Festival Tassel -SCAR-L |
+31220. [1101003174][1101003174] Steel Dragon Guard -SCAR-L |
+31221. [1101003175][1101003175] Fool's Embrace -SCAR-L ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31222. [1101003176][1101003176] Fool's Embrace -SCAR-L ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31223. [1101003177][1101003177] Fool's Embrace -SCAR-L ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31224. [1101003178][1101003178] Fool's Embrace -SCAR-L ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31225. [1101003179][1101003179] Fool's Embrace -SCAR-L ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31226. [1101003180][1101003180] Fool's Embrace -SCAR-L ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31227. [1101003181][1101003181] Fool's Embrace -SCAR-L ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31228. [1101003182][1101003182] Fool's Embrace -SCAR-L ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31229. [1101003183][1101003183] Fool's Embrace -SCAR-L ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31230. [1101003184][1101003184] Fool's Embrace -SCAR-L ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31231. [1101003185][1101003185] Fool's Embrace -SCAR-L ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31232. [1101003186][1101003186] Fool's Embrace -SCAR-L ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31233. [1101003187][1101003187] Fool's Embrace -SCAR-L ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31234. [1101003188][1101003188] Fool's Embrace -SCAR-L ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31237. [1101003201][1101003058] Alien Technology -SCAR-L |
+31345. [1101004160][1101003034] Malachite -SCAR-L |

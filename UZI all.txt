@@ -1,0 +1,185 @@
+737. [102001][10200100] UZI submachine gun | Full firepower, but don't overdo it.
+744. [102901][10290100] UZI-XT | Go full blast, but don't overdo it.
+951. [205001][20500100] Gun Stock (Micro UZI) | Makes recoil recovery faster and reduces weapon shake .
+1134. [292001][29200100] UZI submachine gun default magazine |
+1168. [301001][30100100] 9 mm bullet | P92 , P18C , Micro UZI , Vector , VSS , MP5K , ????? easy? ???????pulcher ? ? ? ? ?
+2580. [1020011][102001100] UZI submachine gun (broken) | Broken weapon, only a few accessories can be used
+2581. [1020012][102001200] UZI submachine gun (repaired) | Repaired weapon that can be equipped with most accessories
+2582. [1020013][102001300] UZI submachine gun (mint) | intact weapon, all accessories can be used
+2583. [1020014][102001400] UZI submachine gun (improved) | Improved weapon, all accessories can be used, and the damage is increased by 15%
+2584. [1020015][102001500] UZI submachine gun (refined) | Weapon made with high precision, all accessories can be used, damage increased by 30%
+2621. [1029011][102901100] UZI-XT default magazine |
+8403. [1503801][0] Holi Package (India) | Get Rainbow Note Grenade, Rainbow Note -UZI
+12934. [1522265][0] UZI gift package | Contains a variety of great value discount items!
+21315. [2050011][205001100] Gun Stock (Micro UZI) ( Broken ) | Increase the recoil recovery speed by 10% and reduce the vertical recoil by 15%
+21316. [2050012][205001200] Gun Stock (Micro UZI) (Repair) | Increase the recoil recovery speed by 15% and reduce the vertical recoil by 20%
+21317. [2050013][205001300] Gun Stock (Micro UZI) (Intact) | Increase the recoil recovery speed by 21% and reduce the vertical recoil by 28%
+21318. [2050014][205001400] Gun Stock (Micro UZI) ( Improved ) | Increase the recoil recovery speed by 24% and reduce the vertical recoil by 32%
+21319. [2050015][205001500] Gun Stock (Micro UZI) (Refined) | Increase the recoil recovery speed by 30% and reduce the vertical recoil by 40%
+23833. [6004034][6004034] UZI submachine gun - gold medal | Become a gun god! With this firearm, you are unstoppable and invincible!
+23834. [6004035][6004035] UZI submachine gun - Silver | Man and gun in one! Facing powerful enemies, this firearm is your best partner!
+23835. [6004036][6004036] UZI submachine gun - Bronze medal | No bullets missed! Your use of this firearm is already perfect!
+24738. [12219547][12219547] Hall UZI gun inspection action |
+25979.[102001001][102001001] Rage -UZI |
+26800. [842001002][1102001002] Flame Pizza -UZI | Flame Pizza Painting -UZI , fast shooting , clean and fierce, as fierce as flames!
+29369. [1020010011][1020010011] Dcamo-UZI magazine |
+29370. [1020010021][1020010021] UZI-B magazine |
+29371. [1020010031][1020010031] UZI-C magazine |
+29372. [1020010041][1020010041] Street Kid -UZI Magazine |
+29373. [1020010061][1020010061] Silver Plate-UZI Magazine |
+29374. [1020010161][1020010161] War Snow Monster -UZI Magazine |
+29375. [1020010171][1020010171] MOMMYSON-Micro UZI magazine |
+29376. [1020010181][1020010181] Roaming the Star Sea -UZI Magazine |
+29377. [1020010191][1020010191] King of Beasts -UZI ( Level 1 ) Magazine |
+29378. [1020010201][1020010201] King of Beasts -UZI ( Level 2 ) Magazine |
+29379. [1020010202][1020010202] King of Beasts -UZI Death Box |
+29380. [1020010211][1020010211] King of Beasts -UZI ( Level 3 ) Magazine |
+29381. [1020010221][1020010221] King of Beasts -UZI ( Level 4 ) Magazine |
+29382. [1020010231][1020010231] King of Beasts -UZI ( Level 5 ) Magazine |
+29383. [1020010241][1020010241] King of Beasts -UZI ( Level 6 ) Magazine |
+29384. [1020010271][1020010271] Demigod Warrior -UZI Magazine |
+29385. [1020010281][1020010281] ### Venom Skeleton -UZI Magazine |
+29386. [1020010291][1020010291] Exotic Wanderer -UZI Magazine |
+29387. [1020010301][1020010301] Cold Blue -UZI Magazine |
+29388. [1020010311][1020010311] Extreme speed ice pick -UZI magazine |
+29389. [1020010321][1020010321] God Totem -UZI ( Level 1 ) Magazine |
+29390. [1020010331][1020010331] God Totem -UZI ( Level 2 ) Magazine |
+29391. [1020010332][1020010332] God Totem -UZI Death Box |
+29392. [1020010341][1020010341] God Totem -UZI ( Level 3 ) Magazine |
+29393. [1020010351][1020010351] God Totem -UZI ( Level 4 ) Magazine |
+29394. [1020010361][1020010361] God Totem -UZI ( Level 5 ) Magazine |
+29395. [1020010391][1020010391] ### Rainbow Note -UZI Magazine |
+29396. [1020010401][1020010401] ### Iron Armored Will -UZI Magazine |
+29397. [1020010411][1020010411] ### Purple Night Sweetheart -UZI Magazine |
+29398. [1020010441][1020010441] ### Lady Magician -UZI Magazine |
+29399. [1020010501][1020010501] ### Dangerous Toy -UZI Magazine |
+29400. [1020010511][1020010511] ### Brilliant Morning Star -UZI Magazine |
+29401. [1020010531][1020010531] ###Emoji lovers -UZI magazine |
+29402. [1020010541][1020010541] Surprise Love -UZI ( Level 1 ) Magazine |
+29403. [1020010551][1020010551] Surprise Love -UZI ( Level 2 ) Magazine |
+29404. [1020010552][1020010552] Surprise Love -UZI Death Box |
+29405. [1020010561][1020010561] Surprise Love -UZI ( Level 3 ) Magazine |
+29406. [1020010571][1020010571] Surprise Love -UZI ( Level 4 ) Magazine |
+29407. [1020010581][1020010581] Surprise Love -UZI ( Level 5 ) Magazine |
+29408. [1020010591][1020010591] Golden Seahorse -UZI Magazine |
+29409. [1020010601][1020010601] Deep Sea Master -UZI Magazine |
+29410. [1020010621][1020010621] Precision Compass -UZI Magazine |
+29411. [1020010631][1020010631] ### Surprise Messenger -UZI Magazine |
+29412. [1020010641][1020010641] ### Traditional floral decoration -UZI magazine |
+29413. [1020010651][1020010651] ### Mysterious Power -UZI ( Level 1 ) Magazine |
+29414. [1020010661][1020010661] ### Mysterious Power -UZI ( Level 2 ) Magazine |
+29415. [1020010671][1020010671] ### Mysterious Power -UZI ( Level 3 ) Magazine |
+29416. [1020010681][1020010681] ### Mysterious Power -UZI ( Level 4 ) Magazine |
+29417. [1020010691][1020010691] ### Mysterious Power -UZI ( Level 5 ) Magazine |
+29418. [1020010692][1020010692] Mysterious Power -UZI Death Box |
+29419. [1020010721][1020010721] ### Cool Street -UZI Magazine |
+29420. [1020010731][1020010731] ### Civilization Cloud Atlas -UZI Magazine |
+29421. [1020010741][1020010741] ## Gold-inlaid Jade -UZI |
+29422. [1020010751][1020010751] ### Immortal Golden Soul -UZI |
+29423. [1020010761][1020010761] Yedu Sly Fox -UZI Magazine |
+29424. [1020010771][1020010771] ### Fresh Fruit Pie Team -UZI |
+29425. [1020010781][1020010781] ##220-UZI |
+29426. [1020010801][1020010801] ## Mysterious Power -UZI |
+29427. [1020010811][1020010811] ##220-UZI |
+29428. [1020010821][1020010821] ##??Samurai -UZI |
+29429. [1020010831][1020010831] ## Upgrade Gun -UZI |
+29430. [1020010841][1020010841] ##1-230-UZI |
+29431. [1020010851][1020010851] Styx Golden Saint -UZI Magazine |
+29432. [1020010861][1020010861] ## Upgrade Gun -UZI |
+29433. [1020010862][1020010862] 220UZI Death Box ( Smoke ) |
+29434. [1020010871][1020010871] ## Upgrade Gun -UZI |
+29435. [1020010881][1020010881] ## Upgrade Gun -UZI |
+29436. [1020010891][1020010891] ## Upgrade Gun -UZI |
+29437. [1020010901][1020010901] ## Technology Workshop -UZI |
+29438. [1020010921][1020010921] ## Upgrade Gun -UZI |
+29439. [1020010931][1020010931] ## Upgrade Gun -UZI |
+29440. [1020010932][1020010932] 270 Orchard Orange -UZI Death Box ( Smoke ) |
+29441. [1020010941][1020010941] ## Upgrade Gun -UZI |
+29442. [1020010951][1020010951] Sunshine Bay -UZI Magazine |
+29443. [1020010961][1020010961] ## Upgrade Gun -UZI |
+29444. [1020010981][1020010981] ## Upgrade Gun -UZI |
+29445. [1020010991][1020010991] ## Upgrade Gun -UZI |
+29446. [1020010992][1020010992] 270 Syrup Shooter UZI Death Box ( Smoke ) |
+29447. [1020011001][1020011001] ## Upgrade Gun -UZI |
+29448. [1020011011][1020011011] ## Upgrade Gun -UZI |
+29449. [1020011021][1020011021] ## Upgrade Gun -UZI |
+29450. [1020011031][1020011031] ## Upgrade Gun -UZI |
+29451. [1020011041][1020011041] ## Destiny Pattern -UZI Magazine |
+31645. [1102001001][1102001001] Dcamo-UZI | Dcamo-UZI , actual combat camouflage, professional war pattern, victory or defeat in an instant!
+31646. [1102001002][1102001002] Flame Pizza -UZI | Flame Pizza Painting -UZI , fast shooting , clean and fierce, as fierce as flames!
+31647. [1102001003][1102001003] Cyan Cyberpunk -UZI | Cyan Cyberpunk -UZI , super fast fire, deadly firepower, greetings from the cyberpunk!
+31648. [1102001004][1102001004] Street Kid -UZI |
+31649. [1102001006][1102001006] Silver Plate-UZI |
+31650. [1102001016][1102001016] War Snow Monster -UZI |
+31651. [1102001017][1102001017] MOMMYSON-Micro UZI |
+31652. [1102001018][1102001018] Roaming the Star Sea -UZI |
+31653. [1102001019][1102001019] King of Beasts -UZI ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31654. [1102001020][1102001020] King of Beasts -UZI ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31655. [1102001021][1102001021] King of Beasts -UZI ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31656. [1102001022][1102001022] King of Beasts -UZI ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31657. [1102001023][1102001023] King of Beasts -UZI ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31658. [1102001024][1102001024] King of Beasts -UZI ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31659. [1102001027][1102001027] Demigod Warrior -UZI |
+31660. [1102001028][1102001028] Venom Skeleton -UZI |
+31661. [1102001029][1102001029] Exotic Wanderer -UZI |
+31662. [1102001030][1102001030] Cool Blue -UZI |
+31663. [1102001031][1102001031] Extreme speed ice pick -UZI |
+31664. [1102001032][1102001032] God Totem -UZI ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31665. [1102001033][1102001033] God Totem -UZI ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31666. [1102001034][1102001034] God Totem -UZI ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31667. [1102001035][1102001035] God Totem -UZI ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31668. [1102001036][1102001036] God Totem -UZI ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31669. [1102001039][1102001039] Rainbow Note -UZI |
+31670. [1102001040][1102001040] Iron Armored Will -UZI |
+31671. [1102001041][1102001041] Purple Night Sweetheart -UZI |
+31672. [1102001044][1102001044] Lady Magician -UZI |
+31673. [1102001050][1102001050] Dangerous toys -UZI |
+31674. [1102001051][1102001051] Bright Morning Star -UZI |
+31675. [1102001053][1102001053] Emoji lovers -UZI |
+31676. [1102001054][1102001054] Surprise Love -UZI ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31677. [1102001055][1102001055] Surprise Love -UZI ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31678. [1102001056][1102001056] Surprise Love -UZI ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31679. [1102001057][1102001057] Surprise Love -UZI ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31680. [1102001058][1102001058] Surprise Love -UZI ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31681. [1102001059][1102001059] Golden Seahorse -UZI |
+31682. [1102001060][1102001060] Deep Sea Master -UZI |
+31683. [1102001062][1102001062] Precision Compass -UZI |
+31684. [1102001063][1102001063] Surprise Messenger -UZI |
+31685. [1102001064][1102001064] Traditional floral decoration -UZI |
+31686. [1102001065][1102001065] Mysterious Power -UZI ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31687. [1102001066][1102001066] Mysterious Power -UZI ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31688. [1102001067][1102001067] Mysterious Power -UZI ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31689. [1102001068][1102001068] Mysterious Power -UZI ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31690. [1102001069][1102001069] Mysterious Power -UZI ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31691. [1102001072][1102001072] Cool Street -UZI |
+31692. [1102001073][1102001073] Civilization Cloud Atlas -UZI |
+31693. [1102001074][1102001074] Jade inlaid with gold -UZI |
+31694. [1102001075][1102001075] Immortal Golden Soul -UZI |
+31695. [1102001076][1102001076] Yedu Sly Fox -UZI |
+31696. [1102001077][1102001077] Fresh Fruit Pie Team -UZI |
+31697. [1102001078][1102001078] Cute Bear -UZI |
+31698. [1102001080][1102001080] The power of mystery -UZI | Outstanding work of PDP Global Firearms Design Competition, author: Desar Yuartha
+31699. [1102001081][1102001081] Mysterious Nebula -UZI |
+31700. [1102001082][1102001082] Night City Samurai -UZI |
+31701. [1102001083][1102001083] Magic Technology -UZI ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31702. [1102001084][1102001084] Nebula Adventure -UZI |
+31703. [1102001085] [1102001085] Styx Golden Saint -UZI |
+31704. [1102001086][1102001086] Magic Technology -UZI ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31705. [1102001087][1102001087] Magic Technology -UZI ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31706. [1102001088][1102001088] Magic Technology -UZI ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31707. [1102001089][1102001089] Magic Technology -UZI ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31708. [1102001090][1102001090] Technology Workshop -UZI |
+31709. [1102001092][1102001092] Orchard Orange -UZI ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31710. [1102001093][1102001093] Orchard Orange -UZI ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31711. [1102001094][1102001094] Orchard Orange -UZI ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31712. [1102001095][1102001095] Sunshine Bay -UZI |
+31713. [1102001096][1102001096] Orchard Orange -UZI ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31714. [1102001098][1102001098] Syrup Shooter -UZI ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31715. [1102001099] [1102001099] Syrup Shooter -UZI ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31716. [1102001100][1102001100] Syrup Shooter -UZI ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31717. [1102001101][1102001101] Syrup Shooter -UZI ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects .
+31718. [1102001102][1102001102] Syrup Shooter -UZI ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31719. [1102001103][1102001103] Orchard Orange -UZI ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31720. [1102001104][1102001104] Destiny Pattern -UZI |
+31721. [1102001998][1102001023] King of Beasts -UZI( Level 5 ) |
+31722. [1102001999][1102001021] King of Beasts -UZI( Level 3 ) |

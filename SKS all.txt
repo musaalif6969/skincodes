@@ -1,0 +1,122 @@
+749. [103004][10300400] SKS sniper rifle | Russian semi-automatic precision marksman rifle.
+1143. [293004][29300400] SKS sniper rifle default magazine |
+1169. [ 302001 ] [ 30200100 ] 7.62 mm bullets | AKM , Groza , Kar98k , M24 , SKS , MK14 , R1895 ? ? _ _ _ _
+2646. [1030041][103004100] SKS Sniper Rifle (Broken) | Broken weapon with only a few accessories available
+2647. [1030042][103004200] SKS sniper rifle (repaired) | The repaired weapon can be equipped with most accessories
+2648. [1030043][103004300] SKS sniper rifle (mint) | intact weapon, all accessories can be used
+2649. [1030044][103004400] SKS sniper rifle (improved) | Improved weapon, all accessories can be used, and the damage is increased by 15%
+2650. [1030045][103004500] SKS sniper rifle (refined) | Weapon made with high precision, all accessories can be used, damage increased by 30%
+2651. [1030046][103004600] SKS sniper rifle (One-eyed Snake) | Special version of One-eyed Snake, the damage is increased by 15% , the firing sound is reduced, and the recoil control and head hit are improved ????easy? ???? ? ? ??? ? ? ? ??
+2652. [1030047][103004700] SKS sniper rifle (Steel Front) | Steel Front special edition, damage increased by 15% . Strengthen the durability , reload speed , and scope opening speed , while reducing the ?
+23863. [6004064][6004064] SKS sniper rifle - gold medal | Become a gun god! With this firearm, you are unstoppable and invincible!
+23864. [6004065][6004065] SKS sniper rifle - Silver | Man and gun in one ! Facing powerful enemies , this firearm is your best partner!
+23865. [6004066][6004066] SKS sniper rifle - Bronze medal | Missless shots! Your use of this firearm is already perfect!
+26485. [443004004][1103004004] Tsunami -SKS | Tsunami -SKS , the power of the tsunami , sweeping across the Jedi, can you survive under the gun?
+26804. [843004003][1103004003] Skeleton Hand -SKS | Skeleton Hand -SKS , constant combat power, reliable output, Skeleton Hand salutes you!
+27077. [913004004][1103004004] Tsunami -SKS | Tsunami -SKS , the power of the tsunami , sweeping across the Jedi, can you survive under the gun?
+30260. [1030040011][1030040011] Rugged(Beige)-SKS Magazine |
+30261. [1030040021][1030040021] Dcamo-SKS magazine |
+30264. [1030040061][1030040061] Silver Plate-SKS Magazine |
+30265. [1030040161][1030040161] Golden Age -SKS Magazine |
+30266. [1030040171][1030040171] Sweet Lady -SKS Magazine |
+30267. [1030040181][1030040181] Star Watch -SKS Magazine |
+30268. [1030040191][1030040191] Raging Tide Golden Crane -SKS Magazine |
+30269. [1030040201][1030040201] Fjord Legend -SKS Magazine |
+30270. [1030040211][1030040211] Shadow of Speed -SKS Magazine |
+30271. [1030040221][1030040221] Red Samurai -SKS Magazine |
+30272. [1030040231][1030040231] Qionggong Baby -SKS Magazine |
+30273. [1030040251][1030040251] ### Luoying -SKS Magazine |
+30274. [1030040261][1030040261] Magic Judge -SKS Magazine |
+30275. [1030040281][1030040281] ###230-SKS Magazine |
+30276. [1030040291][1030040291] Cancer -SKS Magazine |
+30277. [1030040301][1030040301] ###S15 Season -SKS Magazine |
+30278. [1030040311][1030040311] ### Pretty Beetle -SKS Magazine | Exclusive accessory skin ; only available for Scarlet Lady -SKS
+30287. [1030040321][1030040321] ### Pretty Beetle -SKS Magazine | Exclusive accessory skin ; only available for Scarlet Lady -SKS
+30296. [1030040331][1030040331] ### Qiaomei Beetle -SKS Magazine |
+30297. [1030040332][1030040332] ### Pretty Beetle -SKS Death Box |
+30298. [1030040341][1030040341] ### Qiaomei Beetle -SKS Magazine |
+30299. [1030040351][1030040351] ### Qiaomei Beetle -SKS Magazine |
+30300. [1030040361][1030040361] ### Qiaomei Beetle -SKS Magazine |
+30301. [1030040371][1030040371] ### Qiaomei Beetle -SKS Magazine |
+30302. [1030040372][1030040372] ### Pretty Beetle -SKS Death Box |
+30303. [1030040373][1030040373] ### Pretty Beetle -SKS Hall Death Box |
+30304. [1030040381][1030040381] ### Miss Mengyin -SKS Magazine |
+30305. [1030040391][1030040391] ### Fun Graffiti -SKS Magazine |
+30306. [1030040401][1030040401] ### Cloud of War -SKS Magazine |
+30307. [1030040411][1030040411] ###Avant Guard-SKS Magazine |
+30308. [1030040421][1030040421] ### Steel Jungle -SKS Magazine |
+30309. [1030040431][1030040431] ### Steel Jungle -SKS Magazine |
+30310. [1030040432][1030040432] ### Steel Jungle -SKS Death Box |
+30311. [1030040441][1030040441] ### Steel Jungle -SKS Magazine |
+30312. [1030040451][1030040451] ### Steel Jungle -SKS Magazine |
+30313. [1030040461][1030040461] ### Steel Jungle -SKS Magazine |
+30314. [1030040511][1030040511] Eye of Deterrence -SKS Magazine |
+30315. [1030040521][1030040521] Cold Financial Bureau -SKS Magazine |
+30316. [1030040531][1030040531] Iron Armored Black Turtle -SKS Magazine |
+30317. [1030040541][1030040541] ### Super Energy -SKS ( Level 1 ) Magazine |
+30318. [1030040551][1030040551] ### Super Energy -SKS ( Level 2 ) Magazine |
+30319. [1030040561][1030040561] ### Super Energy -SKS ( Level 3 ) Magazine |
+30320. [1030040571][1030040571] ### Super Energy -SKS ( Level 4 ) Magazine |
+30321. [1030040581][1030040581] ### Super Energy -SKS ( Level 5 ) Magazine |
+30322. [1030040582][1030040582] Super Energy -SKS Death Box |
+30323. [1030040611][1030040611] ###220-SKS Magazine |
+30324. [1030040621][1030040621] ###200-SKS Magazine |
+30325. [1030040631][1030040631] ###220-SKS Magazine |
+30326. [1030040641][1030040641] ###240-SKS Magazine |
+30327. [1030040661][1030040661] ###200-SKS Magazine |
+30328. [1030040671][1030040671] ###290-SKS Magazine |
+30329. [1030040691][1030040691] ###250-SKS Magazine |
+30330. [1030040701][1030040701] ###250-SKS Magazine |
+30331. [1030040711][1030040711] ###250-SKS Magazine |
+32196. [1103004001][1103004001] Rugged(Beige)-SKS | Rugged(Beige)-SKS , elegant style, graceful and classic , the way to win is well-versed in ?????easy? ????? ? ? ?? ? ? ??
+32197. [1103004002][1103004002] Dcamo-SKS | Dcamo-SKS , actual combat camouflage, professional war pattern, steady and brutal way of killing!
+32198. [1103004003][1103004003] Skeleton Hand -SKS | Skeleton Hand -SKS , constant combat power, reliable output, Skeleton Hand salutes you!
+32199. [1103004004][1103004004] Tsunami -SKS | Tsunami -SKS , the power of the tsunami , sweeping across the Jedi, can you survive under the gun?
+32200. [1103004006][1103004006] Silver Plate-SKS |
+32201.[1103004016][1103004016] Golden Age -SKS |
+32202. [1103004017][1103004017] Sweet Lady -SKS |
+32203. [1103004018][1103004018] Star Watch -SKS |
+32204. [1103004019][1103004019] Raging Tide Golden Crane -SKS |
+32205.[1103004020][1103004020] Fjord Legend -SKS |
+32206. [1103004021][1103004021] Shadow of Speed -SKS |
+32207. [1103004022][1103004022] Red Samurai -SKS |
+32208. [1103004023][1103004023] Qionggong Baby -SKS |
+32209. [1103004025][1103004025] Luo Ying -SKS |
+32210. [1103004026][1103004026] Judge of the Fantasy World -SKS |
+32211. [1103004028][1103004028] Corruption Charm -SKS |
+32212. [1103004029][1103004029] Cancer -SKS |
+32213. [1103004030][1103004030] S15 Season -SKS |
+32214. [1103004031][1103004031] Scarlet Lady -SKS ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32215. [1103004032][1103004032] Scarlet Lady -SKS ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32216. [1103004033][1103004033] Scarlet Lady -SKS ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32217. [1103004034][1103004034] Scarlet Lady -SKS ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32218. [1103004035][1103004035] Scarlet Lady -SKS ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32219. [1103004036][1103004036] Scarlet Lady -SKS ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+32220. [1103004037][1103004037] Scarlet Lady -SKS ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+32221. [1103004038][1103004038] Miss Mengyin -SKS |
+32222. [1103004039][1103004039] Fun Graffiti -SKS |
+32223. [1103004040][1103004040] Cloud of War -SKS |
+32224. [1103004041][1103004041] Avant Guard - SKS |
+32225. [1103004042][1103004042] Iron Jungle -SKS ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32226. [1103004043][1103004043] Iron Jungle -SKS ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32227. [1103004044][1103004044] Iron Jungle -SKS ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32228. [1103004045][1103004045] Iron Jungle -SKS ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32229. [1103004046][1103004046] Iron Jungle -SKS ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32230. [1103004051][1103004051] Eye of Deterrence -SKS |
+32231. [1103004052][1103004052] Cold Financial Bureau -SKS |
+32232. [1103004053][1103004053] Iron-armored Black Turtle -SKS |
+32233. [1103004054][1103004054] Super Energy -SKS ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32234. [1103004055][1103004055] Super Energy -SKS ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32235. [1103004056][1103004056] Super Energy -SKS ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32236. [1103004057][1103004057] Super Energy -SKS ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32237. [1103004058][1103004058] Super Energy -SKS ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32239. [1103004061][1103004061] Deadly Pastry Chef -SKS |
+32240. [1103004062][1103004062] Raging Bear -SKS |
+32241. [1103004063][1103004063] C3S8-SKS |
+32242. [1103004064][1103004064] Maple Leaf Nation -SKS |
+32243. [1103004066] [1103004066] Tread wave guest -SKS |
+32244. [1103004067][1103004067] C5S15-SKS |
+32245. [1103004069][1103004069] Delicious Orange Juice -SKS |
+32246. [1103004070][1103004070] Cute Camel -SKS |
+32247. [1103004071][1103004071] Red Silk Army SKS | Dragon Ball Official Cooperation
+35981. [2103004003][1103004003] Skeleton Hand -SKS (7 days ) | Skeleton Hand -SKS , constant combat power, reliable output, Skeleton Hand salutes you!

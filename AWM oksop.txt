@@ -1,0 +1,35 @@
+32152. [1103003016][1103003016] Purple Night Sky -AWM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32153. [1103003017][1103003017] Purple Night Sky -AWM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32154. [1103003018][1103003018] Purple Night Sky -AWM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32155. [1103003019][1103003019] Purple Night Sky -AWM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32156. [1103003020][1103003020] Purple Night Sky -AWM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32157. [1103003021][1103003021] Purple Night Sky -AWM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+32158. [1103003022][1103003022] Purple Night Sky -AWM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+32159. [1103003024][1103003024] Lord of Order -AWM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32160. [1103003025][1103003025] Lord of Order -AWM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32161. [1103003026][1103003026] Lord of Order -AWM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32162. [1103003027][1103003027] Lord of Order -AWM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32163. [1103003028][1103003028] Lord of Order -AWM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32164. [1103003029][1103003029] Lord of Order -AWM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+32165. [1103003030][1103003030] Lord of Order -AWM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+32169. [1103003036][1103003036] GODZILLA-AWM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32170. [1103003037][1103003037] GODZILLA-AWM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32171. [1103003038][1103003038] GODZILLA-AWM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32172. [1103003039][1103003039] GODZILLA-AWM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32173. [1103003040][1103003040] GODZILLA-AWM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32174. [1103003041][1103003041] GODZILLA-AWM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+32175. [1103003042][1103003042] GODZILLA-AWM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+32177. [1103003045][1103003045] Rainbow Dragon -AWM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32178. [1103003046][1103003046] Rainbow Dragon -AWM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32179. [1103003047][1103003047] Rainbow Dragon -AWM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32180. [1103003048][1103003048] Rainbow Dragon -AWM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32181. [1103003049] [1103003049] Rainbow Dragon -AWM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32182. [1103003050][1103003050] Rainbow Dragon -AWM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+32183. [1103003051][1103003051] Rainbow Dragon -AWM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+32187. [1103003056][1103003056] Deadly Flame Phoenix -AWM ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32188. [1103003057][1103003057] Deadly Flame Phoenix -AWM ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32189. [1103003058][1103003058] Deadly Flame Phoenix -AWM ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32190. [1103003059][1103003059] Deadly Flame Phoenix -AWM ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32191. [1103003060][1103003060] Deadly Flame Phoenix -AWM ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32192. [1103003061][1103003061] Deadly Flame Phoenix -AWM ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+32193. [1103003062][1103003062] Deadly Flame Phoenix -AWM ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.

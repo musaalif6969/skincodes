@@ -1,0 +1,102 @@
+751. [103006][10300600] Mini14 sniper rifle | Semi-automatic carbine.
+1145. [293006][29300600] Mini14 sniper rifle default magazine |
+1170. [303001][30300100] 5.56mm bullet | M16A4 , M416 , SCAR-L , AUG , M249 , Mini14 , Q?????easy? ???? ? ??View ? ? ? ? ?
+2659. [1030061][103006100] Mini14 sniper rifle (broken) | Broken weapon, only a few accessories can be used
+2660. [1030062][103006200] Mini14 sniper rifle (repaired) | The repaired weapon can be equipped with most accessories
+2661. [1030063][103006300] Mini14 sniper rifle (mint) | intact weapon, all accessories can be used
+2662. [1030064][103006400] Mini14 sniper rifle (improved) | Improved weapon, all accessories can be used, and the damage is increased by 15%
+2663. [1030065][103006500] Mini14 sniper rifle (refined) | Weapon made with high precision, all accessories can be used, damage increased by 30%
+2664. [1030069][103006900] Mini14 sniper rifle | Semi-automatic carbine.
+23869. [6004070][6004070] Mini14 sniper rifle - gold medal | Become a gun god! With this firearm, you are unstoppable and invincible!
+23870. [6004071][6004071] Mini14 sniper rifle - Silver | Man and gun in one! Facing powerful enemies, this firearm is your best partner!
+23871. [6004072][6004072] Mini14 sniper rifle - Bronze medal | Missless shots! Your use of this firearm is already perfect!
+24676. [12219485][12219485] Mini14 gun inspection action in lobby |
+26805.[843006002][1103006002] Rockstar -Mini14 |
+27312.[933006002][1103006002] Rockstar -Mini14 |
+30387. [1030060011][1030060011] Dcamo-Mini14 magazine |
+30388. [1030060021][1030060021] Rockstar -Mini14 Magazine |
+30389. [1030060041][1030060041] Silver Plate-Mini14 Magazine |
+30390. [1030060141][1030060141] Graffiti Space -Mini14 Magazine |
+30391. [1030060151][1030060151] ### Extreme Survival -Mini14 Magazine |
+30392. [1030060161][1030060161] Crazy Mercenary -Mini14 Magazine |
+30393. [1030060171][1030060171] Styx Cheetah -Mini14 Magazine |
+30394. [1030060181][1030060181] Snow Flower Princess -Mini14 Magazine |
+30395. [1030060191][1030060191] Fearless Charge -Mini14 Magazine |
+30396. [1030060201][1030060201] Pisces -Mini14 Magazine |
+30397. [1030060211][1030060211] Pink Hedgehog -Mini14 Magazine |
+30398. [1030060221][1030060221] ## Sweet Fructose -Mini14 |
+30399. [1030060231][1030060231] ### Technology Tribe -Mini14 Magazine |
+30400. [1030060241][1030060241] ### Glacier Touch -Mini14 Magazine ( Level 1 ) |
+30409. [1030060251][1030060251] ### Glacier Touch -Mini14 Magazine ( Level 2 ) |
+30412. [1030060254][1030060254] ### Glacier Touch -Mini14 Death Box |
+30413. [1030060261][1030060261] ### Glacier Touch -Mini14 Magazine ( Level 3 ) |
+30414. [1030060271][1030060271] ### Glacier Touch -Mini14 Magazine ( Level 4 ) |
+30415. [1030060281][1030060281] ### Glacier Touch -Mini14 Magazine ( Level 5 ) |
+30416. [1030060291][1030060291] ### Glacier Touch -Mini14 Magazine ( Level 6 ) |
+30417. [1030060301][1030060301] ### Glacier Touch -Mini14 Magazine ( Level 7 ) |
+30418. [1030060302][1030060302] ### Glacier Touch -Mini14 Death Box |
+30419. [1030060303][1030060303] ### Glacier Touch -Mini14 Hall Death Box |
+30420. [1030060311][1030060311] ### Light Gold Magician -Mini14 Magazine |
+30421. [1030060321][1030060321] ### Spade Magician -Mini14 Magazine |
+30422. [1030060331][1030060331] Rose Red Queen -Mini14 Magazine |
+30423. [1030060341][1030060341] ### ice-cold killing -Mini14 |
+30424. [1030060361][1030060361] ###1600-Mini14 Magazine |
+30426. [1030060381][1030060381] ### Piranha -Mini14 |
+30427. [1030060391][1030060391] ##3-230-Mini14 |
+30428. [1030060401][1030060401] ### Colorful Border -Mini14 |
+30429. [1030060411][1030060411] ##???palace -Mini14 |
+30430. [1030060421][1030060421] ### Beautiful Flowers -Mini14 Magazine ( Level 1 ) |
+30431. [1030060431][1030060431] ### Beautiful Flowers -Mini14 Magazine ( Level 3 ) |
+30432. [1030060432][1030060432] 210Mini14 Death Box ( Smoke ) |
+30433. [1030060441][1030060441] ### Beautiful Flowers -Mini14 Magazine ( Level 4 ) |
+30434. [1030060451][1030060451] ### Beautiful Flowers -Mini14 Magazine ( Level 5 ) |
+30435. [1030060461][1030060461] ### Beautiful Flowers -Mini14 Magazine ( Level 6 ) |
+30436. [1030060471][1030060471] ##1-230-Mini14 |
+30437. [1030060481][1030060481] ##3-230-Mini14 |
+30438. [1030060491][1030060491] ##2-230-Mini14 |
+30439. [1030060501][1030060501] ##PRO LEAGUE-Mini14 |
+30440. [1030060511][1030060511] ##C4S12-Mini14 |
+30441. [1030060521][1030060521] ### Laughing Star -Mini14 |
+30442. [1030060531][1030060531] ##2800-Mini14 |
+32275. [1103006001][1103006001] Dcamo-Mini14 | Dcamo-Mini14 , actual combat camouflage, professional war pattern, elegant aim and one hit!
+32276. [1103006002][1103006002] Rockstar -Mini14 |
+32277. [1103006004][1103006004] Silver Plate-Mini14 |
+32278. [1103006014][1103006014] Graffiti Space -Mini14 |
+32279. [1103006015][1103006015] Extreme Survival -Mini14 |
+32280. [1103006016][1103006016] Crazy Mercenary -Mini14 |
+32281. [1103006017][1103006017] Styx Cheetah -Mini14 |
+32282. [1103006018][1103006018] Snow Flower Princess -Mini14 |
+32283.[1103006019][1103006019] Fearless Charge -Mini14 |
+32284. [1103006020][1103006020] Pisces -Mini14 |
+32285. [1103006021][1103006021] Pink Hedgehog -Mini14 |
+32286. [1103006022][1103006022] Sweet Fructose -Mini14 |
+32287. [1103006023][1103006023] Technology Tribe -Mini14 |
+32288. [1103006024][1103006024] Glacier Touch -Mini14 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32289. [1103006025][1103006025] Glacier Touch -Mini14 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32290. [1103006026][1103006026] Glacial Touch -Mini14 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32291. [1103006027][1103006027] Glacier Touch -Mini14 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32292. [1103006028][1103006028] Glacier Touch -Mini14 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32293. [1103006029][1103006029] Glacier Touch -Mini14 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+32294. [1103006030][1103006030] Glacier Touch -Mini14 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+32295. [1103006031][1103006031] Light Gold Magician -Mini14 |
+32296. [1103006032][1103006032] Spade Magician -Mini14 |
+32297. [1103006033][1103006033] Rose Red Queen -Mini14 |
+32298. [1103006034][1103006034] Icy Killing -Mini14 |
+32299. [1103006036][1103006036] Juicy Hot Dog -Mini14 |
+32300. [1103006037][1103006037] Dimension Technology -Mini14 |
+32301. [1103006038][1103006038] Piranha -Mini14 |
+32302. [1103006039][1103006039] Dancing Bunny -Mini14 |
+32303. [1103006040][1103006040] Colorful Border -Mini14 |
+32304. [1103006041][1103006041] Golden Porcelain Palace -Mini14 |
+32305. [1103006042][1103006042] Beautiful Flowers -Mini14 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32306. [1103006043][1103006043] Beautiful Flowers -Mini14 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32307. [1103006044][1103006044] Beautiful Flowers -Mini14 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32308. [1103006045][1103006045] Beautiful Flowers -Mini14 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32309. [1103006046][1103006046] Beautiful Flowers -Mini14 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32310. [1103006047][1103006047] Nebula Glory -Mini14 |
+32311. [1103006048][1103006048] Undersea Golden Temple -Mini14 |
+32312. [1103006049][1103006049] Messi Green Legend Mini14 | Lionel Messi official cooperation props
+32313. [1103006050][1103006050] PRO LEAGUE-Mini14 |
+32314. [1103006051][1103006051] C4S12-Mini14 |
+32315. [1103006052][1103006052] Laughing Star -Mini14 |
+32316. [1103006053][1103006053] Horror Patient -Mini14 |

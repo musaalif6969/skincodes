@@ -1,0 +1,66 @@
+31264. [1101004040][1101004040] Frost Core -M416 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31265. [1101004041][1101004041] Frost Core -M416 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31266. [1101004042][1101004042] Frost Core -M416 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31267. [1101004043][1101004043] Frost Core -M416 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31268. [1101004044][1101004044] Frost Core -M416 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31269. [1101004045][1101004045] Frost Core -M416 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31270. [1101004046] [1101004046] Frost Core -M416 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31276. [1101004056][1101004056] Foolish Clown -M416 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31277. [1101004057][1101004057] Foolish Clown -M416 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31278. [1101004058][1101004058] Foolish Clown -M416 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31279. [1101004059][1101004059] Foolish Clown -M416 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31280. [1101004060][1101004060] Foolish Clown -M416 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31281. [1101004061][1101004061] Foolish Clown -M416 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31282. [1101004062][1101004062] Foolish Clown -M416 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31287. [1101004072][1101004072] Exotic Wanderer -M416 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31288. [1101004073][1101004073] Exotic Wanderer -M416 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31289. [1101004074][1101004074] Exotic Wanderer -M416 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31290. [1101004075][1101004075] Exotic Wanderer -M416 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31291. [1101004076][1101004076] Exotic Wanderer -M416 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31292. [1101004077][1101004077] Exotic Wanderer -M416 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31293. [1101004078][1101004078] Exotic Wanderer -M416 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31295. [1101004080][1101004080] Cute Dragon Roar -M416 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31296. [1101004081][1101004081] Cute Dragon Roar -M416 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31297. [1101004082][1101004082] Cute Dragon Roar -M416 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31298. [1101004083][1101004083] Cute Dragon Roar -M416 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31299. [1101004084][1101004084] Cute Dragon Roar -M416 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31300. [1101004085][1101004085] Cute Dragon Roar -M416 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31301. [1101004086][1101004086] Cute Dragon Roar -M416 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31307. [1101004092][1101004092] Call of the Wild -M416 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31308. [1101004093][1101004093] Call of the Wild -M416 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31309. [1101004094][1101004094] Call of the Wild -M416 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31310. [1101004095][1101004095] Call of the Wild -M416 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31311. [1101004096][1101004096] Call of the Wild -M416 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31312. [1101004097][1101004097] Call of the Wild -M416 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31313. [1101004098][1101004098] Call of the Wild -M416 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31317. [1101004112][1101004112] Technology Core -M416 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31318. [1101004113][1101004113] Technology Core -M416 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31319. [1101004114][1101004114] Technology Core -M416 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31329. [1101004135][1101004135] Technology Core -M416 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31330. [1101004136][1101004136] Technology Core -M416 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31331. [1101004137][1101004137] Technology Core -M416 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31332. [1101004138][1101004138] Technology Core -M416 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31340. [1101004155][1101004155] Chaoming Palace -M416 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31341. [1101004156][1101004156] Chaoming Palace -M416 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31342. [1101004157][1101004157] Chaoming Palace -M416 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31343. [1101004158][1101004158] Chaoming Palace -M416 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects .
+31344. [1101004159][1101004159] Chaoming Palace -M416 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31346. [1101004161][1101004161] Chaoming Palace -M416 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31347. [1101004162][1101004162] Chaoming Palace -M416 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31348. [1101004163][1101004163] Chaoming Palace -M416 ( Level 8 ) | Can be upgraded in the research institute to obtain additional effects.
+31351. [1101004194][1101004194] Martial Soul Master -M416 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31352. [1101004195][1101004195] Martial Soul Master -M416 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31353. [1101004196][1101004196] Martial Soul Master -M416 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31354. [1101004197][1101004197] Martial Soul Master -M416 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31355. [1101004198][1101004198] Martial Soul Master -M416 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31356. [1101004199][1101004199] Martial Soul Master -M416 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31357. [1101004200][1101004200] Martial Soul Master -M416 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31358. [1101004201][1101004201] Martial Soul Master -M416 ( Level 8 ) | Can be upgraded in the research institute to obtain additional effects.
+31359. [1101004202][1101004202] Tide of Shelter -M416 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31360. [1101004203][1101004203] Tide of Shelter -M416 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31361. [1101004204][1101004204] Tide of Shelter -M416 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31362. [1101004205][1101004205] Tide of Shelter -M416 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31363. [1101004206][1101004206] Tide of Shelter -M416 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31364. [1101004207][1101004207] Tide of Shelter -M416 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31365. [1101004208][1101004208] Tide of Shelter -M416 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31366. [1101004209][1101004209] Tide of Shelter -M416 ( Level 8 ) | Can be upgraded in the research institute to obtain additional effects.

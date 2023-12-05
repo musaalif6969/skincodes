@@ -1,0 +1,24 @@
+740. [102004][10200400] Thompson submachine gun | The world-renowned submachine gun .
+1137. [292004][29200400] Thompson submachine gun default magazine |
+1172. [305001][ 30500100 ] .45 caliber bullet | P1911 , Thompson submachine gun , UMP45 , Win94 , R45 , Desert Eagle bullet ? ? ?
+2598. [1020041][102004100] Thompson Submachine Gun (Broken) | Broken weapon with only a few accessories available
+2599. [1020042][102004200] Thompson submachine gun (repaired) | Repaired weapon that can be equipped with most accessories
+2600. [1020043][102004300] Thompson submachine gun (mint) | intact weapon, all accessories can be used
+2601. [1020044][102004400] Thompson submachine gun (improved) | Improved weapon, all accessories can be used, and the damage is increased by 15%
+2602. [1020045][102004500] Thompson submachine gun (refined) | Weapon made with high precision, all accessories can be used, and the damage is increased by 30%
+23842. [6004043][6004043] Thompson submachine gun - gold medal | Become a gun god! With this firearm, you are unstoppable and invincible!
+23843. [6004044][6004044] Thompson submachine gun - Silver | Man and gun in one! Facing powerful enemies, this firearm is your best partner!
+23844. [6004045][6004045] Thompson submachine gun - Bronze medal | No bullets missed! Your use of this firearm is already perfect!
+[1102004001][1102004001] Silver Plate - Thompson SMG | NULL
+[1102004011][1102004011] Smooth Hitman - Thompson SMG | NULL
+[1102004012][1102004012] Bling - Thompson | NULL
+[1102004013][1102004013] Bloody Knife - Tommy Gun | NULL
+[1102004014][1102004014] Candy Cane - Thompson (Lv. 1) | Upgrade at the Lab for bonus effects. It will be dismantled into materials if you get it again.
+[1102004015][1102004015] Candy Cane - Thompson (Lv. 2) | Upgrade at the Lab for bonus effects. It will be dismantled into materials if you get it again.
+[1102004016][1102004016] Candy Cane - Thompson (Lv. 3) | Upgrade at the Lab for bonus effects. It will be dismantled into materials if you get it again.
+[1102004017][1102004017] Candy Cane - Thompson (Lv. 4) | Upgrade at the Lab for bonus effects. It will be dismantled into materials if you get it again.
+[1102004018][1102004018] Candy Cane - Thompson (Lv. 5) | Upgrade at the Lab for bonus effects. It will be dismantled into materials if you get it again.
+[1102004022][1102004022] Gauntlet - Thompson | NULL
+[1102004024][1102004024] Season 16 - Thompson | NULL
+[1102004026][1102004026] General Beetle - Thompson | NULL
+[1102004027][1102004027] Mecha Ant - Thompson | NULL

@@ -1,0 +1,37 @@
+31835. [1102003016][1102003016] Bloodfang War Bat -Vector ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31836. [1102003017][1102003017] Bloodfang War Bat -Vector ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31837. [1102003018][1102003018] Bloodfang War Bat -Vector ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31838. [1102003019][1102003019] Bloodfang War Bat -Vector ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31839. [1102003020][1102003020] Bloodfang War Bat -Vector ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31844. [1102003027][1102003027] Rose Red Night -Vector ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31845. [1102003028][1102003028] Rose Red Night -Vector ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31846. [1102003029][1102003029] Rose Red Night -Vector ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31847. [1102003030][1102003030] Rose Red Night -Vector ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31848. [1102003031][1102003031] Rose Red Night -Vector ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31850. [1102003035][1102003035] Cute Badass -Vector ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31851. [1102003036][1102003036] Cute Badass -Vector ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31852. [1102003037][1102003037] Cute Badass -Vector ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31853. [1102003038][1102003038] Cute Badass -Vector ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31854. [1102003039][1102003039] Cute Badass -Vector ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31857. [1102003046][1102003046] Golden Earl -Vector ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31858. [1102003047][1102003047] Golden Earl -Vector ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31859. [1102003048][1102003048] Golden Earl -Vector ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31862. [1102003051][1102003051] Golden Earl -Vector ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31863. [1102003052][1102003052] Golden Earl -Vector ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31866. [1102003060][1102003060] Deadly Golden Scythe -Vector ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31867. [1102003061][1102003061] Deadly Golden Scythe -Vector ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31868. [1102003062][1102003062] Deadly Golden Scythe -Vector ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31870. [1102003064][1102003064] Deadly Golden Scythe -Vector ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31871. [1102003065][1102003065] Deadly Golden Scythe -Vector ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31872. [1102003066][1102003066] Ultimate Hunter -Vector ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31873. [1102003067][1102003067] Ultimate Hunter -Vector ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31874. [1102003068][1102003068] Ultimate Hunter -Vector ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31875. [1102003071][1102003071] Ultimate Hunter -Vector ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31876. [1102003072][1102003072] Ultimate Hunter -Vector ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31878. [1102003074][1102003074] Skimming Wings -Vector ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31879. [1102003075][1102003075] Skimming Wings -Vector ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31880. [1102003076][1102003076] Skimming Wings -Vector ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31881. [1102003077][1102003077] Skimming Wings -Vector ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31882. [1102003078][1102003078] Skimming Wings -Vector ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31883. [1102003079][1102003079] Skimming Wings -Vector ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31884. [1102003080][1102003080] Skimming Wings -Vector ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.

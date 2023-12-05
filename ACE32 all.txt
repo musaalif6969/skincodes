@@ -1,0 +1,60 @@
+29281. [1011020011][1011020011] ### Ultimate Collision -ACE32 Magazine ( Level 1 ) |
+29282. [1011020012][1011020012] ### Ultimate Collision -ACE32 Gun Stock ( Level 1 ) |
+29283. [1011020013][1011020013] ### Ultimate Collision -ACE32 Muzzle ( Level 1 ) |
+29290. [1011020021][1011020021] ### Ultimate Collision -ACE32 Magazine ( Level 2 ) |
+29291. [1011020022][1011020022] ### Ultimate Collision -ACE32 Gun Stock ( Level 2 ) |
+29292. [1011020023][1011020023] ### Ultimate Collision -ACE32 Death Box ( Smoke ) |
+29299. [1011020031][1011020031] ### Ultimate Collision -ACE32 Magazine ( Level 3 ) |
+29300. [1011020032][1011020032] ### Ultimate Collision -ACE32 Gun Stock ( Level 3 ) |
+29301. [1011020033][1011020033] ### Ultimate Collision -ACE32 Muzzle ( Level 3 ) |
+29308. [1011020041][1011020041] ### Ultimate Collision -ACE32 Magazine ( Level 4 ) |
+29309. [1011020042][1011020042] ### Ultimate Collision -ACE32 Gun Stock ( Level 4 ) |
+29310. [1011020043][1011020043] ### Ultimate Collision -ACE32 Muzzle ( Level 4 ) |
+29313. [1011020046][1011020046] ### Ultimate Collision -ACE32 Muzzle ( Level 2 ) |
+29314. [1011020051][1011020051] ### Ultimate Collision -ACE32 Magazine ( Level 5 ) |
+29315. [1011020052][1011020052] ### Ultimate Collision -ACE32 Gun Stock ( Level 5 ) |
+29316. [1011020053][1011020053] ### Ultimate Collision -ACE32 Muzzle ( Level 5 ) |
+29317. [1011020061][1011020061] ### Ultimate Collision -ACE32 Magazine ( Level 6 ) |
+29318. [1011020062][1011020062] ### Ultimate Collision -ACE32 Gun Stock ( Level 6 ) |
+29319. [1011020063][1011020063] ### Ultimate Collision -ACE32 Muzzle ( Level 6 ) |
+29320. [1011020071][1011020071] ### Ultimate Collision -ACE32 Magazine ( Level 7 ) |
+29323. [1011020074][1011020074] ### Ultimate Collision -ACE32 Gun Stock ( Level 7 ) |
+29324. [1011020075][1011020075] ### Ultimate Collision -ACE32 Muzzle ( Level 7 ) |
+29325. [1011020111][1011020111] ### Shenting Ice Thorn -ACE32 Magazine ( Level 1 ) |
+29326. [1011020112][1011020112] ### Shenting Ice Thorn -ACE32 Gun Stock ( Level 1 ) |
+29327. [1011020113][1011020113] ### Shenting Ice Thorn -ACE32 Muzzle ( Level 1 ) |
+29334. [1011020121][1011020121] ### Shenting Ice Thorn -ACE32 Magazine ( Level 2 ) |
+29335. [1011020122][1011020122] ### Shenting Ice Thorn -ACE32 Gun Stock ( Level 2 ) |
+29336. [1011020123][1011020123] ### Shenting Ice Thorn -ACE32 Muzzle ( Level 2 ) |
+29343. [1011020131][1011020131] ### Shenting Ice Thorn -ACE32 Magazine ( Level 3 ) |
+29344. [1011020132][1011020132] ### Shenting Ice Thorn -ACE32 Gun Stock ( Level 3 ) |
+29345. [1011020133][1011020133] ### Shenting Ice Thorn -ACE32 Muzzle ( Level 3 ) |
+29352. [1011020141][1011020141] ### Shenting Ice Thorn -ACE32 Magazine ( Level 4 ) |
+29353. [1011020142][1011020142] ### Shenting Ice Thorn -ACE32 Gun Stock ( Level 4 ) |
+29354. [1011020143][1011020143] ### Shenting Ice Thorn -ACE32 Muzzle ( Level 4 ) |
+29357. [1011020151][1011020151] ### Shenting Ice Thorn -ACE32 Magazine ( Level 5 ) |
+29358. [1011020152][1011020152] ### Shenting Ice Thorn -ACE32 Gun Stock ( Level 5 ) |
+29359. [1011020153][1011020153] ### Shenting Ice Thorn -ACE32 Muzzle ( Level 5 ) |
+29360. [1011020161][1011020161] ### Shenting Ice Thorn -ACE32 Magazine ( Level 6 ) |
+29361. [1011020162][1011020162] ### Shenting Ice Thorn -ACE32 Gun Stock ( Level 6 ) |
+29362. [1011020163][1011020163] ### Shenting Ice Thorn -ACE32 Muzzle ( Level 6 ) |
+29363. [1011020171][1011020171] ### Shenting Ice Thorn -ACE32 Magazine ( Level 7 ) |
+29364. [1011020172][1011020172] ### Shenting Ice Thorn -ACE32 Gun Stock ( Level 7 ) |
+29365. [1011020173][1011020173] ### Shenting Ice Thorn -ACE32 Muzzle ( Level 7 ) |
+29366. [1011020174][1011020174] Shenting Ice Thorn -ACE32 Death Box ( Smoke ) |
+29367. [1011020175][1011020175] Shenting Ice Thorn -ACE32 Death Box ( Hall Box) |
+29368. [1011020176][1011020176] Shenting Ice Thorn -ACE32 Death Box ( Combat Box) |
+31631. [1101102001][1101102001] Ultimate Collision -ACE32 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31632. [1101102002][1101102002] Ultimate Collision -ACE32 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31633. [1101102003][1101102003] Ultimate Collision -ACE32 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31634. [1101102004][1101102004] Ultimate Collision -ACE32 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31635. [1101102005][1101102005] Ultimate Collision -ACE32 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31636. [1101102006][1101102006] Ultimate Collision -ACE32 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31637. [1101102007][1101102007] Ultimate Collision -ACE32 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31638. [1101102011][1101102011] Divine Ice Thorn -ACE32 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31639. [1101102012][1101102012] Divine Ice Thorn -ACE32 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31640. [1101102013][1101102013] Divine Ice Thorn -ACE32 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31641. [1101102014][1101102014] Divine Ice Thorn -ACE32 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31642. [1101102015][1101102015] Divine Ice Thorn -ACE32 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31643. [1101102016][1101102016] Divine Ice Thorn -ACE32 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31644. [1101102017][1101102017] Divine Ice Thorn -ACE32 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.

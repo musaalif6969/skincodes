@@ -1,0 +1,155 @@
+747. [103002][10300200] M24 sniper rifle | A sniper rifle with excellent performance .
+968. [206105][20610500] XT Upgrade Box -M24 | Upgrade M24 to M24-XT , the bolt pulling speed is increased, and the ammunition capacity is increased
+1141. [293002][29300200] M24 sniper rifle default magazine |
+1169. [ 302001 ] [ 30200100 ] 7.62 mm bullets | AKM , Groza , Kar98k , M24 , SKS , MK14 , R1895 ? ? _ _ _ _
+2440. [1000029][0] M24 suit ( improved ) | After opening , you will get an M24 sniper rifle (improved), a 4x scope , a sniper rifle silencer (improved), a chin support ????easy? ???? ? ? ??? ? ? ? ?
+2631. [1030021][103002100] M24 sniper rifle (broken) | Broken weapon, only a few accessories can be used
+2632. [1030022][103002200] M24 sniper rifle (repaired) | The repaired weapon can be equipped with most accessories
+2633. [1030023][103002300] M24 sniper rifle (mint) | intact weapon, all accessories can be used
+2634. [1030024][103002400] M24 sniper rifle (improved) | Improved weapon, all accessories can be used, and the damage is increased by 15%
+2635. [1030025][103002500] M24 sniper rifle (refined) | Weapon made with high precision, all accessories can be used, damage increased by 30%
+2636. [1030026][103002600] M24 sniper rifle (One-eyed Snake) | Special version of One-eyed Snake, the damage is increased by 15% , the firing sound is reduced, and the recoil control and head hit are improved ????easy? ????? ? ??? ? ? ? ?
+2637. [1030027][103002700] M24 sniper rifle (Steel Front) | Steel Front special edition, damage increased by 15% . Strengthen the durability , reload speed , and scope opening speed , while reducing the ?
+18092. [1621469][0] Level 4 M24 Set | Contains a variety of firearms and accessories
+23857. [6004058][6004058] M24 sniper rifle - gold medal | Become a gun god! With this firearm, you are unstoppable and invincible!
+23858. [6004059][6004059] M24 sniper rifle - Silver | Man and gun in one! Facing powerful enemies, this firearm is your best partner!
+23859. [6004060][6004060] M24 sniper rifle - Bronze medal | Missless shots! Your use of this firearm is already perfect!
+24674. [12219483][12219483] Hall M24 firearm inspection action |
+24834. [12219650][12219650] Extreme Music M24 Firearms Inspection |
+26412. [418004135][418004135] ### Life Cycle -M24 Firearms Pendant |
+30038. [1030020011][1030020011] Wilderness Impression -M24 Magazine |
+30039. [1030020111][1030020111] Savage Guard -M24 Magazine |
+30040. [1030020121][1030020121] Roaming the Star Sea -M24 Magazine |
+30041. [1030020131][1030020131] Viper Assassin -M24 Magazine |
+30042. [1030020141][1030020141] Raging Sea -M24 Magazine |
+30043. [1030020151][1030020151] Raging Sea -M24 Magazine |
+30044. [1030020152][1030020152] Raging Sea -M24 Death Box |
+30045. [1030020161][1030020161] Raging Sea -M24 Magazine |
+30046. [1030020171][1030020171] Raging Sea -M24 Magazine |
+30047. [1030020181][1030020181] Raging Sea -M24 Magazine |
+30048. [1030020211][1030020211] Sagittarius -M24 Magazine |
+30049. [1030020221][1030020221] Cold Blue -M24 Magazine |
+30050. [1030020231][1030020231] Carnival Anniversary -M24 Magazine |
+30051. [1030020241][1030020241] Golden Scepter -M24 Magazine |
+30060. [1030020251][1030020251] Golden Scepter -M24 Magazine |
+30063. [1030020254][1030020254] Golden Scepter -M24 Death Box |
+30064. [1030020261][1030020261] Golden Scepter -M24 Magazine |
+30065. [1030020271][1030020271] Golden Scepter -M24 Magazine |
+30066. [1030020281][1030020281] Golden Scepter -M24 Magazine |
+30067. [1030020291][1030020291] Golden Scepter -M24 Magazine |
+30068. [1030020301][1030020301] Golden Scepter -M24 Magazine |
+30069. [1030020302][1030020302] Golden Scepter -M24 Death Box |
+30070. [1030020303][1030020303] Golden Scepter -M24 Hall Death Box |
+30071. [1030020311][1030020311] S14 Season -M24 Magazine |
+30072. [1030020321][1030020321] ### Golden Lion Fighter -M24 Magazine |
+30073. [1030020331][1030020331] ## Precision Machinery -M24 |
+30074. [1030020341][1030020341] ###Refined Xolotl - M24 |
+30075. [1030020351][1030020351] ### Scorching Sun -M24 Magazine |
+30076. [1030020361][1030020361] ### Dragon Scale Colorful Flag -M24 Magazine |
+30077. [1030020371][1030020371] ### Brilliant Salute -M24 Magazine |
+30078. [1030020381][1030020381] Mrs. Black Butterfly -M24 Magazine |
+30079. [1030020391][1030020391] Mrs. Black Butterfly -M24 Magazine |
+30080. [1030020392][1030020392] Mrs. Black Butterfly -M24 Death Box |
+30081. [1030020401][1030020401] Lady Black Butterfly -M24 Magazine |
+30082. [1030020431][1030020431] Fatal Note -M24 Magazine |
+30083. [1030020441][1030020441] Fatal Note -M24 Magazine |
+30084. [1030020442][1030020442] Fatal Note -M24 Death Box |
+30085. [1030020451][1030020451] Fatal Note -M24 Magazine |
+30086. [1030020461][1030020461] Fatal Note -M24 Magazine |
+30087. [1030020471][1030020471] Fatal Note -M24 Magazine |
+30088. [1030020481][1030020481] Mrs. Black Butterfly -M24 Magazine |
+30089. [1030020491][1030020491] Mrs. Black Butterfly -M24 Magazine |
+30090. [1030020501][1030020501] Web of Terror -M24 Magazine |
+30091. [1030020511][1030020511] Deep Sea Master -M24 Magazine |
+30092. [1030020521][1030020521] ### Military Camouflage -M24 Magazine |
+30093. [1030020531][1030020531] ### Life Cycle -M24 Magazine |
+30102. [1030020541][1030020541] ### Life Cycle -M24 Magazine |
+30110. [1030020549][1030020549] ### Life Cycle -M24 Death Box |
+30111. [1030020551][1030020551] ### Life Cycle -M24 Magazine |
+30112. [1030020561][1030020561] ### Life Cycle -M24 Magazine |
+30113. [1030020571][1030020571] ### Life Cycle -M24 Magazine |
+30114. [1030020581][1030020581] ### Life Cycle -M24 Magazine |
+30115. [1030020591][1030020591] ### Life Cycle -M24 Magazine |
+30116. [1030020592][1030020592] ### Life Cycle -M24 Death Box |
+30117. [1030020593][1030020593] ### Life Cycle -M24 Hall Death Box |
+30119. [1030020601][1030020601] ### Fluttering Wings Spirit Armor -M24 |
+30120. [1030020631][1030020631] ### Gold-Inlaid Youlong -M24 Magazine |
+30121. [1030020651][1030020651] ### Emerald Gem -M24 Magazine |
+30123. [1030020671][1030020671] Golden Sky Shadow -M24 Magazine |
+30124. [1030020701][1030020701] ##220-M24 |
+30125. [1030020711][1030020711] 1-230-M24 Magazine |
+30126. [1030020761][1030020761] ### Pretty Badass -M24 Magazine |
+30127. [1030020781][1030020781] Forest Law -M24 Magazine |
+30128. [1030020801][1030020801] ## Precision Note -M24 |
+30129. [1030020811][1030020811] ### Extreme Music -M24 Magazine ( Level 1 ) |
+30137. [1030020821][1030020821] ### Supreme Music -M24 Magazine ( Level 2 ) | Exclusive accessory skin ; only available for Supreme Music -M24
+30143. [1030020829][1030020829] ### Extreme Music -M24 Death Box ( Smoke ) |
+30144. [1030020831][1030020831] ### Extreme Music -M24 Magazine ( Level 3 ) |
+30145. [1030020841][1030020841] ### Extreme Music -M24 Magazine ( Level 4 ) |
+30146. [1030020851][1030020851] ### Extreme Music -M24 Magazine ( Level 5 ) |
+30147. [1030020861][1030020861] ### Extreme Music -M24 Magazine ( Level 6 ) |
+30148. [1030020871][1030020871] ### Extreme Music -M24 Magazine ( Level 7 ) |
+30259. [1030030671][1030030671] ## Precision Note -M24 |
+32081. [1103002001][1103002001] Magnificent Universe -M24 |
+32083. [1103002011][1103002011] Savage Guard -M24 |
+32084. [1103002012][1103002012] Roaming the Star Sea -M24 |
+32085. [1103002013][1103002013] Viper Assassin -M24 |
+32086. [1103002014][1103002014] Raging Sea -M24 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32087. [1103002015][1103002015] Raging Sea -M24 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32088. [1103002016][1103002016] Raging Sea -M24 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32089. [1103002017][1103002017] Raging Sea -M24 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32090. [1103002018][1103002018] Raging Sea -M24 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32091.[1103002021][1103002021] Sagittarius -M24 |
+32092. [1103002022][1103002022] Cool Blue -M24 |
+32093. [1103002023][1103002023] Carnival Anniversary -M24 |
+32094. [1103002024][1103002024] Golden Scepter -M24 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32095. [1103002025][1103002025] Golden Scepter -M24 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32096. [1103002026][1103002026] Golden Scepter -M24 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32097. [1103002027][1103002027] Golden Scepter -M24 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32098. [1103002028][1103002028] Golden Scepter -M24 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32099. [1103002029][1103002029] Golden Scepter -M24 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+32100. [1103002030][1103002030] Golden Scepter -M24 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+32101. [1103002031][1103002031] S14 Season -M24 |
+32102. [1103002032][1103002032] Golden Lion Fighter -M24 |
+32103. [1103002033][1103002033] Precision Machinery -M24 |
+32104. [1103002034][1103002034] Refined Xolotl - M24 |
+32105. [1103002035][1103002035] Scorching Sun -M24 |
+32106. [1103002036][1103002036] Dragon Scale Colorful Flag -M24 |
+32107. [1103002037][1103002037] Brilliant Salute -M24 |
+32108. [1103002038][1103002038] Lady Black Butterfly -M24 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32109. [1103002039][1103002039] Lady Black Butterfly -M24 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32110. [1103002040][1103002040] Lady Black Butterfly -M24 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32111. [1103002043][1103002043] Fatal Note -M24 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32112. [1103002044][1103002044] Fatal Note -M24 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32113. [1103002045][1103002045] Fatal Note -M24 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32114. [1103002046][1103002046] Fatal Note -M24 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32115. [1103002047][1103002047] Fatal Note -M24 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32116. [1103002048][1103002048] Lady Black Butterfly -M24 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32117. [1103002049][1103002049] Lady Black Butterfly -M24 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32118. [1103002050][1103002050] Web of Terror -M24 |
+32119. [1103002051][1103002051] Deep Sea Master -M24 |
+32120. [1103002052][1103002052] Military Camouflage -M24 |
+32121. [1103002053][1103002053] Life Cycle -M24 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32122. [1103002054][1103002054] Life Cycle -M24 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32123. [1103002055][1103002055] Life Cycle -M24 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32124. [1103002056][1103002056] Life Cycle -M24 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32125. [1103002057][1103002057] Life Cycle -M24 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32126. [1103002058][1103002058] Life Cycle -M24 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+32127. [1103002059][1103002059] Life Cycle -M24 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+32128. [1103002060][1103002060] Fluttering Wings Armor -M24 |
+32129. [1103002063][1103002063] C2S5-M24 |
+32130.[1103002065][1103002065] Emerald Gem -M24 |
+32131. [1103002066][1103002066] Metal Storm -M24 |
+32132. [1103002067][1103002067] Golden Shadow of the Sky -M24 |
+32133. [1103002070][1103002070] Jungle Hunter -M24 |
+32134. [1103002071][1103002071] C3S9-M24 |
+32135. [1103002076][1103002076] Pretty Badass -M24 |
+32136. [1103002078][1103002078] Forest Law -M24 |
+32137. [1103002080][1103002080] Precision Note -M24 |
+32138. [1103002081][1103002081] Extreme Music -M24 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32139. [1103002082][1103002082] Extreme Music -M24 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32140. [1103002083][1103002083] Extreme Music -M24 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32141. [1103002084][1103002084] Extreme Music -M24 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32142. [1103002085][1103002085] Extreme Music -M24 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32143. [1103002086][1103002086] Extreme Music -M24 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+32144. [1103002087][1103002087] Extreme Music -M24 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.

@@ -1,0 +1,35 @@
+757. [103012][10301200] AMR sniper rifle | Heavy anti-material sniper rifle
+1150. [293012][29301200] AMR sniper rifle default magazine |
+2472. [1000061][0] One-Eyed Snake AMR Luck Gift Pack | Get random props every time you use it , and there is a certain probability of getting an exquisite One-Eyed Snake AMR sniper rifle.
+2473. [1000062][0] Steel Front AMR Lucky Gift Pack | Get random props every time you use it , and there is a certain probability of getting an exquisite Steel Front AMR sniper rifle.
+2690. [1030121][103012100] AMR Sniper Rifle (Broken) | Broken weapon with only a few accessories available
+2691. [1030122][103012200] AMR sniper rifle (repaired) | Repaired weapon that can be equipped with most accessories
+2692. [1030123][103012300] AMR sniper rifle (mint) | intact weapon, all accessories can be used
+2693. [1030124][103012400] AMR sniper rifle (improved) | Improved weapon, can use all accessories, damage increased by 15%
+2694. [1030125][103012500] AMR sniper rifle (refined) | Weapon made with high precision, all accessories can be used, damage increased by 30%
+2695. [1030126][103012600] AMR sniper rifle (One-eyed Snake) | Special version of One-eyed Snake, the damage is increased by 15% , the firing sound is reduced, and the recoil control and head hit are improved ????easy? ????? ? ??? ? ? ? ?
+2696. [1030127][103012700] AMR sniper rifle (Steel Front) | Steel Front special edition, damage increased by 15% . Strengthen the durability , reload speed , and scope opening speed , while reducing the ?
+24665. [12219474][12219474] Hall AMR firearm inspection action |
+24789. [12219603][12219603] ###260AMR firearm inspection action |
+30536. [1030120031][1030120031] Bloodthirsty Dragon Nightmare -AMR ( Level 1 ) -Magazine |
+30544. [1030120041][1030120041] Bloodthirsty Dragon Nightmare -AMR ( Level 2 ) -Magazine |
+30545. [1030120051][1030120051] Bloodthirsty Dragon Nightmare -AMR ( Level 3 ) -Magazine |
+30546. [1030120061][1030120061] Bloodthirsty Dragon Nightmare -AMR ( Level 4 ) -Magazine |
+30547. [1030120071][1030120071] Bloodthirsty Dragon Nightmare -AMR ( Level 5 ) -Magazine |
+30548. [1030120081][1030120081] Bloodthirsty Dragon Nightmare -AMR ( Level 6 ) -Magazine |
+30549. [1030120091][1030120091] Bloodthirsty Dragon Nightmare -AMR ( Level 7 ) -Magazine |
+30550. [1030120101][1030120101] Bloodthirsty Dragon Nightmare -AMR ( Level 8 ) -Magazine |
+30551. [1030120102][1030120102] 260AMR Death Box ( Smoke ) |
+30552. [1030120103][1030120103] 260AMR Death Box ( Lobby Box ) |
+30553. [1030120104][1030120104] 260AMR Death Box ( Battle Box) |
+30554. [1030120105][1030120105] 260AMR Death Box ( Hall Show) |
+30555. [1030120106][1030120106] 260AMR Death Box ( Battle Show) |
+32377. [1103012003][1103012003] Bloodthirsty Dragon Nightmare -AMR ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+32378. [1103012004][1103012004] Bloodthirsty Dragon Nightmare -AMR ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+32379. [1103012005][1103012005] Bloodthirsty Dragon Nightmare -AMR ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+32380. [1103012006][1103012006] Bloodthirsty Dragon Nightmare -AMR ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+32381. [1103012007][1103012007] Bloodthirsty Dragon Nightmare -AMR ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+32382. [1103012008][1103012008] Bloodthirsty Dragon Nightmare -AMR ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+32383. [1103012009][1103012009] Bloodthirsty Dragon Nightmare -AMR ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+32384. [1103012010][1103012010] Bloodthirsty Dragon Nightmare -AMR ( Level 8 ) | Can be upgraded in the research institute to obtain additional effects.
+32385. [1103012011][1103012011] Girl's Kiss -AMR |

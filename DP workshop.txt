@@ -1,0 +1,20 @@
+30718. [1050020141][1050020141] Mysterious Killing -DP28 Magazine ( Level 1 ) |
+30719. [1050020151][1050020151] Mysterious Killing -DP28 Magazine ( Level 2 ) |
+30721. [1050020161][1050020161] Mysterious Killing -DP28 Magazine ( Level 3 ) |
+30722. [1050020171][1050020171] Mysterious Killing -DP28 Magazine ( Level 4 ) |
+30723. [1050020181][1050020181] Mysterious Killing -DP28 Magazine ( Level 5 ) |
+30733. [1050020321][1050020321] ### Golden Jade Dragon -DP28 Magazine ( Level 2 ) |
+30735. [1050020331][1050020331] ### Golden Jade Dragon -DP28 Magazine ( Level 3 ) |
+30736. [1050020341][1050020341] ### Golden Jade Dragon -DP28 Magazine ( Level 4 ) |
+30737. [1050020351][1050020351] ### Golden Jade Dragon -DP28 Magazine ( Level 5 ) |
+30738. [1050020371][1050020371] ### Golden Jade Dragon -DP28 Magazine ( Level 1 ) |
+30749. [1050020541][1050020541] ### Ocean Warrior -DP28 Magazine ( Level 1 ) |
+30750. [1050020551][1050020551] ### Ocean Warrior -DP28 Magazine ( Level 2 ) |
+30752. [1050020561][1050020561] ### Ocean Warrior -DP28 Magazine ( Level 3 ) |
+30753. [1050020571][1050020571] ### Ocean Warrior -DP28 Magazine ( Level 4 ) |
+30754. [1050020581][1050020581] ### Ocean Warrior -DP28 Magazine ( Level 5 ) |
+30755. [1050020591][1050020591] ### Dragon 's Wrath -DP28 Magazine ( Level 1 ) |
+30757. [1050020601][1050020601] ### Dragon 's Wrath -DP28 Magazine ( Level 2 ) |
+30758. [1050020611][1050020611] ### Dragon 's Wrath -DP28 Magazine ( Level 3 ) |
+30759. [1050020621][1050020621] ### Dragon 's Wrath -DP28 Magazine ( Level 4 ) |
+30760. [1050020631][1050020631] ### Dragon 's Wrath -DP28 Magazine ( Level 5 ) |

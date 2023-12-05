@@ -1,0 +1,54 @@
+31516. [1101008022][1101008022] Bitbury -M762 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31517. [1101008023][1101008023] Bitbury -M762 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31518. [1101008024][1101008024] Bitbury -M762 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31519. [1101008025][1101008025] Bitbury -M762 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31520. [1101008026][1101008026] Bitbury -M762 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31524. [1101008032][1101008032] Wrath of the Divine Lotus -M762 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31525. [1101008033][1101008033] Wrath of the Divine Lotus -M762 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31526. [1101008034][1101008034] Wrath of the Divine Lotus -M762 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31527. [1101008035][1101008035] Wrath of the Divine Lotus -M762 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31528. [1101008036][1101008036] Wrath of the Divine Lotus -M762 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31530. [1101008045][1101008045] Romantic Movement -M762 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31531. [1101008046][1101008046] Romantic Movement -M762 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31532. [1101008047][1101008047] Romantic Movement -M762 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31533. [1101008048][1101008048] Romantic Movement -M762 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31534. [1101008049][1101008049] Romantic Movement -M762 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31535. [1101008050][1101008050] Romantic Movement -M762 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31536. [1101008051][1101008051] Romantic Movement -M762 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31540. [1101008055][1101008055] Precision Killing -M762 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31541. [1101008056][1101008056] Precision Killing -M762 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31542. [1101008057][1101008057] Precision Killing -M762 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31543. [1101008058][1101008058] Precision Killing -M762 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31544. [1101008059][1101008059] Precision Killing -M762 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31545. [1101008060][1101008060] Precision Killing -M762 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31546. [1101008061][1101008061] Precision Killing -M762 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31549. [1101008064][1101008064] GACKT-M762 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31550. [1101008065][1101008065] GACKT-M762 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31551. [1101008066][1101008066] GACKT-M762 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31552. [1101008067][1101008067] GACKT-M762 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31553. [1101008068][1101008068] GACKT-M762 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31554. [1101008069][1101008069] GACKT-M762 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31555. [1101008070][1101008070] GACKT-M762 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31558. [1101008073][1101008073] Perverse Stranger -M762 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31559. [1101008074][1101008074] Perverse Stranger -M762 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31560. [1101008075][1101008075] Perverse Stranger -M762 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31561. [1101008076][1101008076] Perverse Stranger -M762 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31562. [1101008077][1101008077] Perverse Stranger -M762 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31563. [1101008078][1101008078] Perverse Stranger -M762 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31564. [1101008079][1101008079] Perverse Stranger -M762 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31566. [1101008081][1101008081] Perverse Stranger -M762 ( Level 8 ) | Can be upgraded in the research institute to obtain additional effects.
+31573. [1101008097][1101008097] Nebula Machinery -M762 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31574. [1101008098][1101008098] Nebula Machinery -M762 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31575. [1101008099][1101008099] Nebula Machinery -M762 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31576. [1101008100][1101008100] Nebula Machinery -M762 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31577. [1101008101][1101008101] Nebula Machinery -M762 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31578. [1101008102][1101008102] Nebula Machinery -M762 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31579. [1101008103][1101008103] Nebula Machinery -M762 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.
+31580. [1101008104][1101008104] Nebula Machinery -M762 ( Level 8 ) | Can be upgraded in the research institute to obtain additional effects.
+31591. [1101008120][1101008120] Dragon Queen -M762 ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31592. [1101008121][1101008121] Dragon Queen -M762 ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31593. [1101008122][1101008122] Dragon Queen -M762 ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31594. [1101008123][1101008123] Dragon Queen -M762 ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31595. [1101008124][1101008124] Dragon Queen -M762 ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31596. [1101008125][1101008125] Dragon Queen -M762 ( Level 6 ) | Can be upgraded in the research institute to obtain additional effects.
+31597. [1101008126][1101008126] Dragon Queen -M762 ( Level 7 ) | Can be upgraded in the research institute to obtain additional effects.

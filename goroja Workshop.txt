@@ -1,0 +1,13 @@
+31373. [1101005015][1101005015] Oz -GROZA ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31374. [1101005016][1101005016] Oz -GROZA ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31375. [1101005017][1101005017] Oz -GROZA ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31376. [1101005018][1101005018] Oz -GROZA ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31377. [1101005019][1101005019] Oz -GROZA ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+31378. [1101005021][1101005021] Magic Night Music -GROZA ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+31379. [1101005022][1101005022] Magic Night Music -GROZA ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
+31380. [1101005023][1101005023] Magic Night Music -GROZA ( Level 3 ) | Can be upgraded in the research institute to obtain additional effects.
+31381. [1101005024][1101005024] Magic Night Music -GROZA ( Level 4 ) | Can be upgraded in the research institute to obtain additional effects.
+31382. [1101005025][1101005025] Magic Night Music -GROZA ( Level 5 ) | Can be upgraded in the research institute to obtain additional effects.
+1101005032 ] Groza ( Level 1 ) | Can be upgraded in the research institute to obtain additional effects.
+
+1101005033 ] Groza ( Level 2 ) | Can be upgraded in the research institute to obtain additional effects.
