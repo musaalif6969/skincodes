@@ -1,0 +1,25 @@
+TAG: 2.14.5-clone(24011893)
+PERMISSION: APP
+ABI: arm64-v8a
+MODEL: 21091116I
+SDK: 33
+RELEASE: 13
+TARGET_SDK: 30
+---StackTrace---
+java.io.IOException: An error occurred with the file "main.18325.com.pubg.imobile.obb":
+Not a valid dex magic value: 50 4b 03 04 14 00 00 00
+	at l.ۚ۫ۗ.ۛ(91DX:134)
+	at l.ۚ۫ۗ.ۥ(91DX:31)
+	at l.ۨۜۗ.ۜۥ(D1KF:814)
+	at l.۟ۨۗ.ۜ(21K0:514)
+	at l.ۡۦ۬ۥ.ۥ(64W3:115)
+	at l.۠ۦ۬ۥ.run(3ATJ:0)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1137)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:637)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: l.ۨۚ۟ۛ: Not a valid dex magic value: 50 4b 03 04 14 00 00 00
+	at l.۬۠ۦۛ.ۥ(E5LG:664)
+	at l.۬۠ۦۛ.ۥ(E5LG:74)
+	at l.ۜۚ۟ۛ.ۥ(45S6:206)
+	at l.ۚ۫ۗ.ۛ(91DX:85)
+	... 8 more
